@@ -8,11 +8,6 @@
 
     <link rel="stylesheet" href="{{ asset('css/style.css')}}">
 
-
-    <!--[if lt IE 9]>
-        <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-        <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
 </head>
 
 <body data-spy="scroll" data-target="#primary-menu">
@@ -133,8 +128,8 @@
                         <br><br><br><br><br><br>
                         <h4>Kampiun</h4>
                         <p>Kampiun merupakan media pembelajaran yang berupa knowledge sharing  antar
-                            karyawan PT Telkom adalah dengan  artikel operasional sehari-hari mulai dari  penelitian, inovasi, sampai SOP
-                            penyelesaian masalah.</p>
+                           karyawan PT Telkom adalah dengan  artikel operasional sehari-hari mulai dari  penelitian, inovasi, sampai SOP
+                           penyelesaian masalah.</p>
                     </div>
                 </div>
             </div>
@@ -250,7 +245,7 @@
                                     </div>
                                     <div class="col-xs-6 col-md-3">
                                         <div class="caption-photo one" data-animation="animated fadeInRight">
-                                            <img src="images/telkom13.jpg" alt="">
+                                            <img src="images/asro.jpg" alt="">
                                         </div>
                                     </div>
                                     <div class="col-xs-6 col-md-3">
@@ -264,16 +259,16 @@
                         <!-- Indicators -->
                         <ol class="carousel-indicators caption-indector">
                             <li data-target="#caption_slide" data-slide-to="0" class="active">
-                                <strong>Leadership Training </strong>Center of Excellence
+                                <strong>Ketua Asrama </strong>Ketua Asrama Rahadi Oesman Bandung
                             </li>
                             <li data-target="#caption_slide" data-slide-to="1">
-                                <strong>Digital Learning </strong>Center of Excellence
+                                <strong>Wakil Ketua Asrama</strong>Ketua Asrama Rahadi Oesman Bandung
                             </li>
                             <li data-target="#caption_slide" data-slide-to="2">
-                                <strong>Business Recommendation </strong>Center of Excellence
+                                <strong>Seketraris Asrama</strong>Seketaris Asrama
                             </li>
                             <li data-target="#caption_slide" data-slide-to="3">
-                                <strong>Achievements </strong>Center of Excellence
+                                <strong>Kominfo </strong>Kominfo Asrama
                             </li>
                         </ol>
                     </div>
@@ -289,8 +284,10 @@
             <div class="row">
                 <div class="col-xs-12 col-sm-6 col-sm-offset-3 text-center">
                     <div class="page-title">
-                        <h2>SPECIAL FEATURES</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit voluptates, temporibus at, facere harum fugiat!</p>
+                        <h2>Badan Pengurus Arsma Rahadi Oesman Bandung</h2>
+                        <p>
+                            Berikut adalah Badan Pengurus Asrama Rahadi Oesman Bandung Tahun 2019 Hasil Musta XXXXX
+                        </p>
                     </div>
                 </div>
             </div>
@@ -300,8 +297,8 @@
                         <div class="box-icon">
                             <img src="images/telkom16.jpg" alt="">
                         </div>
-                        <h3>Creative Design</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque quas nulla est adipisci,</p>
+                        <h3>Syarif Abdurahman</h3>
+                        <p>Sebagai Ketua Asrama Rahadi Oesman Bandung</p>
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-6 col-md-4">
@@ -309,8 +306,8 @@
                         <div class="box-icon">
                             <img src="images/telkom17.jpg" alt="">
                         </div>
-                        <h3>Unlimited Features</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque quas nulla est adipisci,</p>
+                        <h3>Hendrikus</h3>
+                        <p>Sebagai Wakil Ketua Asrama Rahadi Oesman Bandung</p>
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-6 col-md-4">
@@ -318,8 +315,8 @@
                         <div class="box-icon">
                             <img src="images/telkom18.jpg" alt="">
                         </div>
-                        <h3>Full Free Chat</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque quas nulla est adipisci,</p>
+                        <h3>Wilemus Igo Gonzaga</h3>
+                        <p>Selaku Seketaris Asrama rahadioesman Bandung</p>
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-6 col-md-4">
@@ -327,8 +324,8 @@
                         <div class="box-icon">
                             <img src="images/telkom19.jpg" alt="">
                         </div>
-                        <h3>Retina ready</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque quas nulla est adipisci,</p>
+                        <h3>Heronselianus</h3>
+                        <p>Selaku Kominfo Asrama Rahadi Oesman Bandung</p>
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-6 col-md-4">
@@ -336,8 +333,8 @@
                         <div class="box-icon">
                             <img src="images/telkom2.jpg" alt="">
                         </div>
-                        <h3>High Resolution</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque quas nulla est adipisci,</p>
+                        <h3>Indra</h3>
+                        <p>Selaku Bendahara Asrama Rahadi Oesman Bandung</p>
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-6 col-md-4">
@@ -345,8 +342,35 @@
                         <div class="box-icon">
                             <img src="images/telkom21.jpg" alt="">
                         </div>
-                        <h3>Clean Codes</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque quas nulla est adipisci,</p>
+                        <h3>Irvan</h3>
+                        <p>Selaku Minat dan Bakat Asrama Rahadi Oesman Bandung</p>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-6 col-md-4">
+                    <div class="box">
+                        <div class="box-icon">
+                            <img src="images/telkom21.jpg" alt="">
+                        </div>
+                        <h3>Stepano Ramalo Bibit</h3>
+                        <p>Selaku Kerohanian Asrama Rahadi Oesman Bandung</p>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-6 col-md-4">
+                    <div class="box">
+                        <div class="box-icon">
+                            <img src="images/telkom21.jpg" alt="">
+                        </div>
+                        <h3>Juan Karlo Kanaya</h3>
+                        <p>Selaku Kebersihan Asrama Rahadi Oesman Bandung</p>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-6 col-md-4">
+                    <div class="box">
+                        <div class="box-icon">
+                            <img src="images/telkom21.jpg" alt="">
+                        </div>
+                        <h3>Okang</h3>
+                        <p>Selaku Iventaris Asrama Rahadi Oesman Bandung</p>
                     </div>
                 </div>
             </div>
@@ -358,8 +382,8 @@
             <div class="row">
                 <div class="col-xs-12 col-sm-6 col-sm-offset-3 text-center">
                     <div class="page-title">
-                        <h2>Client says</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit voluptates, temporibus at, facere harum fugiat!</p>
+                        <h2>Kegiatan Tahunan Asrama</h2>
+                        <p>Kegiatan Tahunan asrama Rahadi Oesman Bandung</p>
                     </div>
                 </div>
             </div>
@@ -370,43 +394,47 @@
                             <div class="testimonial-photo">
                                 <img src="images/telkom7.jpg" alt="">
                             </div>
-                            <h3>AR Rahman</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel vero dolore officiis, velit id libero illum harum hic magni, quae repellendus adipisci possimus saepe nostrum doloribus repudiandae asperiores commodi voluptate.</p>
+                            <h3>Kegiatan Sosial</h3>
+                            <p>Kegiatan Sosial Asrama Rahi Oesman Bandung, tentunya menjadi kewajiban bagi setiap 
+                               anggota asrama guna menumbuhkan jiwa sosial yang tinggi terhadap orang-orang disekitar.
+                            </p>
                         </div>
                         <div class="testimonial">
                             <div class="testimonial-photo">
                                 <img src="images/telkom8.jpg" alt="">
                             </div>
-                            <h3>AR Rahman</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel vero dolore officiis, velit id libero illum harum hic magni, quae repellendus adipisci possimus saepe nostrum doloribus repudiandae asperiores commodi voluptate.</p>
+                            <h3>Olahraga</h3>
+                            <p>Kegiatan Olahraga Asrama Rahi Oesman Bandung, tentunya menjadi kewajiban bagi setiap 
+                               anggota asrama guna menumbuhkan jiwa sosial yang tinggi terhadap orang-orang disekitar.
+                            </p>
                         </div>
                         <div class="testimonial">
                             <div class="testimonial-photo">
                                 <img src="images/telkom13.jpg" alt="">
                             </div>
-                            <h3>AR Rahman</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel vero dolore officiis, velit id libero illum harum hic magni, quae repellendus adipisci possimus saepe nostrum doloribus repudiandae asperiores commodi voluptate.</p>
+                            <h3>Musyawarah</h3>
+                            <p>Kegiatan Wajib Asrama Rahadi Oesman Bandung, tentunya menjadi kewajiban bagi setiap 
+                               anggota asrama guna mengevaluasi setiap bulannya kegiatan yang berjalan maupun yang sedang berjalan
+                               demi meningkatkan kematangan disetiap pengambilan keputusan.
+                            </p>
                         </div>
                         <div class="testimonial">
                             <div class="testimonial-photo">
                                 <img src="images/telkom7.jpg" alt="">
                             </div>
-                            <h3>AR Rahman</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel vero dolore officiis, velit id libero illum harum hic magni, quae repellendus adipisci possimus saepe nostrum doloribus repudiandae asperiores commodi voluptate.</p>
+                            <h3>Keagamaan</h3>
+                            <p>Kegiatan Keagamaan Asrama Rahadi Oesman Bandung, harapannya membentuk manusia-manusia yang taat pada agamanya
+                                serata memperkokoh rasa kepeduian dan toleransi terhadap orang disekitar.
+                            </p>
                         </div>
                         <div class="testimonial">
                             <div class="testimonial-photo">
                                 <img src="images/telkom8.jpg" alt="">
                             </div>
-                            <h3>AR Rahman</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel vero dolore officiis, velit id libero illum harum hic magni, quae repellendus adipisci possimus saepe nostrum doloribus repudiandae asperiores commodi voluptate.</p>
-                        </div>
-                        <div class="testimonial">
-                            <div class="testimonial-photo">
-                                <img src="images/telkom13.jpg" alt="">
-                            </div>
-                            <h3>AR Rahman</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel vero dolore officiis, velit id libero illum harum hic magni, quae repellendus adipisci possimus saepe nostrum doloribus repudiandae asperiores commodi voluptate.</p>
+                            <h3>Makrab</h3>
+                            <p>Kegiatan Makrab Asrama Rahadi Oesman Bandung, tentunya menjadi wadah bagi mahasiswa-mahasiswa daerah kalimantan barat khusunya
+                                pertemuan dan perkenalan mahasiswa kalbar bandung yang dalam masa mengenyam pendidikan di bandung
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -425,7 +453,7 @@
                     <div class="col-xs-12 col-sm-6 col-sm-offset-3 text-center">
                         <div class="page-title">
                             <h2>Register</h2>
-                            <p>Input Registrasi Peserta Pelatihan</p>
+                            <p>Input Registrasi Peserta Calon Penguni</p>
                         </div>
                     </div>
                 </div>
@@ -443,8 +471,8 @@
                                     <img src="images/phone-arrow.png" alt="">
                                 </div>
                                 <p><strong>Telephone: </strong>
-                                    <a href="callto:8801812726495">(022) 2016907</a> <br />
-                                    <a href="callto:8801687420471">(022) 2017204</a>
+                                    <a href="callto:8801812726495">(022) 2005199</a> <br />
+                                    <a href="callto:8801687420471">082-214-667-037</a>
                                 </p>
                             </div>
                             <div class="side-icon-box">
@@ -452,8 +480,8 @@
                                     <img src="images/mail-arrow.png" alt="">
                                 </div>
                                 <p><strong>E-mail: </strong>
-                                    <a href="mailto:youremail@example.com">corporate_comm@telkom.co.id</a> <br />
-                                    <a href="mailto:youremail@example.com">example@mail.com</a>
+                                    <a href="mailto:youremail@example.com">asro.kalbar.bandung@gmail.com</a> <br />
+                                    <a href="mailto:youremail@example.com">heronselianus_1440244_piksi@yahoo.com</a>
                                 </p>
                             </div>
                         </address>
@@ -474,91 +502,50 @@
                             <input type="text" id="form-phone-num" name="form-phone-number" class="form-control" placeholder="Phone Number">
                             <div class="form-group">
                             <textarea class="form-control" name="form-address" id="form-address" rows="3"placeholder="Address"></textarea>
+                            </div>          
+                            <div class="form-group">
+                                <select class="form-control" name="select-state" id="select-state">
+                                <option value="">Provinsi..</option>
+                                <option value="Aceh">Kalimantan Barat</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <select class="form-control" name="select-city" id="select-city">
+                                <option value="">Kabupaten...</option>
+                                <option value="Ambon"></option>
+                                <option value="Bandung">Kabupten Bengkayang</option>
+                                <option value="Banjarmasin">Kabupaten Landak</option>
+                                <option value="Banda Aceh">Kabupaten Kayong Utara</option>
+                                <option value="bengkulu">kabupaten Pontianak</option>
+                                <option value="Denpasar">Kabupaten Kubu Raya</option>
+                                <option value="Gorontalo">Kabupaten Melawi</option>
+                                <option value="Jakarta">Kabupaten Sanggau</option>
+                                <option value="Jayapura">Kabupaten Mempawah</option>
+                                <option value="Jambi">kabupaten Sekadau</option>
+                                <option value="Kendari">Kabupaten Sintang</option>
+                                <option value="Kupang">Kabupaten Singkawang</option>
+                                <option value="Mamuju">Kabupaten Kapuas Hulu</option>                     
+                                <option value="Mamuju">Kabupaten Sambas</option>   
+                                </select>
                             </div>
                             <div class="form-group">
                                 <select class="form-control" name="select-city" id="select-city">
                                 <option value="">Kota...</option>
-                                <option value="Ambon">Ambon</option>
-                                <option value="Bandung">Bandung</option>
-                                <option value="Banjarmasin">Banjarmasin</option>
-                                <option value="Bandar Lampung">Bandar Lampung</option>
-                                <option value="Banda Aceh">Banda Aceh</option>
-                                <option value="bengkulu">Bengkulu</option>
-                                <option value="Denpasar">Denpasar</option>
-                                <option value="Gorontalo">Gorontalo</option>
-                                <option value="Jakarta">Jakarta</option>
-                                <option value="Jayapura">Jayapura</option>
-                                <option value="Jambi">Jambi</option>
-                                <option value="Kendari">Kendari</option>
-                                <option value="Kupang">Kupang</option>
-                                <option value="Mamuju">Mamuju</option>
-                                <option value="Manado">Manado</option>
-                                <option value="Manokowari">Manokowari</option>
-                                <option value="Mataram">Mataram</option>
-                                <option value="Makasar">Makasar</option>
-                                <option value="Medan">Medan</option>
-                                <option value="Padang">Padang</option>
-                                <option value="Pangkalpinang">Pangkal Pinang</option>
-                                <option value="Palu">Palu</option>
-                                <option value="Palembang">Palembang</option>
-                                <option value="Palangkaraya">Palangkaraya</option>
-                                <option value="Pekanbaru">Pekanbaru</option>
-                                <option value="Pontianak">Pontianak</option>
-                                <option value="Samarinda">Samarinda</option>
-                                <option value="Semarang">Semarang</option>
-                                <option value="Serang">Serang</option>
-                                <option value="Sofifi">Sofifi</option>
-                                <option value="Surabaya">Surabaya</option>
-                                <option value="Tanjungselor">Tanjungselor</option>
-                                <option value="Tanjung Pinang">Tanjung Pinang</option>
-                                <option value="Yogyakarta">Yogyakarta</option>                              
+                                <option value="Ambon"></option>
+                                <option value="Bandung">Bengkayang</option>
+                                <option value="Banjarmasin">Ngabang</option>
+                                <option value="Banda Aceh">Naga Pinoh</option>
+                                <option value="bengkulu">Pontianak</option>
+                                <option value="Denpasar">Sungai Pinuh</option>
+                                <option value="Gorontalo">Sambas</option>
+                                <option value="Jakarta">Sanggau</option>
+                                <option value="Jayapura">Sekadau</option>
+                                <option value="Jambi">Sintang</option>
+                                <option value="Kendari">Kubu</option>
+                                <option value="Kupang">Ketapang</option>
+                                <option value="Mamuju">Putusibau</option>                     
                                 </select>
                             </div>               
-                            <div class="form-group">
-                                <select class="form-control" name="select-state" id="select-state">
-                                <option value="">Provinsi..</option>
-                                <option value="Aceh">Aceh</option>
-                                <option value="Provinsi Banten">Banten</option>
-                                <option value="DKI Jakarta"> DKI Jakarta</option>
-                                <option value="Jawa Barat">Jawa Barat</option>
-                                <option value="Jawa Tengah">Jawa Tengah</option>
-                                <option value="Jawa Timur">Jawa Timur</option>
-                                <option value="Kalimantan Barat">Kalimantan Barat</option>
-                                <option value="Kalimantan Selatan">Kalimantan Selatan</option>
-                                <option value="Kalimantan Tengah">Kalimantan Tengah</option>
-                                <option value="Kalimantan Timur">Kalimantan Timur</option>
-                                <option value="Kalimantan Utara">Kalimantan Utara</option>
-                                <option value="Sulawesi Barat">Sulawesi Barat</option>
-                                <option value="Sulawesi Selatan">Sulawesi Selatan</option>
-                                <option value="Sulawesi Tengah">Sulawesi Tengah</option>
-                                <option value="Sulawesi Tengara">Sulawesi Tengara</option>
-                                <option value="Sumatra Barat">Sumatra Barat</option>
-                                <option value="Sumatra Selatan">Sumatra Selatan</option>
-                                <option value="Sumatra Utara">Sumatra Utara</option>
-                                <option value="Maluku">Maluku</option>
-                                <option value="Maluku Utara">Maluku Utara</option>                                                     
-                                <option value="Nusa Tenggara Barat">Nussa Tenggara Barat</option>
-                                <option value="Nusa Tenggara Timur">Nusa Tengara Timur</option>
-                                <option value="Papua">Papua</option>
-                                <option value="Papua Barat">Papua Barat</option>
-                                <option value="Kepulauan Riau">Kepulauan Riau</option>
-                                <option value="Kepulauan Bangka Belitung">Kepulauan Bangka Belitung</option>
-                                <option value="Jambi">Jambi</option>
-                                <option value="Bali">Bali</option>
-                                <option value="Lampung">Lampung</option>
-                                <option value="Yogyakarta">Yogyakarta</option>
-                                <option value="Gorontalo">Gorontalo</option>                 
-                                <option value="Bengkulu">Bengkulu</option>
-                                </select>
-                            </div>
-                            <div class="form-group">
-                                <label for="Program">Program Pelatihan Telkom CorpU</label>
-                                <select class="form-control" name="select-program" id="select-program">
-                                <option value="Pelatihan Kepemimpinan">Pelatihan Kepemimpinan</option>
-                                <option value="Pelatihan Digital">Pelatihan Digital Learning</option>
-                                <option value="Pelatihan Kampiun">Pelatihan Kampiun</option>
-                                </select>
-                            </div>                   
                             <div class="form-group">
                                 <label for="upload-photo">Upload Photo</label>
                                 <input type="file" name="form-photo" id="select-photo" value="image" />
