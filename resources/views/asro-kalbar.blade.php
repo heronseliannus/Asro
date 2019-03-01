@@ -47,7 +47,7 @@
                     <li><a href="#blog-page">Galery</a></li>
                     <li><a href="#register">Pendaftaran</a></li>
                     <li><a href="#contact-page">Contact</a></li>
-                    <li><a href="/nilai">Cek Nilai</a></li>
+                    <li><a href="/nilai">Daftar Penghuni</a></li>
                     <li><a href="/login">Login</a></li>
                 </ul>
             </nav>
@@ -63,32 +63,29 @@
         <div class="container">
             <div class="row v-center">
                 <div class="col-xs-12 col-md-7 header-text">
-                    <h2>Center of Excellence</h2>
-                    <p>Telkom Corporate University (Telkom CorpU) didefinisikan sebagai  wahana strategis
-                       yang dirancang untuk mendukung pencapaian misi perusahaan dengan melakukan
-                       kegiatan-kegiatan untuk memperkuat dan  memperkokoh kemampuan belajar individu
-                       dan organisasi dalam rangka  membentuk Center of Excellence. Dengan adanya
-                       pencanangan program Center  of Excellence dengan Telkom CorpU, maka Telkom
-                       melakukan langkah  breakthrough dengan menyempurnakan integrasi sesuai dengan
-                       konsep CorpU  yang ideal.</p>
-                    <a href="#" class="button white">Watch video</a>
+                    <h2>Asrama Rahadi Oesman Bandung</h2>
+                    <p>Asrama Rahadi Oesman biasa disingkat ASRO merupakan aset pemerintah provinsi Kalimantan Barat
+                    dalam bentuk banggunan, yang antaralain adalah bangunan Asrama Putra Kalimantan Barat yang didirikan 
+                    pada tahun XXXX, yang diharapkan sebagai wadah nantinya menapung para Mahasiswa yang berasal dari darerah
+                    Provinsi KALIMANTAN BARAT yang dalam  tahap mengenyam pendidikan dikota-kota besar di seluruh wilayah pulau Jawa.</p>
+                    <a href="#" class="button white">Baca Lebih Lanjud</a>
                 </div>
                 <div class="hidden-xs hidden-sm col-md-4 text-right">
                     <div class="screen-box screen-slider">
                         <div class="item">
-                            <img src="images/telkom1.jpg" alt="">
+                            <img src="images/asro1.jpg" alt="">
                         </div>
                         <div class="item">
-                            <img src="images/telkom2.jpg" alt="">
+                            <img src="images/asro2.jpg" alt="">
                         </div>
                         <div class="item">
-                            <img src="images/telkom3.jpg" alt="">
+                            <img src="images/asro3.jpg" alt="">
                         </div>
                         <div class="item">
-                            <img src="images/telkom4.jpg" alt="">
+                            <img src="images/asro4.jpg" alt="">
                         </div>
                         <div class="item">
-                            <img src="images/telkom5.jpg" alt="">
+                            <img src="images/asro5.jpg" alt="">
                         </div>
                     </div>
                 </div>
