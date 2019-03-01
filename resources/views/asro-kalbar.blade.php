@@ -2,12 +2,34 @@
 <html lang="{{ app()->getLocale() }}">
 
 <head>
-
+    <meta charset="utf-8">
+    <meta name="author" content="John Doe">
+    <meta name="description" content="">
+    <meta name="keywords" content="HTML,CSS,XML,JavaScript">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="csrf-token" content="{{ csrf_token() }}">
     <!-- Title -->
-    <title>Asro Kalbar</title>
-
+    <title>Asro Bandung</title>
+    <!-- Place favicon.ico in the root directory -->
+    <link rel="tcu-regular.png" href="images/atcu-regular.png">
+    <link rel="shortcut icon" type="image/tcu-regular.png" href="images/telkom.png" />
+    <!-- Plugin-CSS -->
+    <link rel="stylesheet" href="{{ asset('css/bootstrap.min.css') }}">
+    <link rel="stylesheet" href="{{ asset('css/owl.carousel.min.css')}}">
+    <link rel="stylesheet" href="{{ asset('css/themify-icons.css')}}">
+    <link rel="stylesheet" href="{{ asset('css/magnific-popup.css')}}">
+    <link rel="stylesheet" href="{{ asset('css/animate.css')}}">
+    <!-- Main-Stylesheets -->
+    <link rel="stylesheet" href="{{ asset('css/normalize.css')}}">
     <link rel="stylesheet" href="{{ asset('css/style.css')}}">
+    <link rel="stylesheet" href="{{ asset('css/responsive.css')}}">
+    <script src="{{ asset('js/vendor/modernizr-2.8.3.min.js')}}"></script>
 
+    <!--[if lt IE 9]>
+        <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
 </head>
 
 <body data-spy="scroll" data-target="#primary-menu">
@@ -792,7 +814,19 @@
             </div>
         </div>
     </footer>
-
+    <!--Vendor-JS-->
+    <script src="{{ asset('js/vendor/jquery-1.12.4.min.js')}}"></script>
+    <script src="{{ asset('js/vendor/bootstrap.min.js')}}"></script>
+    <!--Plugin-JS-->
+    <script src="{{ asset('js/owl.carousel.min.js')}}"></script>
+    <script src="{{ asset('js/contact-form.js')}}"></script>
+    <script src="{{ asset('js/jquery.parallax-1.1.3.js')}}"></script>
+    <script src="{{ asset('js/scrollUp.min.js')}}"></script>
+    <script src="{{ asset('js/magnific-popup.min.js')}}"></script>
+    <script src="{{ asset('js/wow.min.js')}}"></script>
+    <script src="{{ asset('js/testing.js')}}"></script>
+    <!--Main-active-JS-->
+    <script src="{{ asset('js/main.js')}}"></script>
 
 </body>
 
