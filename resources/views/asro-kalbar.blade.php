@@ -4,7 +4,7 @@
 <head>
 
     <!-- Title -->
-    <title>Telkom CorpU</title>
+    <title>Asro Kalbar</title>
 
     <link rel="stylesheet" href="{{ asset('css/style.css')}}">
 
