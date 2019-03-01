@@ -47,8 +47,8 @@
                     <li><a href="#blog-page">Galery</a></li>
                     <li><a href="#register">Pendaftaran</a></li>
                     <li><a href="#contact-page">Contact</a></li>
-                    <li><a href="/nilai">Daftar Penghuni</a></li>
-                    <li><a href="/login">Login</a></li>
+                    <li><a href="#">Daftar Penghuni</a></li>
+                    <li><a href="#">Login</a></li>
                 </ul>
             </nav>
         </div>
@@ -106,19 +106,20 @@
                             <img src="images/telkom6.jpg" alt="">
                         </div>
                         <br><br><br><br><br><br>
-                        <h4>Pelatihan Kepemimpinan</h4>
-                        <p>Melalui Telkom Corporate University, Telkom melahirkan leader-leader  masa depan
-                            yang berkualitas dan berkelas internasional atau great  leader.
+                        <h4>Ketua Asrama</h4>
+                        <p>Description :
+                            Status : Ketua Asrama, berasal dari Kota Pontianak, dilantik pada musta ke - XXXX
+                            berkuliah di Universitas Pendidikan Indonesia, Jurusan Pendidikan Olahraga S1.
                             </p>
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-4">
                     <div class="box">
                         <div class="box-icon">
-                            <img src="images/telkom2.jpg" alt="">
+                            <img src="images/asro2.jpg" alt="">
                         </div>
                         <br><br><br><br><br><br>
-                        <h4>Digital Learning</h4>
+                        <h4>Wakil</h4>
                         <p>Telkom Digital Learning adalah media pembelajaran elektronik  berbasis web (web-
                             based) yang digunakan dalam proses belajar-mengajar,  baik yang bersifat mandiri
                             maupun wajib.</p>
@@ -151,18 +152,21 @@
                                 <div class="v-center">
                                     <div class="col-xs-12 col-md-6">
                                         <div class="caption-title" data-animation="animated fadeInUp">
-                                            <h2>PELATIHAN KEPEMIMPINAN</h2>
+                                            <h2>Ketua Asrama Kalbar - Bandung</h2>
                                         </div>
                                         <div class="caption-desc" data-animation="animated fadeInUp">
-                                            <p>Melalui Telkom Corporate University, Telkom melahirkan leader-leader  masa depan yang berkualitas dan berkelas internasional atau great  leader</p>
+                                            <p>Description :
+                                               Status : Ketua Asrama, berasal dari Kota Pontianak, dilantik pada musta ke - XXXX
+                                               berkuliah di Universitas Pendidikan Indonesia, Jurusan Pendidikan Olahraga S1.
+                                            </p>
                                         </div>
                                         <div class="caption-button" data-animation="animated fadeInUp">
-                                            <a href="#" class="button">Read more</a>
+                                            <a href="#" class="button">Lihat Profile</a>
                                         </div>
                                     </div>
                                     <div class="col-xs-6 col-md-3">
                                         <div class="caption-photo one" data-animation="animated fadeInRight">
-                                            <img src="images/telkom7.jpg" alt="">
+                                            <img src="images/ketua1.jpg" alt="">
                                         </div>
                                     </div>
                                     <div class="col-xs-6 col-md-3">
@@ -176,19 +180,21 @@
                                 <div class="v-center">
                                     <div class="col-xs-12 col-md-6">
                                         <div class="caption-title" data-animation="animated fadeInUp">
-                                            <h2>Digital Learning</h2>
+                                            <h2>Waklil Ketua</h2>
                                         </div>
                                         <div class="caption-desc" data-animation="animated fadeInUp">
-                                            <p>Melalui Telkom Corporate University, Telkom melahirkan leader-leader  masa depan
-                                               yang berkualitas dan berkelas internasional atau great  leader</p>
+                                            <p>Description :
+                                               Status : Waklil Ketua Asrama, berasal dari Kota Ngabang, dilantik pada musta ke - XXXX
+                                               berkuliah di Universitas Jendral Ahmach Yani, Jurusan Teknik Sipil S1.
+                                            </p>
                                         </div>
                                         <div class="caption-button" data-animation="animated fadeInUp">
-                                            <a href="#" class="button">Read more</a>
+                                            <a href="#" class="button">Lihat Profile</a>
                                         </div>
                                     </div>
                                     <div class="col-xs-6 col-md-3">
                                         <div class="caption-photo one" data-animation="animated fadeInRight">
-                                            <img src="images/telkom9.jpg" alt="">
+                                            <img src="images/asro2.jpg" alt="">
                                         </div>
                                     </div>
                                     <div class="col-xs-6 col-md-3">
@@ -202,16 +208,16 @@
                                 <div class="v-center">
                                     <div class="col-xs-12 col-md-6">
                                         <div class="caption-title" data-animation="animated fadeInUp">
-                                            <h2>Business Recommendation</h2>
+                                            <h2>Seketaris ASRO</h2>
                                         </div>
                                         <div class="caption-desc" data-animation="animated fadeInUp">
-                                            <p>Selain event pelatihan dan knowledge management, dalam rangka  membantu
-                                                perusahaan mencapai visi dan misi yang telah dicanangkan,  Telkom Corpu juga
-                                                melakukan kolaborasi dan penelitian yang menghasilkan  Business Recommendation.
-                                                Selama tahun 2015, Telkom CorpU berhasil  men-deliver 29 rekomendasi bisnis.</p>
+                                            <p>Description :
+                                               Status : Seketaris Asrama, berasal dari Kota Karangan, dilantik pada musta ke - XXXX
+                                               berkuliah di Sekolah Tinggi Boromeus, Jurusan Keperawatan D3.
+                                            </p>
                                         </div>
                                         <div class="caption-button" data-animation="animated fadeInUp">
-                                            <a href="#" class="button">Read more</a>
+                                            <a href="#" class="button">Lihat Profile</a>
                                         </div>
                                     </div>
                                     <div class="col-xs-6 col-md-3">
@@ -230,15 +236,16 @@
                                 <div class="v-center">
                                     <div class="col-xs-12 col-md-6">
                                         <div class="caption-title" data-animation="animated fadeInUp">
-                                            <h2>Achievements</h2>
+                                            <h2>Kominfo</h2>
                                         </div>
                                         <div class="caption-desc" data-animation="animated fadeInUp">
-                                            <p>Telkom telah membuktikan eksistensinya dalam pengelolaan learning  yang ditunjukkan
-                                                melalui penghargaan dalam ajang bergengsi tahunan seperti Most Admired Knowledge
-                                                Enterprise (MAKE) Study Award dan Global  Council of Corporate Universities (GCCU).</p>
+                                            <p>Description :
+                                               Status : Kominfo asrama, berasal dari Kota Ngabang, dilantik pada musta ke - XXXX
+                                               berkuliah di Politeknik Piksi Ganesha Bandung, Jurusan Manajemen Informatika D4.
+                                            </p>
                                         </div>
                                         <div class="caption-button" data-animation="animated fadeInUp">
-                                            <a href="#" class="button">Read more</a>
+                                            <a href="#" class="button">Lihat Profile</a>
                                         </div>
                                     </div>
                                     <div class="col-xs-6 col-md-3">
