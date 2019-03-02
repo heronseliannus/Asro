@@ -15,7 +15,7 @@
     <link rel="logo.jpg" href="images/logo.jpg">
     <link rel="shortcut icon" type="image/logo.jpg" href="images/logo.jpg" />
     <!-- Plugin-CSS -->
-    <link rel="stylesheet" href="{{ asset('css/bootstrap.min.css') }}">
+    <link rel="stylesheet" href="{{ asset('css/bootstrap.min.css')}}">
     <link rel="stylesheet" href="{{ asset('css/owl.carousel.min.css')}}">
     <link rel="stylesheet" href="{{ asset('css/themify-icons.css')}}">
     <link rel="stylesheet" href="{{ asset('css/magnific-popup.css')}}">
@@ -27,8 +27,8 @@
     <script src="{{ asset('js/vendor/modernizr-2.8.3.min.js')}}"></script>
 
  
-        <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-        <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+        <!-- <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script> -->
 
 </head>
 
@@ -93,7 +93,7 @@
                             <img src="images/asro2.jpg" alt="">
                         </div>
                         <div class="item">
-                            <img src="images/#.jpg" alt="">
+                            <img src="images/asro1.jpg" alt="">
                         </div>
                         <div class="item">
                             <img src="images/#.jpg" alt="">
@@ -122,7 +122,7 @@
                         <div class="box-icon">
                             <img src="images/asro2.jpg" alt="">
                         </div>
-                        <br><br><br><br><br><br>
+                        <br><br><br>
                         <h4>Ketua Asrama</h4>
                         <p>Description :
                             Status : Ketua Asrama, berasal dari Kota Pontianak, dilantik pada musta ke - XXXX
@@ -147,8 +147,8 @@
                         <div class="box-icon">
                             <img src="images/asro2.jpg" alt="">
                         </div>
-                        <br><br><br><br><br><br>
-                        <h4>Kampiun</h4>
+                        <br><br><br>
+                        <h4>Seketaris</h4>
                         <p>Kampiun merupakan media pembelajaran yang berupa knowledge sharing  antar
                            karyawan PT Telkom adalah dengan  artikel operasional sehari-hari mulai dari  penelitian, inovasi, sampai SOP
                            penyelesaian masalah.</p>
@@ -684,7 +684,7 @@
                 <div class="col-xs-12 col-sm-4">
                     <div class="single-blog">
                         <div class="blog-photo">
-                            <img src="images/telkom16.jpg" alt="">
+                            <img src="images/asro2.jpg" alt="">
                         </div>
                         <div class="blog-content">
                             <h3><a href="#">Kegiatan Tahunan Telkom CorpU</a></h3>
@@ -699,7 +699,7 @@
                 <div class="col-xs-12 col-sm-4">
                     <div class="single-blog">
                         <div class="blog-photo">
-                            <img src="images/telkom17.jpg" alt="">
+                            <img src="images/asro2.jpg" alt="">
                         </div>
                         <div class="blog-content">
                             <h3><a href="#">Kegiatan Tahunan Telkom CorpU</a></h3>
@@ -714,7 +714,7 @@
                 <div class="col-xs-12 col-sm-4">
                     <div class="single-blog">
                         <div class="blog-photo">
-                            <img src="images/telkom18.jpg" alt="">
+                            <img src="images/asro2.jpg" alt="">
                         </div>
                         <div class="blog-content">
                             <h3><a href="#">Kegiatan Tahunan Telkom CorpU</a></h3>
@@ -832,7 +832,6 @@
     <script src="{{ asset('js/scrollUp.min.js')}}"></script>
     <script src="{{ asset('js/magnific-popup.min.js')}}"></script>
     <script src="{{ asset('js/wow.min.js')}}"></script>
-    <script src="{{ asset('js/testing.js')}}"></script>
     <!--Main-active-JS-->
     <script src="{{ asset('js/main.js')}}"></script>
 
