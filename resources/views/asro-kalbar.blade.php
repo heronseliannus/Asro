@@ -26,10 +26,10 @@
     <link rel="stylesheet" href="{{ asset('css/responsive.css')}}">
     <script src="{{ asset('js/vendor/modernizr-2.8.3.min.js')}}"></script>
 
-    <!--[if lt IE 9]>
+ 
         <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
         <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
+
 </head>
 
 <body data-spy="scroll" data-target="#primary-menu">
@@ -52,7 +52,7 @@
                     <span class="icon-bar"></span>
                 </button>
                 <a href="#" class="navbar-brand logo">
-                    <img src="images/logo.jpg" width="200" height="100" alt="">
+                    <img src="images/logo2.png" width="200" height="100" alt="">
                 </a>
             </div>
             <!--Logo/-->
