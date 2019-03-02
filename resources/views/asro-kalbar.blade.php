@@ -135,7 +135,7 @@
                         <div class="box-icon">
                             <img src="images/asro2.jpg" alt="">
                         </div>
-                        <br><br><br><br><br><br>
+                        <br><br><br>
                         <h4>Wakil</h4>
                         <p>Telkom Digital Learning adalah media pembelajaran elektronik  berbasis web (web-
                             based) yang digunakan dalam proses belajar-mengajar,  baik yang bersifat mandiri
@@ -158,6 +158,7 @@
         </div>
     </section>
     <!--Feature-area/-->
+
 
     <section class="angle-bg sky-bg section-padding">
         <div class="container">
@@ -281,16 +282,16 @@
                         <!-- Indicators -->
                         <ol class="carousel-indicators caption-indector">
                             <li data-target="#caption_slide" data-slide-to="0" class="active">
-                                <strong>Ketua Asrama </strong>Ketua Asrama Rahadi Oesman Bandung
+                                <strong>Leadership Training </strong>Center of Excellence
                             </li>
                             <li data-target="#caption_slide" data-slide-to="1">
-                                <strong>Wakil Ketua Asrama</strong>Ketua Asrama Rahadi Oesman Bandung
+                                <strong>Digital Learning </strong>Center of Excellence
                             </li>
                             <li data-target="#caption_slide" data-slide-to="2">
-                                <strong>Seketraris Asrama</strong>Seketaris Asrama
+                                <strong>Business Recommendation </strong>Center of Excellence
                             </li>
                             <li data-target="#caption_slide" data-slide-to="3">
-                                <strong>Kominfo </strong>Kominfo Asrama
+                                <strong>Achievements </strong>Center of Excellence
                             </li>
                         </ol>
                     </div>
@@ -298,6 +299,7 @@
             </div>
         </div>
     </section>
+
 
 
 
@@ -799,7 +801,9 @@
                         </ul>
                     </div>
                     <div class="col-xs-12 col-sm-6">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id corrupti architecto consequuntur, laborum quaerat sed nemo temporibus unde, beatae vel.</p>
+                        <p>untuk info lebih lengkap, dapat menghubungi kami dengan akun media sosial kami.
+                            suport kami membangun webside ini menjadi lebih baik lagi. trimakasih
+                        </p>
                     </div>
                 </div>
             </div>
@@ -808,12 +812,16 @@
             <div class="container">
                 <div class="row">
                     <div class="col-xs-12 text-center">
-                        <p>Heronselianus &copy;Copyright 2018 All right resurved.  </p>
+                        <p>Heronselianus &copy;Copyright 2019 All right resurved.  </p>
                     </div>
                 </div>
             </div>
         </div>
     </footer>
+
+
+
+
     <!--Vendor-JS-->
     <script src="{{ asset('js/vendor/jquery-1.12.4.min.js')}}"></script>
     <script src="{{ asset('js/vendor/bootstrap.min.js')}}"></script>
@@ -829,5 +837,4 @@
     <script src="{{ asset('js/main.js')}}"></script>
 
 </body>
-
 </html>
