@@ -12,8 +12,8 @@
     <!-- Title -->
     <title>Asro Bandung</title>
     <!-- Place favicon.ico in the root directory -->
-    <link rel="tcu-regular.png" href="images/atcu-regular.png">
-    <link rel="shortcut icon" type="image/tcu-regular.png" href="images/telkom.png" />
+    <link rel="logo.jpg" href="images/logo.jpg">
+    <link rel="shortcut icon" type="image/logo.jpg" href="images/logo.jpg" />
     <!-- Plugin-CSS -->
     <link rel="stylesheet" href="{{ asset('css/bootstrap.min.css') }}">
     <link rel="stylesheet" href="{{ asset('css/owl.carousel.min.css')}}">
@@ -52,7 +52,7 @@
                     <span class="icon-bar"></span>
                 </button>
                 <a href="#" class="navbar-brand logo">
-                    <img src="images/tcu-regular.png" width="200" height="100" alt="">
+                    <img src="images/logo.jpg" width="200" height="100" alt="">
                 </a>
             </div>
             <!--Logo/-->
@@ -90,19 +90,19 @@
                 <div class="hidden-xs hidden-sm col-md-4 text-right">
                     <div class="screen-box screen-slider">
                         <div class="item">
-                            <img src="images/asro1.jpg" alt="">
-                        </div>
-                        <div class="item">
                             <img src="images/asro2.jpg" alt="">
                         </div>
                         <div class="item">
-                            <img src="images/asro3.jpg" alt="">
+                            <img src="images/#.jpg" alt="">
                         </div>
                         <div class="item">
-                            <img src="images/asro4.jpg" alt="">
+                            <img src="images/#.jpg" alt="">
                         </div>
                         <div class="item">
-                            <img src="images/asro5.jpg" alt="">
+                            <img src="images/#.jpg" alt="">
+                        </div>
+                        <div class="item">
+                            <img src="images/#.jpg" alt="">
                         </div>
                     </div>
                 </div>
@@ -120,7 +120,7 @@
                 <div class="col-xs-12 col-sm-4">
                     <div class="box">
                         <div class="box-icon">
-                            <img src="images/telkom6.jpg" alt="">
+                            <img src="images/asro2.jpg" alt="">
                         </div>
                         <br><br><br><br><br><br>
                         <h4>Ketua Asrama</h4>
@@ -145,7 +145,7 @@
                 <div class="col-xs-12 col-sm-4">
                     <div class="box">
                         <div class="box-icon">
-                            <img src="images/telkom3.jpg" alt="">
+                            <img src="images/asro2.jpg" alt="">
                         </div>
                         <br><br><br><br><br><br>
                         <h4>Kampiun</h4>
@@ -183,12 +183,12 @@
                                     </div>
                                     <div class="col-xs-6 col-md-3">
                                         <div class="caption-photo one" data-animation="animated fadeInRight">
-                                            <img src="images/ketua1.jpg" alt="">
+                                            <img src="images/asro2.jpg" alt="">
                                         </div>
                                     </div>
                                     <div class="col-xs-6 col-md-3">
                                         <div class="caption-photo two" data-animation="animated fadeInRight">
-                                            <img src="images/telkom8.jpg" alt="">
+                                            <img src="images/asro2.jpg" alt="">
                                         </div>
                                     </div>
                                 </div>
@@ -216,7 +216,7 @@
                                     </div>
                                     <div class="col-xs-6 col-md-3">
                                         <div class="caption-photo two" data-animation="animated fadeInRight">
-                                            <img src="images/telkom10.jpg" alt="">
+                                            <img src="images/asro2.jpg" alt="">
                                         </div>
                                     </div>
                                 </div>
@@ -239,12 +239,12 @@
                                     </div>
                                     <div class="col-xs-6 col-md-3">
                                         <div class="caption-photo one" data-animation="animated fadeInRight">
-                                            <img src="images/telkom11.jpg" alt="">
+                                            <img src="images/asro2.jpg" alt="">
                                         </div>
                                     </div>
                                     <div class="col-xs-6 col-md-3">
                                         <div class="caption-photo two" data-animation="animated fadeInRight">
-                                            <img src="images/telkom12.jpg" alt="">
+                                            <img src="images/asro2.jpg" alt="">
                                         </div>
                                     </div>
                                 </div>
@@ -267,12 +267,12 @@
                                     </div>
                                     <div class="col-xs-6 col-md-3">
                                         <div class="caption-photo one" data-animation="animated fadeInRight">
-                                            <img src="images/asro.jpg" alt="">
+                                            <img src="images/asro2.jpg" alt="">
                                         </div>
                                     </div>
                                     <div class="col-xs-6 col-md-3">
                                         <div class="caption-photo two" data-animation="animated fadeInRight">
-                                            <img src="images/telkom14.jpg" alt="">
+                                            <img src="images/asro2.jpg" alt="">
                                         </div>
                                     </div>
                                 </div>
@@ -326,7 +326,7 @@
                 <div class="col-xs-12 col-sm-6 col-md-4">
                     <div class="box">
                         <div class="box-icon">
-                            <img src="images/telkom17.jpg" alt="">
+                            <img src="images/asro2.jpg" alt="">
                         </div>
                         <h3>Hendrikus</h3>
                         <p>Sebagai Wakil Ketua Asrama Rahadi Oesman Bandung</p>
@@ -335,7 +335,7 @@
                 <div class="col-xs-12 col-sm-6 col-md-4">
                     <div class="box">
                         <div class="box-icon">
-                            <img src="images/telkom18.jpg" alt="">
+                            <img src="images/asro2.jpg" alt="">
                         </div>
                         <h3>Wilemus Igo Gonzaga</h3>
                         <p>Selaku Seketaris Asrama rahadioesman Bandung</p>
@@ -344,7 +344,7 @@
                 <div class="col-xs-12 col-sm-6 col-md-4">
                     <div class="box">
                         <div class="box-icon">
-                            <img src="images/telkom19.jpg" alt="">
+                            <img src="images/asro2.jpg" alt="">
                         </div>
                         <h3>Heronselianus</h3>
                         <p>Selaku Kominfo Asrama Rahadi Oesman Bandung</p>
@@ -353,7 +353,7 @@
                 <div class="col-xs-12 col-sm-6 col-md-4">
                     <div class="box">
                         <div class="box-icon">
-                            <img src="images/telkom2.jpg" alt="">
+                            <img src="images/asro2.jpg" alt="">
                         </div>
                         <h3>Indra</h3>
                         <p>Selaku Bendahara Asrama Rahadi Oesman Bandung</p>
@@ -362,7 +362,7 @@
                 <div class="col-xs-12 col-sm-6 col-md-4">
                     <div class="box">
                         <div class="box-icon">
-                            <img src="images/telkom21.jpg" alt="">
+                            <img src="images/asro2.jpg" alt="">
                         </div>
                         <h3>Irvan</h3>
                         <p>Selaku Minat dan Bakat Asrama Rahadi Oesman Bandung</p>
@@ -371,7 +371,7 @@
                 <div class="col-xs-12 col-sm-6 col-md-4">
                     <div class="box">
                         <div class="box-icon">
-                            <img src="images/telkom21.jpg" alt="">
+                            <img src="images/asro2.jpg" alt="">
                         </div>
                         <h3>Stepano Ramalo Bibit</h3>
                         <p>Selaku Kerohanian Asrama Rahadi Oesman Bandung</p>
@@ -380,7 +380,7 @@
                 <div class="col-xs-12 col-sm-6 col-md-4">
                     <div class="box">
                         <div class="box-icon">
-                            <img src="images/telkom21.jpg" alt="">
+                            <img src="images/asro2.jpg" alt="">
                         </div>
                         <h3>Juan Karlo Kanaya</h3>
                         <p>Selaku Kebersihan Asrama Rahadi Oesman Bandung</p>
@@ -389,7 +389,7 @@
                 <div class="col-xs-12 col-sm-6 col-md-4">
                     <div class="box">
                         <div class="box-icon">
-                            <img src="images/telkom21.jpg" alt="">
+                            <img src="images/asro2.jpg" alt="">
                         </div>
                         <h3>Okang</h3>
                         <p>Selaku Iventaris Asrama Rahadi Oesman Bandung</p>
@@ -414,7 +414,7 @@
                     <div class="testimonials">
                         <div class="testimonial">
                             <div class="testimonial-photo">
-                                <img src="images/telkom7.jpg" alt="">
+                                <img src="images/asro2.jpg" alt="">
                             </div>
                             <h3>Kegiatan Sosial</h3>
                             <p>Kegiatan Sosial Asrama Rahi Oesman Bandung, tentunya menjadi kewajiban bagi setiap 
@@ -423,7 +423,7 @@
                         </div>
                         <div class="testimonial">
                             <div class="testimonial-photo">
-                                <img src="images/telkom8.jpg" alt="">
+                                <img src="images/asro2.jpg" alt="">
                             </div>
                             <h3>Olahraga</h3>
                             <p>Kegiatan Olahraga Asrama Rahi Oesman Bandung, tentunya menjadi kewajiban bagi setiap 
@@ -432,7 +432,7 @@
                         </div>
                         <div class="testimonial">
                             <div class="testimonial-photo">
-                                <img src="images/telkom13.jpg" alt="">
+                                <img src="images/asro2.jpg" alt="">
                             </div>
                             <h3>Musyawarah</h3>
                             <p>Kegiatan Wajib Asrama Rahadi Oesman Bandung, tentunya menjadi kewajiban bagi setiap 
@@ -442,7 +442,7 @@
                         </div>
                         <div class="testimonial">
                             <div class="testimonial-photo">
-                                <img src="images/telkom7.jpg" alt="">
+                                <img src="images/asro2.jpg" alt="">
                             </div>
                             <h3>Keagamaan</h3>
                             <p>Kegiatan Keagamaan Asrama Rahadi Oesman Bandung, harapannya membentuk manusia-manusia yang taat pada agamanya
@@ -451,7 +451,7 @@
                         </div>
                         <div class="testimonial">
                             <div class="testimonial-photo">
-                                <img src="images/telkom8.jpg" alt="">
+                                <img src="images/asro2.jpg" alt="">
                             </div>
                             <h3>Makrab</h3>
                             <p>Kegiatan Makrab Asrama Rahadi Oesman Bandung, tentunya menjadi wadah bagi mahasiswa-mahasiswa daerah kalimantan barat khusunya
