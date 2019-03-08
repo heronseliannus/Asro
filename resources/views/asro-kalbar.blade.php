@@ -93,7 +93,7 @@
                             <img src="images/asro2.jpg" alt="">
                         </div>
                         <div class="item">
-                            <img src="images/asro1.jpg" alt="">
+                            <img src="images/asro.jpg" alt="">
                         </div>
                         <div class="item">
                             <img src="images/#.jpg" alt="">
@@ -319,7 +319,7 @@
                 <div class="col-xs-12 col-sm-6 col-md-4">
                     <div class="box">
                         <div class="box-icon">
-                            <img src="images/telkom16.jpg" alt="">
+                            <img src="images/asro2.jpg" alt="">
                         </div>
                         <h3>Syarif Abdurahman</h3>
                         <p>Sebagai Ketua Asrama Rahadi Oesman Bandung</p>
