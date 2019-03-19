@@ -19,3 +19,17 @@ Route::get('/', function () {
 Route::get('/asro-kalbar', function(){
     return view('asro-kalbar');
 });
+
+Route::get('/menu', function()
+{
+ return view('layout/menu');
+});
+Route::get('/sejarah', function()
+{
+    return view('user/sejarah');
+});
+
+Route::get('/formuser', function()
+{
+    return view('user/formuser');
+});

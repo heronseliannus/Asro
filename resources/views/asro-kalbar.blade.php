@@ -85,7 +85,7 @@
                     dalam bentuk banggunan, yang antaralain adalah bangunan Asrama Putra Kalimantan Barat yang didirikan 
                     pada tahun XXXX, yang diharapkan sebagai wadah nantinya menapung para Mahasiswa yang berasal dari darerah
                     Provinsi KALIMANTAN BARAT yang dalam  tahap mengenyam pendidikan dikota-kota besar di seluruh wilayah pulau Jawa.</p>
-                    <a href="#" class="button white">Baca Lebih Lanjud</a>
+                    <a href="sejarah" class="button white">Baca Lebih Lanjud</a>
                 </div>
                 <div class="hidden-xs hidden-sm col-md-4 text-right">
                     <div class="screen-box screen-slider">
@@ -93,10 +93,10 @@
                             <img src="images/asro2.jpg" alt="">
                         </div>
                         <div class="item">
-                            <img src="images/asro2.jpg" alt="">
+                            <img src="images/#.jpg" alt="">
                         </div>
                         <div class="item">
-                            <img src="images/asro2.jpg" alt="">
+                            <img src="images/#.jpg" alt="">
                         </div>
                         <div class="item">
                             <img src="images/#.jpg" alt="">
