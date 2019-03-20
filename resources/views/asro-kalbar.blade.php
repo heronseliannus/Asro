@@ -133,7 +133,7 @@
                 <div class="col-xs-12 col-sm-4">
                     <div class="box">
                         <div class="box-icon">
-                            <img src="images/asro2.jpg" alt="">
+                            <img src="images/logo.jpg" alt="">
                         </div>
                         <br><br><br>
                         <h4>Wakil</h4>
