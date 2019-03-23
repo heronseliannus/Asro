@@ -12,8 +12,8 @@
     <!-- Title -->
     <title>Menu Utama @yield('title')</title>
     <!-- Place favicon.ico in the root directory -->
-    <link rel="logo.jpg" href="images/logo.jpg">
-    <link rel="shortcut icon" type="image/logo.jpg" href="images/logo.jpg" />
+    <link rel="logo-asro.jpg" href="images/logo-asro.jpg">
+    <link rel="shortcut icon" type="image/logo.jpg" href="images/logo-asro.jpg" />
     <!-- Plugin-CSS -->
     <link rel="stylesheet" href="{{ asset('css/bootstrap.min.css')}}">
     <link rel="stylesheet" href="{{ asset('css/owl.carousel.min.css')}}">
@@ -51,8 +51,8 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a href="#" class="navbar-brand logo">
-                    <img src="images/logo2.png" width="200" height="100" alt="">
+                <a href="asro-kalbar" class="navbar-brand logo">
+                    <img src="images/logo asro.png" width="300" height="150" alt="">
                 </a>
             </div>
             <!--Logo/-->
