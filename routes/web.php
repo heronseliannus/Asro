@@ -40,3 +40,7 @@ Route::get('/heron', function()
 {
     return view('fomulir/heron');
 });
+Route::get('/heronselianus', function()
+{
+    return view('fomulir/heronselianus');
+});

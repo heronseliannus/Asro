@@ -139,9 +139,9 @@ input:-webkit-autofill:focus {
 
 .overlay:before,
 .sky-bg {
-    background:#6897bb;
-    background: webkit-gradient(linear, left top, left bottom, from(#088da5), to(#7ac0c0));
-    background: linear-gradient(to bottom, #6897bb 50%,  #088da5 100%);
+    background:	#f7f7f7;
+    background: webkit-gradient(linear, left top, left bottom, from(#088da5), to(#f7f7f7));
+    background: linear-gradient(to bottom, #f7f7f7 50%,  #088da5 100%);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eeeeee', endColorstr='#7ac0c0', GradientType=0);
     color: #ffffff;
 }
@@ -174,7 +174,7 @@ input:-webkit-autofill:focus {
 }
 
 .button.white:hover {
-    background-color: #2f60c3;
+    background-color: #088da5;
     color: #ffffff;
 }
 

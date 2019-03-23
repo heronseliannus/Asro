@@ -42,7 +42,7 @@
         </div>
     </div>
     <!--Mainmenu-area-->
-    <div class="mainmenu-area" data-spy="affix" data-offset-top="200">
+    <div class="mainmenu-area" data-spy="affix" data-offset-top="00">
         <div class="container">
             <!--Logo-->
             <div class="navbar-header">
@@ -90,13 +90,13 @@
                 <div class="hidden-xs hidden-sm col-md-4 text-right">
                     <div class="screen-box screen-slider">
                         <div class="item">
-                            <img src="images/asro2.jpg" alt="">
+                            <img src="images/asro1.jpg" alt="">
                         </div>
                         <div class="item">
-                            <img src="images/#.jpg" alt="">
+                            <img src="images/asro.jpg" alt="">
                         </div>
                         <div class="item">
-                            <img src="images/#.jpg" alt="">
+                            <img src="images/.jpg" alt="">
                         </div>
                         <div class="item">
                             <img src="images/#.jpg" alt="">
@@ -133,9 +133,9 @@
                 <div class="col-xs-12 col-sm-4">
                     <div class="box">
                         <div class="box-icon">
-                            <img src="images/logo.jpg" alt="">
+                            <img src="images/logo 1.png" alt="">
                         </div>
-                        <br><br><br>
+                        <br><br><br><br><br><br>
                         <h4>Wakil</h4>
                         <p>Telkom Digital Learning adalah media pembelajaran elektronik  berbasis web (web-
                             based) yang digunakan dalam proses belajar-mengajar,  baik yang bersifat mandiri

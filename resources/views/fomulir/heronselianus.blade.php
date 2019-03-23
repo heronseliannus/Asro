@@ -1,6 +1,6 @@
 @extends('layout.menu')
 
-@section('title','formulir heron')
+@section('title','formulir heronselianus')
 @section('content')
 
     
@@ -12,7 +12,7 @@
                     <div class="col-xs-12 col-sm-7 col-sm-offset-3 text-center">
                         <div class="page-title">
                             <h2>Data Diri Heronselianus</h2>
-                            <img src="images/heron.png" alt="">
+                            <img src="images/heronselianus.png" alt="">
                         </div>
                     </div>
                 </div>
