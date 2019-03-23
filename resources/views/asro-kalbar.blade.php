@@ -12,8 +12,8 @@
     <!-- Title -->
     <title>Asro Bandung</title>
     <!-- Place favicon.ico in the root directory -->
-    <link rel="logo.jpg" href="images/logo.jpg">
-    <link rel="shortcut icon" type="image/logo.jpg" href="images/logo.jpg" />
+    <link rel="logo-asro.jpg" href="images/logo-asro.jpg">
+    <link rel="shortcut icon" type="image/logo-asro.jpg" href="images/logo-asro.jpg" />
     <!-- Plugin-CSS -->
     <link rel="stylesheet" href="{{ asset('css/bootstrap.min.css')}}">
     <link rel="stylesheet" href="{{ asset('css/owl.carousel.min.css')}}">
@@ -42,7 +42,7 @@
         </div>
     </div>
     <!--Mainmenu-area-->
-    <div class="mainmenu-area" data-spy="affix" data-offset-top="100">
+    <div class="mainmenu-area" data-spy="affix" data-offset-top="200">
         <div class="container">
             <!--Logo-->
             <div class="navbar-header">
@@ -52,7 +52,7 @@
                     <span class="icon-bar"></span>
                 </button>
                 <a href="#" class="navbar-brand logo">
-                    <img src="images/logo2.png" width="200" height="100" alt="">
+                    <img src="images/logo asro.png" width="300" height="150" alt="">
                 </a>
             </div>
             <!--Logo/-->
@@ -127,7 +127,7 @@
                         <p>Description :
                             Status : Ketua Asrama, berasal dari Kota Pontianak, dilantik pada musta ke - XXXX
                             berkuliah di Universitas Pendidikan Indonesia, Jurusan Pendidikan Olahraga S1.
-                            </p>
+                        </p>
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-4">

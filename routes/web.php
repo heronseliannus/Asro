@@ -13,7 +13,7 @@ use Illuminate\Http\Request;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('asro-kalbar');
 });
 
 Route::get('/asro-kalbar', function(){
@@ -32,4 +32,11 @@ Route::get('/sejarah', function()
 Route::get('/formuser', function()
 {
     return view('user/formuser');
+});
+
+// formulir
+
+Route::get('/heron', function()
+{
+    return view('fomulir/heron');
 });
