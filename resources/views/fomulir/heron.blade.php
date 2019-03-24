@@ -12,7 +12,7 @@
                     <div class="col-xs-12 col-sm-7 col-sm-offset-3 text-center">
                         <div class="page-title">
                             <h2>Data Diri Heronselianus</h2>
-                            <img src="images/heron.png" alt="">
+                            <img src="images/herons.png" alt="">
                         </div>
                     </div>
                 </div>
