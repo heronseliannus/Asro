@@ -52,7 +52,7 @@
                     <span class="icon-bar"></span>
                 </button>
                 <a href="#" class="navbar-brand logo">
-                    <img src="images/logo asro.png" width="300" height="150" alt="">
+                    <img src="images/logo asro.png" width="250" height="10" alt="">
                 </a>
             </div>
             <!--Logo/-->
@@ -93,10 +93,10 @@
                             <img src="images/asro1.jpg" alt="">
                         </div>
                         <div class="item">
-                            <img src="images/asro.jpg" alt="">
+                            <img src="images/asro2.jpg" alt="">
                         </div>
                         <div class="item">
-                            <img src="images/.jpg" alt="">
+                            <img src="images/asro1.jpg" alt="">
                         </div>
                         <div class="item">
                             <img src="images/#.jpg" alt="">
@@ -299,173 +299,6 @@
             </div>
         </div>
     </section>
-
-
-
-
-    <section class="gray-bg section-padding" id="feature-page">
-        <div class="container">
-            <div class="row">
-                <div class="col-xs-12 col-sm-6 col-sm-offset-3 text-center">
-                    <div class="page-title">
-                        <h2>Badan Pengurus Arsma Rahadi Oesman Bandung</h2>
-                        <p>
-                            Berikut adalah Badan Pengurus Asrama Rahadi Oesman Bandung Tahun 2019 Hasil Musta XXXXX
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-xs-12 col-sm-6 col-md-4">
-                    <div class="box">
-                        <div class="box-icon">
-                            <img src="images/asro2.jpg" alt="">
-                        </div>
-                        <h3>Syarif Abdurahman</h3>
-                        <p>Sebagai Ketua Asrama Rahadi Oesman Bandung</p>
-                    </div>
-                </div>
-                <div class="col-xs-12 col-sm-6 col-md-4">
-                    <div class="box">
-                        <div class="box-icon">
-                            <img src="images/asro2.jpg" alt="">
-                        </div>
-                        <h3>Hendrikus</h3>
-                        <p>Sebagai Wakil Ketua Asrama Rahadi Oesman Bandung</p>
-                    </div>
-                </div>
-                <div class="col-xs-12 col-sm-6 col-md-4">
-                    <div class="box">
-                        <div class="box-icon">
-                            <img src="images/asro2.jpg" alt="">
-                        </div>
-                        <h3>Wilemus Igo Gonzaga</h3>
-                        <p>Selaku Seketaris Asrama rahadioesman Bandung</p>
-                    </div>
-                </div>
-                <div class="col-xs-12 col-sm-6 col-md-4">
-                    <div class="box">
-                        <div class="box-icon">
-                            <img src="images/asro2.jpg" alt="">
-                        </div>
-                        <h3>Heronselianus</h3>
-                        <p>Selaku Kominfo Asrama Rahadi Oesman Bandung</p>
-                    </div>
-                </div>
-                <div class="col-xs-12 col-sm-6 col-md-4">
-                    <div class="box">
-                        <div class="box-icon">
-                            <img src="images/asro2.jpg" alt="">
-                        </div>
-                        <h3>Indra</h3>
-                        <p>Selaku Bendahara Asrama Rahadi Oesman Bandung</p>
-                    </div>
-                </div>
-                <div class="col-xs-12 col-sm-6 col-md-4">
-                    <div class="box">
-                        <div class="box-icon">
-                            <img src="images/asro2.jpg" alt="">
-                        </div>
-                        <h3>Irvan</h3>
-                        <p>Selaku Minat dan Bakat Asrama Rahadi Oesman Bandung</p>
-                    </div>
-                </div>
-                <div class="col-xs-12 col-sm-6 col-md-4">
-                    <div class="box">
-                        <div class="box-icon">
-                            <img src="images/asro2.jpg" alt="">
-                        </div>
-                        <h3>Stepano Ramalo Bibit</h3>
-                        <p>Selaku Kerohanian Asrama Rahadi Oesman Bandung</p>
-                    </div>
-                </div>
-                <div class="col-xs-12 col-sm-6 col-md-4">
-                    <div class="box">
-                        <div class="box-icon">
-                            <img src="images/asro2.jpg" alt="">
-                        </div>
-                        <h3>Juan Karlo Kanaya</h3>
-                        <p>Selaku Kebersihan Asrama Rahadi Oesman Bandung</p>
-                    </div>
-                </div>
-                <div class="col-xs-12 col-sm-6 col-md-4">
-                    <div class="box">
-                        <div class="box-icon">
-                            <img src="images/asro2.jpg" alt="">
-                        </div>
-                        <h3>Okang</h3>
-                        <p>Selaku Iventaris Asrama Rahadi Oesman Bandung</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <section class="testimonial-area section-padding gray-bg overlay">
-        <div class="container">
-            <div class="row">
-                <div class="col-xs-12 col-sm-6 col-sm-offset-3 text-center">
-                    <div class="page-title">
-                        <h2>Kegiatan Tahunan Asrama</h2>
-                        <p>Kegiatan Tahunan asrama Rahadi Oesman Bandung</p>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
-                    <div class="testimonials">
-                        <div class="testimonial">
-                            <div class="testimonial-photo">
-                                <img src="images/asro2.jpg" alt="">
-                            </div>
-                            <h3>Kegiatan Sosial</h3>
-                            <p>Kegiatan Sosial Asrama Rahi Oesman Bandung, tentunya menjadi kewajiban bagi setiap 
-                               anggota asrama guna menumbuhkan jiwa sosial yang tinggi terhadap orang-orang disekitar.
-                            </p>
-                        </div>
-                        <div class="testimonial">
-                            <div class="testimonial-photo">
-                                <img src="images/asro2.jpg" alt="">
-                            </div>
-                            <h3>Olahraga</h3>
-                            <p>Kegiatan Olahraga Asrama Rahi Oesman Bandung, tentunya menjadi kewajiban bagi setiap 
-                               anggota asrama guna menumbuhkan jiwa sosial yang tinggi terhadap orang-orang disekitar.
-                            </p>
-                        </div>
-                        <div class="testimonial">
-                            <div class="testimonial-photo">
-                                <img src="images/asro2.jpg" alt="">
-                            </div>
-                            <h3>Musyawarah</h3>
-                            <p>Kegiatan Wajib Asrama Rahadi Oesman Bandung, tentunya menjadi kewajiban bagi setiap 
-                               anggota asrama guna mengevaluasi setiap bulannya kegiatan yang berjalan maupun yang sedang berjalan
-                               demi meningkatkan kematangan disetiap pengambilan keputusan.
-                            </p>
-                        </div>
-                        <div class="testimonial">
-                            <div class="testimonial-photo">
-                                <img src="images/asro2.jpg" alt="">
-                            </div>
-                            <h3>Keagamaan</h3>
-                            <p>Kegiatan Keagamaan Asrama Rahadi Oesman Bandung, harapannya membentuk manusia-manusia yang taat pada agamanya
-                                serata memperkokoh rasa kepeduian dan toleransi terhadap orang disekitar.
-                            </p>
-                        </div>
-                        <div class="testimonial">
-                            <div class="testimonial-photo">
-                                <img src="images/asro2.jpg" alt="">
-                            </div>
-                            <h3>Makrab</h3>
-                            <p>Kegiatan Makrab Asrama Rahadi Oesman Bandung, tentunya menjadi wadah bagi mahasiswa-mahasiswa daerah kalimantan barat khusunya
-                                pertemuan dan perkenalan mahasiswa kalbar bandung yang dalam masa mengenyam pendidikan di bandung
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
 
 
     
