@@ -140,8 +140,8 @@ input:-webkit-autofill:focus {
 .overlay:before,
 .sky-bg {
     background:	#f0f8ff;
-    background: webkit-gradient(linear, left top, left bottom, from(#f0ffff), to(#088da5));
-    background: linear-gradient(to bottom, #f0ffff 10%,  #088da5 50%);
+    background: webkit-gradient(linear, left top, left bottom, from(#f0ffff), to(#ffffff));
+    background: linear-gradient(to bottom, #f0ffff 0%,#003333 80%);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eeeeee', endColorstr='#7ac0c0', GradientType=0);
     color: 	#1a1a1a;
 }
@@ -835,8 +835,8 @@ main menu area
     width: 100%;
     height: 100%;
     background: #1a1a1a;
-    background: webkit-gradient(linear, left top, left bottom, from(#c1cdcd), to(#138fc2));
-    background: linear-gradient(to bottom, 	#c1cdcd 0%, #f0f8ff 90%);
+    background: webkit-gradient(linear, left top, left bottom, from(#c1cdcd), to(#ffffff));
+    background: linear-gradient(to bottom, 	#ffffff 0%, #c1cdcd 100%);
     
 }
 
