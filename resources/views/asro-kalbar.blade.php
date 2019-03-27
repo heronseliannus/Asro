@@ -132,7 +132,7 @@
                 <div class="col-xs-12 col-sm-4">
                     <div class="box">
                         <div class="box-icon">
-                            <img src="images/konten3.png" alt="">
+                            <img src="images/konten1.png" alt="">
                         </div>
                         <h4>Wakil</h4>
                         <p>Description :
@@ -143,7 +143,7 @@
                 <div class="col-xs-12 col-sm-4">
                     <div class="box">
                         <div class="box-icon">
-                            <img src="images/Konten1.png" alt="">
+                            <img src="images/Konten3.png" alt="">
                         </div>
                         <h4>Seketaris</h4>
                         <p>Description :
