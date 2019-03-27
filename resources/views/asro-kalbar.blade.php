@@ -52,7 +52,7 @@
                     <span class="icon-bar"></span>
                 </button>
                 <a href="#" class="navbar-brand logo">
-                    <img src="images/logo asro.png" width="250" height="10" alt="">
+                    <img src="images/logo asro.png" width="200" height="10" alt="">
                 </a>
             </div>
             <!--Logo/-->

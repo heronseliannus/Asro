@@ -293,9 +293,9 @@ main menu area
 
 .mainmenu-area #primary-menu > ul > li > a {
     background: none;
-    padding: 30px 15px;
+    padding: 20px 10px;
     position: relative;
-    border-top: 3px solid transparent;
+    border-top: 1px solid transparent;
     text-align: center;
 }
 
@@ -328,7 +328,7 @@ main menu area
 }
 
 .mainmenu-area.affix {
-    background-color: #000000;
+    background-color:#f0f0f0;
 }
 
 
@@ -412,7 +412,7 @@ main menu area
 *Caption-slider
 **/
 
-/* .caption-slider .carousel-indicators {
+.caption-slider .carousel-indicators {
     position: static;
     margin: 30px auto 0 auto;
     padding: 0;
@@ -497,7 +497,7 @@ main menu area
     -webkit-animation-delay: 1.2s;
     animation-delay: 1.2s
 }
- */
+
 
 /***
 *Team-Section
