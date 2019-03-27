@@ -90,10 +90,10 @@
                 <div class="hidden-xs hidden-sm col-md-4 text-right">
                     <div class="screen-box screen-slider">
                         <div class="item">
-                            <img src="images/asro1.jpg" alt="">
+                            <img src="images/.jpg" alt="">
                         </div>
                         <div class="item">
-                            <img src="images/.jpg" alt="">
+                            <img src="images/asro1.jpg" alt="">
                         </div>
                         <div class="item">
                             <img src="images/.jpg" alt="">
@@ -120,38 +120,35 @@
                 <div class="col-xs-12 col-sm-4">
                     <div class="box">
                         <div class="box-icon">
-                            <img src="images/asro2.jpg" alt="">
+                            <img src="images/Konten2.png" alt="">
                         </div>
-                        <br><br><br>
                         <h4>Ketua Asrama</h4>
                         <p>Description :
-                            Status : Ketua Asrama, berasal dari Kota Pontianak, dilantik pada musta ke - XXXX
-                            berkuliah di Universitas Pendidikan Indonesia, Jurusan Pendidikan Olahraga S1.
+                             Status : Ketua Asrama, berasal dari Kota Pontianak, dilantik pada musta ke - XXXX
+                             berkuliah di Universitas Pendidikan Indonesia, Jurusan Pendidikan Olahraga S1.
                         </p>
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-4">
                     <div class="box">
                         <div class="box-icon">
-                            <img src="images/logo 1.png" alt="">
+                            <img src="images/konten3.png" alt="">
                         </div>
-                        <br><br><br><br><br><br>
                         <h4>Wakil</h4>
-                        <p>Telkom Digital Learning adalah media pembelajaran elektronik  berbasis web (web-
-                            based) yang digunakan dalam proses belajar-mengajar,  baik yang bersifat mandiri
-                            maupun wajib.</p>
+                        <p>Description :
+                             Status : Ketua Asrama, berasal dari Kota Pontianak, dilantik pada musta ke - XXXX
+                             berkuliah di Universitas Pendidikan Indonesia, Jurusan Pendidikan Olahraga S1..</p>
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-4">
                     <div class="box">
                         <div class="box-icon">
-                            <img src="images/asro2.jpg" alt="">
+                            <img src="images/Konten1.png" alt="">
                         </div>
-                        <br><br><br>
                         <h4>Seketaris</h4>
-                        <p>Kampiun merupakan media pembelajaran yang berupa knowledge sharing  antar
-                           karyawan PT Telkom adalah dengan  artikel operasional sehari-hari mulai dari  penelitian, inovasi, sampai SOP
-                           penyelesaian masalah.</p>
+                        <p>Description :
+                            Status : Ketua Asrama, berasal dari Kota Pontianak, dilantik pada musta ke - XXXX
+                            berkuliah di Universitas Pendidikan Indonesia, Jurusan Pendidikan Olahraga S1.</p>
                     </div>
                 </div>
             </div>

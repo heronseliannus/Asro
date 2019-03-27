@@ -198,7 +198,7 @@ input:-webkit-autofill:focus {
 }
 
 .page-title h2:after {
-    content: "e675";
+    content: " ";
     font-family: 'themify';
     position: absolute;
     left: 50%;
@@ -239,7 +239,7 @@ input:-webkit-autofill:focus {
 }
 
 .box .box-icon {
-    height: 160px;
+    height: 300px;
     margin-bottom: 20px;
 }
 
