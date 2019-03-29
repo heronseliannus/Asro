@@ -90,7 +90,7 @@
                 <div class="hidden-xs hidden-sm col-md-4 text-right">
                     <div class="screen-box screen-slider">
                         <div class="item">
-                            <img src="images/asro1.jpg" alt="">
+                            <img src="images/konten4.png" alt="">
                         </div>
                         <div class="item">
                             <img src="images/asro1.jpg" alt="">
@@ -132,7 +132,7 @@
                 <div class="col-xs-12 col-sm-4">
                     <div class="box">
                         <div class="box-icon">
-                            <img src="images/konten1.png" alt="">
+                            <img src="images/konten4.png" alt="">
                         </div>
                         <h4>Wakil</h4>
                         <p>Description :
@@ -143,7 +143,7 @@
                 <div class="col-xs-12 col-sm-4">
                     <div class="box">
                         <div class="box-icon">
-                            <img src="images/Konten2.png" alt="">
+                            <img src="images/Konten1.png" alt="">
                         </div>
                         <h4>Seketaris</h4>
                         <p>Description :
@@ -157,7 +157,7 @@
     <!--Feature-area/-->
 
 
-    <section class="angle-bg sky-bg section-padding">
+    <section class="angle-bg sky-bg section-padding" id="feature-page">
         <div class="container">
             <div class="row">
                 <div class="col-xs-12">
@@ -181,12 +181,12 @@
                                     </div>
                                     <div class="col-xs-6 col-md-3">
                                         <div class="caption-photo one" data-animation="animated fadeInRight">
-                                            <img src="images/asro2.jpg" alt="">
+                                            <img src="images/konten4.png" alt="">
                                         </div>
                                     </div>
                                     <div class="col-xs-6 col-md-3">
                                         <div class="caption-photo two" data-animation="animated fadeInRight">
-                                            <img src="images/asro2.jpg" alt="">
+                                            <img src="images/konten1.png" alt="">
                                         </div>
                                     </div>
                                 </div>
@@ -299,7 +299,7 @@
 
 
 
-    <section class="testimonial-area section-padding gray-bg overlay">
+    <section class="testimonial-area section-padding gray-bg overlay" id="feature-page">
         <div class="container">
             <div class="row">
                 <div class="col-xs-12 col-sm-6 col-sm-offset-3 text-center">
