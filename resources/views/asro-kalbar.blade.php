@@ -143,7 +143,7 @@
                 <div class="col-xs-12 col-sm-4">
                     <div class="box">
                         <div class="box-icon">
-                            <img src="images/Konten3.png" alt="">
+                            <img src="images/Konten2.png" alt="">
                         </div>
                         <h4>Seketaris</h4>
                         <p>Description :
