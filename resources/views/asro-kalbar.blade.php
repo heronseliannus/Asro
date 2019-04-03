@@ -181,7 +181,7 @@
                                     </div>
                                     <div class="col-xs-6 col-md-3">
                                         <div class="caption-photo one" data-animation="animated fadeInRight">
-                                            <img src="images/konten4.png" alt="">
+                                            <img src="images/konten2.png" alt="">
                                         </div>
                                     </div>
                                     <div class="col-xs-6 col-md-3">
@@ -569,7 +569,6 @@
             </div>
         </div>
     </footer>
-
 
 
     <section class="section-padding gray-bg" id="blog-page">

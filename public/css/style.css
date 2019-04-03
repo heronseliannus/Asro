@@ -140,14 +140,14 @@ input:-webkit-autofill:focus {
 .overlay:before,
 .sky-bg {
     background:	#f0f8ff;
-    background: webkit-gradient(linear, left top, left bottom, from(#f0ffff), to(#ffffff));
-    background: linear-gradient(to bottom, #76847b 0%,#003333 100%);
+    background: webkit-gradient(linear, left top, left bottom, from(#f0ffff), to(#40e0d0));
+    background: linear-gradient(to bottom, #77c8c0 0%,#00ced1 100%);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eeeeee', endColorstr='#7ac0c0', GradientType=0);
-    color: 	#1a1a1a;
+    color: #eeeeee;
 }
 
 .gray-bg {
-    background-color: #f0f8ff;
+    background-color: #eeeeee;
 }
 
 /**
@@ -229,7 +229,7 @@ input:-webkit-autofill:focus {
 .box:hover {
     -webkit-box-shadow: 0 10px 30px -5px rgba(0, 0, 0, 0.1);
     box-shadow: 0 10px 30px -5px rgba(0, 0, 0, 0.1);
-    background-color: #f0f8ff;
+    background-color: #ff4040;
     -webkit-transform: translateY(-5px);
     transform: translateY(-5px)
 }
