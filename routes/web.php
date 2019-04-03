@@ -16,7 +16,7 @@ Route::get('/', function () {
     return view('asro-kalbar');
 });
 
-Route::get('/asro-kalbar', function(){
+Route::get('views/asro-kalbar', function(){
     return view('asro-kalbar');
 });
 
