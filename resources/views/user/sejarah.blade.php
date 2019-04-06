@@ -102,7 +102,7 @@
                     pada tahun XXXX, yang diharapkan sebagai wadah nantinya menapung para Mahasiswa yang berasal dari darerah
                     Provinsi KALIMANTAN BARAT yang dalam  tahap mengenyam pendidikan dikota-kota besar di seluruh wilayah pulau Jawa.
                 </p>
-                    <a href="asro-kalbar" class="button white">Kembali</a>
+                    <a href="asrobandung" class="button white">Kembali</a>
                 </div>
                 <div class="hidden-xs hidden-sm col-md-4 text-right">
                   

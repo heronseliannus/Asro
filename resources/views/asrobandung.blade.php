@@ -65,7 +65,7 @@
                     <li><a href="#register">Pendaftaran</a></li>
                     <li><a href="#contact-page">Contact</a></li>
                     <li><a href="#">Daftar Penghuni</a></li>
-                    <li><a href="#">Login</a></li>
+                    <li><a href="login">Login</a></li>
                 </ul>
             </nav>
         </div>

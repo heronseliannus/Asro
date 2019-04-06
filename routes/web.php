@@ -44,3 +44,10 @@ Route::get('/heronselianus', function()
 {
     return view('fomulir/heronselianus');
 });
+
+// login User
+
+Route::get('/login', function()
+{
+    return view('user/login');
+});

@@ -51,7 +51,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a href="asro-kalbar" class="navbar-brand logo">
+                <a href="asrobandung" class="navbar-brand logo">
                     <img src="images/logo asro.png" width="200" height="10" alt="">
                 </a>
             </div>
@@ -59,13 +59,13 @@
             <nav class="collapse navbar-collapse" id="primary-menu">
                 <ul class="nav navbar-nav navbar-right">
                     <li class="active"><a href="#home-page">Home</a></li>
-                    <li><a href="#service-page">Info</a></li>
-                    <li><a href="#feature-page">Profil</a></li>
-                    <li><a href="#blog-page">Galery</a></li>
-                    <li><a href="#register">Pendaftaran</a></li>
-                    <li><a href="#contact-page">Contact</a></li>
-                    <li><a href="#">Daftar Penghuni</a></li>
-                    <li><a href="#">Login</a></li>
+                    <li><a href="asrobandung">Info</a></li>
+                    <li><a href="asrobandung">Profil</a></li>
+                    <li><a href="asrobandung">Galery</a></li>
+                    <li><a href="asrobandung">Pendaftaran</a></li>
+                    <li><a href="asrobandung">Contact</a></li>
+                    <li><a href="asrobandung">Daftar Penghuni</a></li>
+                    <li><a href="login">Login</a></li>
                 </ul>
             </nav>
         </div>
