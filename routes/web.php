@@ -13,11 +13,11 @@ use Illuminate\Http\Request;
 */
 
 Route::get('/', function () {
-    return view('asro-kalbar');
+    return view('asrobandung');
 });
 
-Route::get('views/asro-kalbar', function(){
-    return view('asro-kalbar');
+Route::get('/asrobandung', function(){
+    return view('asrobandung');
 });
 
 Route::get('/menu', function()

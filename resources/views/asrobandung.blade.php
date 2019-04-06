@@ -102,7 +102,7 @@
                             <img src="images/konten2.png" alt="">
                         </div>
                         <div class="item">
-                            <img src="images/konten3.png" alt="">
+                            <img src="images/konten 2.png" alt="">
                         </div>
                     </div>
                 </div>
