@@ -360,7 +360,57 @@
         </div>
     </section>
 
-
+    <section class="section-padding gray-bg" id="blog-page">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 col-sm-4">
+                    <div class="single-blog">
+                        <div class="blog-photo">
+                            <img src="images/asro2.jpg" alt="">
+                        </div>
+                        <div class="blog-content">
+                            <h3><a href="#">Kegiatan Tahunan Telkom CorpU</a></h3>
+                            <ul class="blog-meta">
+                                <li><span class="ti-user"></span> <a href="#">Admin</a></li>
+                                <li><span class="ti-calendar"></span> <a href="#">Oktober 10, 2018</a></li>
+                            </ul>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit nemo eaque expedita aliquid dolorem repellat perferendis, facilis aut fugit, impedit.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-4">
+                    <div class="single-blog">
+                        <div class="blog-photo">
+                            <img src="images/asro2.jpg" alt="">
+                        </div>
+                        <div class="blog-content">
+                            <h3><a href="#">Kegiatan Tahunan Telkom CorpU</a></h3>
+                            <ul class="blog-meta">
+                                <li><span class="ti-user"></span> <a href="#">Admin</a></li>
+                                <li><span class="ti-calendar"></span> <a href="#">Oktober 10, 2018</a></li>
+                            </ul>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit nemo eaque expedita aliquid dolorem repellat perferendis, facilis aut fugit, impedit.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-4">
+                    <div class="single-blog">
+                        <div class="blog-photo">
+                            <img src="images/asro2.jpg" alt="">
+                        </div>
+                        <div class="blog-content">
+                            <h3><a href="#">Kegiatan Tahunan Telkom CorpU</a></h3>
+                            <ul class="blog-meta">
+                                <li><span class="ti-user"></span> <a href="#">Admin</a></li>
+                                <li><span class="ti-calendar"></span> <a href="#">Oktober 10, 2018</a></li>
+                            </ul>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit nemo eaque expedita aliquid dolorem repellat perferendis, facilis aut fugit, impedit.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 
     
     <footer class="footer-area relative sky-bg" id="register">
@@ -544,37 +594,20 @@
                                 <div class="form-group">
                                     <input type="checkbox" aria-label="...">
                                     <label for="">Semua data yang telah disi sesuai dengan data dan ketentuan yang berlaku</label>
-                                </div>                                    
-                                                       
-                            <!-- <textarea name="message" id="form-message" name="form-message" rows="5" class="form-control" placeholder="Your message" required="required"></textarea> -->
-                            <button type="submit" class="btn btn-success">Registrasi</button>
+                                </div>
+                                
+                                <button type="submit" class="button">Submit</button>
+
                         </form>
                     </div>
                 </div>
             </div>
         </div>
-        <div class="footer-middle">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xs-12 col-sm-6 pull-right">
-                        <ul class="social-menu text-right x-left">
-                            <li><a href="#"><i class="ti-facebook"></i></a></li>
-                            <li><a href="#"><i class="ti-twitter"></i></a></li>
-                            <li><a href="#"><i class="ti-google"></i></a></li>
-                            <li><a href="#"><i class="ti-linkedin"></i></a></li>
-                            <li><a href="#"><i class="ti-github"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </footer>
-
 
     <section class="section-padding gray-bg" id="blog-page">
-        <div class="container">
+    <div class="container">
             <div class="row">
-                <div class="col-xs-12 col-sm-4">
+                <div class="col-xs-12 col-sm-3">
                     <div class="single-blog">
                         <div class="blog-photo">
                             <img src="images/asro2.jpg" alt="">
@@ -585,11 +618,10 @@
                                 <li><span class="ti-user"></span> <a href="#">Admin</a></li>
                                 <li><span class="ti-calendar"></span> <a href="#">Oktober 10, 2018</a></li>
                             </ul>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit nemo eaque expedita aliquid dolorem repellat perferendis, facilis aut fugit, impedit.</p>
                         </div>
                     </div>
                 </div>
-                <div class="col-xs-12 col-sm-4">
+                <div class="col-xs-12 col-sm-3">
                     <div class="single-blog">
                         <div class="blog-photo">
                             <img src="images/asro2.jpg" alt="">
@@ -600,11 +632,10 @@
                                 <li><span class="ti-user"></span> <a href="#">Admin</a></li>
                                 <li><span class="ti-calendar"></span> <a href="#">Oktober 10, 2018</a></li>
                             </ul>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit nemo eaque expedita aliquid dolorem repellat perferendis, facilis aut fugit, impedit.</p>
                         </div>
                     </div>
                 </div>
-                <div class="col-xs-12 col-sm-4">
+                <div class="col-xs-12 col-sm-3">
                     <div class="single-blog">
                         <div class="blog-photo">
                             <img src="images/asro2.jpg" alt="">
@@ -615,14 +646,27 @@
                                 <li><span class="ti-user"></span> <a href="#">Admin</a></li>
                                 <li><span class="ti-calendar"></span> <a href="#">Oktober 10, 2018</a></li>
                             </ul>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit nemo eaque expedita aliquid dolorem repellat perferendis, facilis aut fugit, impedit.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-3">
+                    <div class="single-blog">
+                        <div class="blog-photo">
+                            <img src="images/asro2.jpg" alt="">
+                        </div>
+                        <div class="blog-content">
+                            <h3><a href="#">Kegiatan Tahunan Telkom CorpU</a></h3>
+                            <ul class="blog-meta">
+                                <li><span class="ti-user"></span> <a href="#">Admin</a></li>
+                                <li><span class="ti-calendar"></span> <a href="#">Oktober 10, 2018</a></li>
+                            </ul>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
+    </div>
     </section>
-
+    </footer>
 
 
     <footer class="footer-area relative sky-bg" id="contact-page">
