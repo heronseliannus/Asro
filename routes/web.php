@@ -45,9 +45,9 @@ Route::get('/heronselianus', function()
     return view('fomulir/heronselianus');
 });
 
-Route::get('/lohong' function();
+Route::get('/lohong', function()
 {
-    return view('fomulir/lohong')
+    return view('fomulir/lohong');
 });
 
 // login User
