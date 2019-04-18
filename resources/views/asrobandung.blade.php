@@ -90,6 +90,9 @@
                 <div class="hidden-xs hidden-sm col-md-4 text-right">
                     <div class="screen-box screen-slider">
                         <div class="item">
+                            <img src="images/Banner Asro.png" alt="">
+                        </div>
+                        <div class="item">
                             <img src="images/konten4.png" alt="">
                         </div>
                         <div class="item">
@@ -314,7 +317,7 @@
                     <div class="testimonials">
                         <div class="testimonial">
                             <div class="testimonial-photo">
-                                <img src="images/asro3.jpg" alt="">
+                                <img src="images/Banner Asro.png" alt="">
                             </div>
                             <h3>AR Rahman</h3>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel vero dolore officiis, velit id libero illum harum hic magni, quae repellendus adipisci possimus saepe nostrum doloribus repudiandae asperiores commodi voluptate.</p>
