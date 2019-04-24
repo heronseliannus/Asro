@@ -613,7 +613,7 @@
                 <div class="col-xs-12 col-sm-3">
                     <div class="single-blog">
                         <div class="blog-photo">
-                            <img src="images/asro2.jpg" alt="">
+                            <img src="images/Tari.jpg" alt="">
                         </div>
                         <div class="blog-content">
                             <h3><a href="#">Kegiatan Tahunan Telkom CorpU</a></h3>
@@ -627,7 +627,7 @@
                 <div class="col-xs-12 col-sm-3">
                     <div class="single-blog">
                         <div class="blog-photo">
-                            <img src="images/asro2.jpg" alt="">
+                            <img src="images/Tari.jpg" alt="">
                         </div>
                         <div class="blog-content">
                             <h3><a href="#">Kegiatan Tahunan Telkom CorpU</a></h3>
@@ -641,7 +641,7 @@
                 <div class="col-xs-12 col-sm-3">
                     <div class="single-blog">
                         <div class="blog-photo">
-                            <img src="images/asro2.jpg" alt="">
+                            <img src="images/Tari.jpg" alt="">
                         </div>
                         <div class="blog-content">
                             <h3><a href="#">Kegiatan Tahunan Telkom CorpU</a></h3>
@@ -655,7 +655,7 @@
                 <div class="col-xs-12 col-sm-3">
                     <div class="single-blog">
                         <div class="blog-photo">
-                            <img src="images/asro2.jpg" alt="">
+                            <img src="images/Tari.jpg" alt="">
                         </div>
                         <div class="blog-content">
                             <h3><a href="#">Kegiatan Tahunan Telkom CorpU</a></h3>
