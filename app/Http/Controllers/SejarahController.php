@@ -6,7 +6,7 @@ use Illuminate\Http\Request;
 
 class SejarahController extends Controller
 {
-    public function view view()
+    public function view()
     {
         return view('user/sejarah');
     }
