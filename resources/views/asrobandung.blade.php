@@ -616,7 +616,7 @@
                             <img src="images/Tari.jpg" alt="">
                         </div>
                         <div class="blog-content">
-                            <h3><a href="#">Kegiatan Tahunan Telkom CorpU</a></h3>
+                            <h3><a href="#">Kegiatan Tari Kegiatan Universitas Unikom</a></h3>
                             <ul class="blog-meta">
                                 <li><span class="ti-user"></span> <a href="#">Admin</a></li>
                                 <li><span class="ti-calendar"></span> <a href="#">Oktober 10, 2018</a></li>
@@ -630,7 +630,7 @@
                             <img src="images/Tari.jpg" alt="">
                         </div>
                         <div class="blog-content">
-                            <h3><a href="#">Kegiatan Tahunan Telkom CorpU</a></h3>
+                            <h3><a href="#">Kegiatan Tari Kegiatan Universitas Unikom</a></h3>
                             <ul class="blog-meta">
                                 <li><span class="ti-user"></span> <a href="#">Admin</a></li>
                                 <li><span class="ti-calendar"></span> <a href="#">Oktober 10, 2018</a></li>
@@ -644,7 +644,7 @@
                             <img src="images/Tari.jpg" alt="">
                         </div>
                         <div class="blog-content">
-                            <h3><a href="#">Kegiatan Tahunan Telkom CorpU</a></h3>
+                            <h3><a href="#">Kegiatan Tari Kegiatan Universitas Unikom</a></h3>
                             <ul class="blog-meta">
                                 <li><span class="ti-user"></span> <a href="#">Admin</a></li>
                                 <li><span class="ti-calendar"></span> <a href="#">Oktober 10, 2018</a></li>
@@ -658,7 +658,7 @@
                             <img src="images/Tari.jpg" alt="">
                         </div>
                         <div class="blog-content">
-                            <h3><a href="#">Kegiatan Tahunan Telkom CorpU</a></h3>
+                            <h3><a href="#">Kegiatan Tari Kegiatan Universitas Unikom</a></h3>
                             <ul class="blog-meta">
                                 <li><span class="ti-user"></span> <a href="#">Admin</a></li>
                                 <li><span class="ti-calendar"></span> <a href="#">Oktober 10, 2018</a></li>
