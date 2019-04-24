@@ -135,7 +135,7 @@
                 <div class="col-xs-12 col-sm-4">
                     <div class="box">
                         <div class="box-icon">
-                            <img src="images/konten4.png" alt="">
+                            <img src="images/Tari.jpg" alt="">
                         </div>
                         <h4>Wakil</h4>
                         <p>Description :
