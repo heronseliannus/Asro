@@ -51,3 +51,8 @@ Route::get('/login', function()
 {
     return view('user/login');
 });
+
+Route::get('/galery', function()
+{
+    return view('user/galery');
+});
