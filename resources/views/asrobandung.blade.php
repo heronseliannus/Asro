@@ -93,7 +93,7 @@
                             <img src="images/Banner Asro.png" alt="">
                         </div>
                         <div class="item">
-                            <img src="images/konten4.png" alt="">
+                            <img src="images/Tari.jpg" alt="">
                         </div>
                         <div class="item">
                             <img src="images/asro1.jpg" alt="">
@@ -102,7 +102,7 @@
                             <img src="images/konten1.png" alt="">
                         </div>
                         <div class="item">
-                            <img src="images/konten2.png" alt="">
+                            <img src="images/Tari.jpg" alt="">
                         </div>
                         <div class="item">
                             <img src="images/konten 2.png" alt="">
