@@ -3,6 +3,10 @@
 /*-------------------
 2. Theme Default CSS
 --------------------*/
+p {
+    text-align: justify;
+    letter-spacing: 0.5px;
+  }
 
 a {
     text-decoration: none;

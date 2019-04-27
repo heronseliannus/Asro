@@ -97,8 +97,12 @@
                         a. Memperkukuh solidaritas pelajar-pelajar kalbar yang ada di Bandung
                         b. Membantu meringankan biaya pelajar-pelajar yang kurang mampu dengan adannya Asrama
                         c. Menjadi Pusat Pengenalan  dan pertukaran budaya
-
-                    <h3>Visi Dan Misi</h3>
+                    <br>
+                    <br>
+                    <br>
+                    <b>isi Dan Misi</b>
+                    <br>
+                    <br>
                        <b>Visi</b>
                         meningkatkan hubungan persaudaraan, pola pikir dan toleransi antar pelajar-pelajar daerah Kalbar dan daerah lainya
                         di dalam maupun diluar lingkungan KPMKB, agar tercapainya kalbar yang adil dan makmur  dan sejahtera di masa depan  dengan
@@ -116,7 +120,9 @@
                       <br>
                       <br>
                         3. Asrama KPMKB Rahadi Oesman Bandung juga menampung Warga Kalimantan Barat yang mengikuti Pelatihan, Training, Bimbingan Belajar, Persiapan Masuk Perguruan Tinggi, Profesi, S2 dan S3.
-                    </p>                                  
+                </p>
+                    
+                    
                 <div><a href="asrobandung" class="button white">Kembali</a></div>
                 <div class="hidden-xs hidden-sm col-md-4 text-right"></div>               
         </div>
