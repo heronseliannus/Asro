@@ -61,7 +61,7 @@
                     <li class="active"><a href="#home-page">Home</a></li>
                     <li><a href="asrobandung">Info</a></li>
                     <li><a href="asrobandung">Profil</a></li>
-                    <li><a href="asrobandung">Galery</a></li>
+                    <li><a href="galery">Galery</a></li>
                     <li><a href="asrobandung">Pendaftaran</a></li>
                     <li><a href="asrobandung">Contact</a></li>
                     <li><a href="asrobandung">Daftar Penghuni</a></li>
@@ -72,7 +72,7 @@
     </div>
     <!--Mainmenu-area/-->
 @yield('content')
-     <section class="section-padding gray-bg" id="blog-page">
+     <!-- <section class="section-padding gray-bg" id="blog-page">
         <div class="container">
             <div class="row">
                 <div class="col-xs-12 col-sm-4">
@@ -122,7 +122,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
 
 
 
