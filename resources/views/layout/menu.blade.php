@@ -208,7 +208,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-xs-12 text-center">
-                        <p>Heronselianus &copy;Copyright 2019 All right resurved.  </p>
+                        Heronselianus &copy;Copyright 2019 All right resurved.
                     </div>
                 </div>
             </div>
