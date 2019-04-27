@@ -729,11 +729,11 @@
                 <div class="row">
                     <div class="col-xs-12 col-sm-6 pull-right">
                         <ul class="social-menu text-right x-left">
-                            <li><a href="#"><i class="ti-facebook"></i></a></li>
-                            <li><a href="#"><i class="ti-twitter"></i></a></li>
-                            <li><a href="#"><i class="ti-google"></i></a></li>
-                            <li><a href="#"><i class="ti-linkedin"></i></a></li>
-                            <li><a href="#"><i class="ti-github"></i></a></li>
+                            <li ><a href=""> <img src="images/Ikon/telepon.png"></a></li>
+                            <li ><a href=""> <img src="images/Ikon/email.png"></a></li>
+                            <li ><a href=""> <img src="images/Ikon/fb.png"></a></li>
+                            <li ><a href=""> <img src="images/Ikon/linkedin.png"></a></li>
+                            <li ><a href=""> <img src="images/Ikon/instagram.png"></a></li>
                         </ul>
                     </div>
                     <div class="col-xs-12 col-sm-6">
