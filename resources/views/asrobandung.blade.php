@@ -123,13 +123,10 @@
                 <div class="col-xs-12 col-sm-4">
                     <div class="box">
                         <div class="box-icon">
-                            <img src="images/Konten2.png" alt="">
+                            <img src="images/Makrab/Makrab 1.jpg" alt="">
                         </div>
-                        <h4>Ketua Asrama</h4>
-                        <p>Description :
-                             Status : Ketua Asrama, berasal dari Kota Pontianak, dilantik pada musta ke - XXXX
-                             berkuliah di Universitas Pendidikan Indonesia, Jurusan Pendidikan Olahraga S1.
-                        </p>
+                        <h4>Makrab KPMKB-Bandung 2019</h4>
+                        <p>Description : </p>
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-4">
@@ -137,21 +134,17 @@
                         <div class="box-icon">
                             <img src="images/Tari.jpg" alt="">
                         </div>
-                        <h4>Wakil</h4>
-                        <p>Description :
-                             Status : Ketua Asrama, berasal dari Kota Pontianak, dilantik pada musta ke - XXXX
-                             berkuliah di Universitas Pendidikan Indonesia, Jurusan Pendidikan Olahraga S1..</p>
+                        <h4>Seni Dan Kreasi KPMKB 2018</h4>
+                        <p>Description : </p>
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-4">
                     <div class="box">
                         <div class="box-icon">
-                            <img src="images/Konten1.png" alt="">
+                            <img src="images/Angkatan/kemah 1.jpg" alt="">
                         </div>
-                        <h4>Seketaris</h4>
-                        <p>Description :
-                            Status : Ketua Asrama, berasal dari Kota Pontianak, dilantik pada musta ke - XXXX
-                            berkuliah di Universitas Pendidikan Indonesia, Jurusan Pendidikan Olahraga S1.</p>
+                        <h4>Kegiatan Keakraban :</h4>
+                        <p>Description : </p>
                     </div>
                 </div>
             </div>
@@ -184,12 +177,12 @@
                                     </div>
                                     <div class="col-xs-6 col-md-3">
                                         <div class="caption-photo one" data-animation="animated fadeInRight">
-                                            <img src="images/konten2.png" alt="">
+                                            <img src="images/Bpa/ketua2018.jpg" alt="">
                                         </div>
                                     </div>
                                     <div class="col-xs-6 col-md-3">
                                         <div class="caption-photo two" data-animation="animated fadeInRight">
-                                            <img src="images/konten1.png" alt="">
+                                            <img src="images/Bpa/ketua2018.jpg" alt="">
                                         </div>
                                     </div>
                                 </div>
@@ -369,45 +362,48 @@
                 <div class="col-xs-12 col-sm-4">
                     <div class="single-blog">
                         <div class="blog-photo">
-                            <img src="images/asro2.jpg" alt="">
+                            <img src="images/Bpa/wakil2018.jpg" alt="">
                         </div>
                         <div class="blog-content">
-                            <h3><a href="#">Kegiatan Tahunan Telkom CorpU</a></h3>
+                            <h3><a href="#">Wakil Ketua Asrama</a></h3>
                             <ul class="blog-meta">
                                 <li><span class="ti-user"></span> <a href="#">Admin</a></li>
                                 <li><span class="ti-calendar"></span> <a href="#">Oktober 10, 2018</a></li>
                             </ul>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit nemo eaque expedita aliquid dolorem repellat perferendis, facilis aut fugit, impedit.</p>
+                            <p>Wakil Ketua Asrama Rahadioesman Bandung periode 2018-2019, Berasal dari kabupaten Landak, mengeyam pendidikan s1 di Universitas Jendral Ahmadyani Bandung
+                            Jurusan Teknik Sipil, angkatan tahun masuk 2017 </p>
                         </div>
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-4">
                     <div class="single-blog">
                         <div class="blog-photo">
-                            <img src="images/asro2.jpg" alt="">
+                            <img src="images/Bpa/ketua2018.jpg" alt="">
                         </div>
                         <div class="blog-content">
-                            <h3><a href="#">Kegiatan Tahunan Telkom CorpU</a></h3>
+                            <h3><a href="#">Ketua Asrama</a></h3>
                             <ul class="blog-meta">
                                 <li><span class="ti-user"></span> <a href="#">Admin</a></li>
                                 <li><span class="ti-calendar"></span> <a href="#">Oktober 10, 2018</a></li>
                             </ul>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit nemo eaque expedita aliquid dolorem repellat perferendis, facilis aut fugit, impedit.</p>
+                            <p>Wakil Ketua Asrama Rahadioesman Bandung periode 2018-2019, Berasal dari kabupaten Landak, mengeyam pendidikan s1 di Universitas Jendral Ahmadyani Bandung
+                            Jurusan Teknik Sipil, angkatan tahun masuk 2017</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-4">
                     <div class="single-blog">
                         <div class="blog-photo">
-                            <img src="images/asro2.jpg" alt="">
+                            <img src="images/Bpa/sketaris2018.jpg" alt="">
                         </div>
                         <div class="blog-content">
-                            <h3><a href="#">Kegiatan Tahunan Telkom CorpU</a></h3>
+                            <h3><a href="#">Sketaris Asrama</a></h3>
                             <ul class="blog-meta">
                                 <li><span class="ti-user"></span> <a href="#">Admin</a></li>
                                 <li><span class="ti-calendar"></span> <a href="#">Oktober 10, 2018</a></li>
                             </ul>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit nemo eaque expedita aliquid dolorem repellat perferendis, facilis aut fugit, impedit.</p>
+                            <p>Sketaris Asrama Rahadioesman Bandung periode 2018-2019, Berasal dari kabupaten Landak, mengeyam pendidikan s1 di Universitas Jendral Ahmadyani Bandung
+                            Jurusan Teknik Sipil, angkatan tahun masuk 201</p>
                         </div>
                     </div>
                 </div>

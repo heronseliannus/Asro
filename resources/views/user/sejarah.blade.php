@@ -93,14 +93,14 @@
                     Provinsi KALIMANTAN BARAT yang dalam  tahap mengenyam pendidikan dikota-kota besar di seluruh wilayah pulau Jawa.
                     <br>
                     <br>
-                    Asrama Rahadi Oesman biasa disingkat ASRO merupakan aset pemerintah provinsi Kalimantan Barat
-                    dalam bentuk banggunan, yang antaralain adalah bangunan Asrama Putra Kalimantan Barat yang didirikan 
-                    pada tahun XXXX, yang diharapkan sebagai wadah nantinya menapung para Mahasiswa yang berasal dari darerah
-                    Provinsi KALIMANTAN BARAT yang dalam  tahap mengenyam pendidikan dikota-kota besar di seluruh wilayah pulau Jawa.
-                    Asrama Rahadi Oesman biasa disingkat ASRO merupakan aset pemerintah provinsi Kalimantan Barat
-                    dalam bentuk banggunan, yang antaralain adalah bangunan Asrama Putra Kalimantan Barat yang didirikan 
-                    pada tahun XXXX, yang diharapkan sebagai wadah nantinya menapung para Mahasiswa yang berasal dari darerah
-                    Provinsi KALIMANTAN BARAT yang dalam  tahap mengenyam pendidikan dikota-kota besar di seluruh wilayah pulau Jawa.
+                    <b><h3>Status Asrama</h3></b>
+                    1. Asrama KPMKB Rahadi Oesman Bandung adalah milik dan di bawah wewenang Pemerintah Daerah Provinsi Kalimantan Barat.
+                    <br>
+                    <br>
+                    2. Asrama KPMKB Rahadi Oesman Bandung adalah Asrama Putra khusus untuk tempat tinggal Pelajar (SMA/SMK/MA) dan Mahasiswa (S-1/D-IV/D-III-D-I), yang berasal dari Kalimantan Barat yang sedang mengenyam masa pendidikan di Kota Bandung dan sekitarnya.
+                    <br>
+                    <br>
+                    3. Asrama KPMKB Rahadi Oesman Bandung juga menampung Warga Kalimantan Barat yang mengikuti Pelatihan, Training, Bimbingan Belajar, Persiapan Masuk Perguruan Tinggi, Profesi, S2 dan S3.
                 </p>
                     <a href="asrobandung" class="button white">Kembali</a>
                 </div>
