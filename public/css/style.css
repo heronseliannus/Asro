@@ -3,6 +3,10 @@
 /*-------------------
 2. Theme Default CSS
 --------------------*/
+p {
+    text-align: justify;
+    letter-spacing: 0.5px;
+  }
 
 a {
     text-decoration: none;
@@ -839,7 +843,7 @@ Preloader
     width: 100%;
     height: 100%;
     background: #1a1a1a;
-    background: webkit-gradient(linear, left top, left bottom, from(#c1cdcd), to(#ffffff));
+    background: -webkit-gradient(linear, left top, left bottom, from(#c1cdcd), to(#ffffff));
     background: linear-gradient(to bottom, 	#ffffff 0%, #c1cdcd 100%);
     
 }

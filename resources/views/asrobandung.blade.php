@@ -64,7 +64,7 @@
                     <li><a href="#blog-page">Galery</a></li>
                     <li><a href="#register">Pendaftaran</a></li>
                     <li><a href="#contact-page">Contact</a></li>
-                    <li><a href="#">Daftar Penghuni</a></li>
+                    <li><a href="galery">Daftar Penghuni</a></li>
                     <li><a href="login">Login</a></li>
                 </ul>
             </nav>
@@ -82,9 +82,9 @@
                 <div class="col-xs-12 col-md-7 header-text">
                     <h2>Asrama Rahadi Oesman Bandung</h2>
                     <p>Asrama Rahadi Oesman biasa disingkat ASRO merupakan aset pemerintah provinsi Kalimantan Barat
-                       dalam bentuk banggunan, yang antaralain adalah bangunan Asrama Putra Kalimantan Barat yang didirikan 
-                       pada tahun XXXX, yang diharapkan sebagai wadah nantinya menapung para Mahasiswa yang berasal dari 
-                       darerah Provinsi KALIMANTAN BARAT yang dalam  tahap mengenyam pendidikan dikota-kota besar di seluruh wilayah pulau Jawa.</p>
+                    dalam bentuk banggunan, yang antaralain adalah bangunan Asrama Putra Kalimantan Barat yang didirikan 
+                    pada 5 Mei 2005, yang diharapkan sebagai wadah nantinya menapung para Mahasiswa yang berasal dari darerah
+                    Provinsi KALIMANTAN BARAT yang dalam  tahap mengenyam pendidikan dikota-kota besar di seluruh wilayah pulau Jawa.</p>
                     <a href="sejarah" class="button white">Baca Lebih Lanjud</a>
                 </div>
                 <div class="hidden-xs hidden-sm col-md-4 text-right">
@@ -126,7 +126,6 @@
                             <img src="images/Makrab/Makrab 1.jpg" alt="">
                         </div>
                         <h4>Makrab KPMKB-Bandung 2019</h4>
-                        <p>Description : </p>
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-4">
@@ -135,7 +134,6 @@
                             <img src="images/Tari.jpg" alt="">
                         </div>
                         <h4>Seni Dan Kreasi KPMKB 2018</h4>
-                        <p>Description : </p>
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-4">
@@ -143,8 +141,7 @@
                         <div class="box-icon">
                             <img src="images/Angkatan/kemah 1.jpg" alt="">
                         </div>
-                        <h4>Kegiatan Keakraban :</h4>
-                        <p>Description : </p>
+                        <a href="#"><h4>Kegiatan Keakraban 2017</h4></a>
                     </div>
                 </div>
             </div>
@@ -205,12 +202,12 @@
                                     </div>
                                     <div class="col-xs-6 col-md-3">
                                         <div class="caption-photo one" data-animation="animated fadeInRight">
-                                            <img src="images/asro2.jpg" alt="">
+                                            <img src="images/Bpa/rama.jpg" alt="">
                                         </div>
                                     </div>
                                     <div class="col-xs-6 col-md-3">
                                         <div class="caption-photo two" data-animation="animated fadeInRight">
-                                            <img src="images/asro2.jpg" alt="">
+                                            <img src="images/Bpa/rama.jpg" alt="">
                                         </div>
                                     </div>
                                 </div>
@@ -420,7 +417,7 @@
                     <div class="col-xs-12 col-sm-6 col-sm-offset-3 text-center">
                         <div class="page-title">
                             <h2>Register</h2>
-                            <p>Input Registrasi Peserta Calon Penguni</p>
+                                Input Registrasi Peserta Calon Penguni
                         </div>
                     </div>
                 </div>
@@ -685,22 +682,22 @@
                         <address class="side-icon-boxes">
                             <div class="side-icon-box">
                                 <div class="side-icon">
-                                    <img src="images/location-arrow.png" alt="">
+                                    <img src="images/Ikon/location-arrow.png" alt="">
                                 </div>
-                                <p><strong>Alamat: </strong>Jl. Gegerkalong Hilir No. 47 Kota Bandung, Jawa Barat<br />Indonesia</p>
+                                    <strong>Alamat: </strong>Jl. Gegerkalong Hilir No. 47 Kota Bandung, Jawa Barat<br/>Indonesia</strong>
                             </div>
                             <div class="side-icon-box">
                                 <div class="side-icon">
-                                    <img src="images/phone-arrow.png" alt="">
+                                    <img src="images/Ikon/phone-arrow.png" alt="">
                                 </div>
                                 <p><strong>Telephone: </strong>
-                                    <a href="callto:8801812726495">(022) 2016907</a> <br />
+                                    <a href="callto:8801812726495">(022) 2016907</a> <br/>
                                     <a href="callto:8801687420471">(022) 2017204</a>
                                 </p>
                             </div>
                             <div class="side-icon-box">
                                 <div class="side-icon">
-                                    <img src="images/mail-arrow.png" alt="">
+                                    <img src="images/Ikon/mail-arrow.png" alt="">
                                 </div>
                                 <p><strong>E-mail: </strong>
                                     <a href="mailto:youremail@example.com">corporate_comm@telkom.co.id</a> <br />
@@ -748,7 +745,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-xs-12 text-center">
-                        <p>Heronselianus &copy;Copyright 2019 All right resurved.  </p>
+                        Heronselianus &copy;Copyright 2019 All right resurved.
                     </div>
                 </div>
             </div>

@@ -78,7 +78,7 @@
                 <div class="col-xs-12 col-sm-4">
                     <div class="single-blog">
                         <div class="blog-photo">
-                            <img src="images/asro2.jpg" alt="">
+                            <img src="images/Bpa/wakil2018.jpg" alt="">
                         </div>
                         <div class="blog-content">
                             <h3><a href="#">Kegiatan Tahunan Asro bandung 2016</a></h3>
@@ -93,7 +93,7 @@
                 <div class="col-xs-12 col-sm-4">
                     <div class="single-blog">
                         <div class="blog-photo">
-                            <img src="images/asro2.jpg" alt="">
+                            <img src="images/Bpa/ketua2018.jpg" alt="">
                         </div>
                         <div class="blog-content">
                             <h3><a href="#">Kegiatan Tahunan Asro bandung 2017</a></h3>
@@ -108,7 +108,7 @@
                 <div class="col-xs-12 col-sm-4">
                     <div class="single-blog">
                         <div class="blog-photo">
-                            <img src="images/asro2.jpg" alt="">
+                            <img src="images/Bpa/sketaris2018.jpg" alt="">
                         </div>
                         <div class="blog-content">
                             <h3><a href="#">Kegiatan Tahunan TAsro 2018</a></h3>
@@ -189,11 +189,11 @@
                 <div class="row">
                     <div class="col-xs-12 col-sm-6 pull-right">
                         <ul class="social-menu text-right x-left">
-                            <li><a href="#"><i class="ti-facebook"></i></a></li>
-                            <li><a href="#"><i class="ti-twitter"></i></a></li>
-                            <li><a href="#"><i class="ti-google"></i></a></li>
-                            <li><a href="#"><i class="ti-linkedin"></i></a></li>
-                            <li><a href="#"><i class="ti-github"></i></a></li>
+                        <li ><a href=""> <img src="images/Ikon/telepon.png"></a></li>
+                            <li ><a href=""> <img src="images/Ikon/email.png"></a></li>
+                            <li ><a href=""> <img src="images/Ikon/fb.png"></a></li>
+                            <li ><a href=""> <img src="images/Ikon/linkedin.png"></a></li>
+                            <li ><a href=""> <img src="images/Ikon/instagram.png"></a></li>
                         </ul>
                     </div>
                     <div class="col-xs-12 col-sm-6">
@@ -208,7 +208,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-xs-12 text-center">
-                        <p>Heronselianus &copy;Copyright 2019 All right resurved.  </p>
+                        Heronselianus &copy;Copyright 2019 All right resurved.
                     </div>
                 </div>
             </div>
