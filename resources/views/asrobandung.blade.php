@@ -82,9 +82,9 @@
                 <div class="col-xs-12 col-md-7 header-text">
                     <h2>Asrama Rahadi Oesman Bandung</h2>
                     <p>Asrama Rahadi Oesman biasa disingkat ASRO merupakan aset pemerintah provinsi Kalimantan Barat
-                    dalam bentuk banggunan, yang antaralain adalah bangunan Asrama Putra Kalimantan Barat yang didirikan 
-                    pada tahun XXXX, yang diharapkan sebagai wadah nantinya menapung para Mahasiswa yang berasal dari darerah
-                    Provinsi KALIMANTAN BARAT yang dalam  tahap mengenyam pendidikan dikota-kota besar di seluruh wilayah pulau Jawa.</p>
+                       dalam bentuk banggunan, yang antaralain adalah bangunan Asrama Putra Kalimantan Barat yang didirikan 
+                       pada tahun XXXX, yang diharapkan sebagai wadah nantinya menapung para Mahasiswa yang berasal dari 
+                       darerah Provinsi KALIMANTAN BARAT yang dalam  tahap mengenyam pendidikan dikota-kota besar di seluruh wilayah pulau Jawa.</p>
                     <a href="sejarah" class="button white">Baca Lebih Lanjud</a>
                 </div>
                 <div class="hidden-xs hidden-sm col-md-4 text-right">
