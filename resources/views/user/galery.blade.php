@@ -119,8 +119,7 @@
                 </div>
             </div>
     </div>
-    </section>
-    </footer>
+</section>
 
 
 @endsection
