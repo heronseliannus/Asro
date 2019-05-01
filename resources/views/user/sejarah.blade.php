@@ -51,20 +51,20 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a href="#" class="navbar-brand logo">
+                <a href="asrobandung" class="navbar-brand logo">
                     <img src="images/logo asro.png" width="200" height="10" alt="">
                 </a>
             </div>
             <!--Logo/-->
             <nav class="collapse navbar-collapse" id="primary-menu">
                 <ul class="nav navbar-nav navbar-right">
-                    <li class="active"><a href="#home-page">Home</a></li>
+                    <li class="active"><a href="asrobandung">Home</a></li>
                     <li><a href="#service-page">Info</a></li>
                     <li><a href="#feature-page">Profil</a></li>
-                    <li><a href="#blog-page">Galery</a></li>
+                    <li><a href="galery">Galery</a></li>
                     <li><a href="#register">Pendaftaran</a></li>
                     <li><a href="#contact-page">Contact</a></li>
-                    <li><a href="#">Daftar Penghuni</a></li>
+                    <li><a href="galery">Daftar Penghuni</a></li>
                     <li><a href="login">Login</a></li>
                 </ul>
             </nav>
@@ -78,8 +78,8 @@
     <div class="container">
         <div class="row">
         <div class="col-xs-12 col-md-12 header-text">
-            <h2>Asrama Rahadi Oesman Bandung</h2>
-                <p>Asrama Rahadi Oesman biasa disingkat ASRO merupakan aset pemerintah provinsi Kalimantan Barat
+            <h2>Asrama Rahadi Osman Bandung</h2>
+                <p>Asrama Rahadi Osman biasa disingkat ASRO merupakan aset pemerintah provinsi Kalimantan Barat
                    dalam bentuk banggunan, yang antaralain adalah bangunan Asrama Putra Kalimantan Barat yang didirikan 
                    pada 5 Mei 2005, yang diharapkan sebagai wadah nantinya menapung para Mahasiswa yang berasal dari darerah
 
@@ -99,19 +99,20 @@
                         c. Menjadi Pusat Pengenalan  dan pertukaran budaya
                     <br>
                     <br>
-                    <br>
-                    <b>isi Dan Misi</b>
+                    <b> <h3> Visi dan Misi </h3></b>
                     <br>
                     <br>
                        <b>Visi</b>
                         meningkatkan hubungan persaudaraan, pola pikir dan toleransi antar pelajar-pelajar daerah Kalbar dan daerah lainya
                         di dalam maupun diluar lingkungan KPMKB, agar tercapainya kalbar yang adil dan makmur  dan sejahtera di masa depan  dengan
                         berlandaskan Pancasila, budaya dan ilmu pengetahuan.
-                    <b>Misi</b>
+                    <br>
+                        <b>Misi</b>
                       - Menjaga Kebersihan Asrama dan lingkungan  sekitar sebagai wajah dari perwakilan kalbar di Bandung
                       - Menjadi Sumber Pengetahuan budaya daerah kalbar di Bandung
                       - Meningkatkan Solidaritas dan Kerjasama antar Mahasiswa Kalbar yang ada di Bandung
-
+                    <br>
+                    <br>
                     <b><h3>Status Asrama</h3></b>
                         1. Asrama KPMKB Rahadi Oesman Bandung adalah milik dan di bawah wewenang Pemerintah Daerah Provinsi Kalimantan Barat.
                       <br>
