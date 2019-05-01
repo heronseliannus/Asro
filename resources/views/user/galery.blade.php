@@ -50,7 +50,7 @@
                 <div class="col-xs-12 col-sm-3">
                     <div class="single-blog">
                         <div class="blog-photo">
-                            <img src="images/Penghuni/Alif.png" alt="">
+                            <img src="images/Penghuni/Alif.jpg" alt="">
                         </div>
                         <div class="blog-content">
                             <h3><a href="#">Syarif Aburahman</a></h3>
@@ -148,7 +148,7 @@
                 <div class="col-xs-12 col-sm-3">
                     <div class="single-blog">
                         <div class="blog-photo">
-                            <img src="images/Penghuni/Irawan.png" alt="">
+                            <img src="images/Penghuni/Irawan.jpg" alt="">
                         </div>
                         <div class="blog-content">
                             <h3><a href="#">Irawan</a></h3>
@@ -334,6 +334,62 @@
                         </div>
                         <div class="blog-content">
                             <h3><a href="#">Aristyo Hadikusuma</a></h3>
+                            <ul class="blog-meta">
+                                <li><span class="ti-user"></span> <a href="#">Admin</a></li>
+                                <li><span class="ti-calendar"></span> <a href="#">Oktober 10, 2018</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-3">
+                    <div class="single-blog">
+                        <div class="blog-photo">
+                            <img src="images/Penghuni/Bg Rio.jpg" alt="">
+                        </div>
+                        <div class="blog-content">
+                            <h3><a href="#">Mario</a></h3>
+                            <ul class="blog-meta">
+                                <li><span class="ti-user"></span> <a href="#">Admin</a></li>
+                                <li><span class="ti-calendar"></span> <a href="#">Oktober 10, 2018</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-3">
+                    <div class="single-blog">
+                        <div class="blog-photo">
+                            <img src="images/Penghuni/Dani.jpg" alt="">
+                        </div>
+                        <div class="blog-content">
+                            <h3><a href="#">Dani Septiadi</a></h3>
+                            <ul class="blog-meta">
+                                <li><span class="ti-user"></span> <a href="#">Admin</a></li>
+                                <li><span class="ti-calendar"></span> <a href="#">Oktober 10, 2018</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-3">
+                    <div class="single-blog">
+                        <div class="blog-photo">
+                            <img src="images/Penghuni/Rifki.jpg" alt="">
+                        </div>
+                        <div class="blog-content">
+                            <h3><a href="#">Rifki Renaldi</a></h3>
+                            <ul class="blog-meta">
+                                <li><span class="ti-user"></span> <a href="#">Admin</a></li>
+                                <li><span class="ti-calendar"></span> <a href="#">Oktober 10, 2018</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-3">
+                    <div class="single-blog">
+                        <div class="blog-photo">
+                            <img src="images/Penghuni/Yogi.jpg" alt="">
+                        </div>
+                        <div class="blog-content">
+                            <h3><a href="#">Yogi Saputra</a></h3>
                             <ul class="blog-meta">
                                 <li><span class="ti-user"></span> <a href="#">Admin</a></li>
                                 <li><span class="ti-calendar"></span> <a href="#">Oktober 10, 2018</a></li>
