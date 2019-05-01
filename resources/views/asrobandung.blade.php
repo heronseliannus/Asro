@@ -174,12 +174,12 @@
                                     </div>
                                     <div class="col-xs-6 col-md-3">
                                         <div class="caption-photo one" data-animation="animated fadeInRight">
-                                            <img src="images/Bpa/ketua2018.jpg" alt="">
+                                            <img src="images/Bpa/Ferdy.jpg" alt="">
                                         </div>
                                     </div>
                                     <div class="col-xs-6 col-md-3">
                                         <div class="caption-photo two" data-animation="animated fadeInRight">
-                                            <img src="images/Bpa/ketua2018.jpg" alt="">
+                                            <img src="images/Bpa/Hendrikus.jpg" alt="">
                                         </div>
                                     </div>
                                 </div>
@@ -202,12 +202,12 @@
                                     </div>
                                     <div class="col-xs-6 col-md-3">
                                         <div class="caption-photo one" data-animation="animated fadeInRight">
-                                            <img src="images/Bpa/rama.jpg" alt="">
+                                            <img src="images/Bpa/Heron.jpg" alt="">
                                         </div>
                                     </div>
                                     <div class="col-xs-6 col-md-3">
                                         <div class="caption-photo two" data-animation="animated fadeInRight">
-                                            <img src="images/Bpa/rama.jpg" alt="">
+                                            <img src="images/Bpa/Juna.jpg" alt="">
                                         </div>
                                     </div>
                                 </div>
@@ -230,12 +230,12 @@
                                     </div>
                                     <div class="col-xs-6 col-md-3">
                                         <div class="caption-photo one" data-animation="animated fadeInRight">
-                                            <img src="images/asro2.jpg" alt="">
+                                            <img src="images/Takong.jpg" alt="">
                                         </div>
                                     </div>
                                     <div class="col-xs-6 col-md-3">
                                         <div class="caption-photo two" data-animation="animated fadeInRight">
-                                            <img src="images/asro2.jpg" alt="">
+                                            <img src="images/Yogi.jpg" alt="">
                                         </div>
                                     </div>
                                 </div>
