@@ -145,26 +145,26 @@
                         <address class="side-icon-boxes">
                             <div class="side-icon-box">
                                 <div class="side-icon">
-                                    <img src="images/location-arrow.png" alt="">
+                                    <img src="images/Ikon/location-arrow.png" alt="">
                                 </div>
-                                <p><strong>Alamat: </strong>Jl. Gegerkalong Hilir No. 47 Kota Bandung, Jawa Barat<br />Indonesia</p>
+                                <p><strong>Alamat: </strong>Jl. Gegerkalong Hilir Jl. Picung No. 107 Kota Bandung, Jawa Barat<br />Indonesia</p>
                             </div>
                             <div class="side-icon-box">
                                 <div class="side-icon">
-                                    <img src="images/phone-arrow.png" alt="">
+                                    <img src="images/Ikon/phone-arrow.png" alt="">
                                 </div>
                                 <p><strong>Telephone: </strong>
-                                    <a href="callto:8801812726495">(022) 2016907</a> <br />
+                                    <a href="callto:8801812726495">082-214-667-037</a> <br />
                                     <a href="callto:8801687420471">(022) 2017204</a>
                                 </p>
                             </div>
                             <div class="side-icon-box">
                                 <div class="side-icon">
-                                    <img src="images/mail-arrow.png" alt="">
+                                    <img src="images/Ikon/mail-arrow.png" alt="">
                                 </div>
                                 <p><strong>E-mail: </strong>
-                                    <a href="mailto:youremail@example.com">corporate_comm@telkom.co.id</a> <br />
-                                    <a href="mailto:youremail@example.com">example@mail.com</a>
+                                    <a href="mailto:youremail@example.com">asro.kalbar.bandung@gmail.com</a> <br />
+                                    <a href="mailto:youremail@example.com">heronselianus1795@gmail.com</a>
                                 </p>
                             </div>
                         </address>
