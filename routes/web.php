@@ -69,3 +69,8 @@ Route::get('/pengurus2016', function()
 {
     return view('pengurus/pengurus2016');
 });
+
+Route::get('pengurus2017',function()
+{
+    return view('pengurus/pengurus2017');
+});

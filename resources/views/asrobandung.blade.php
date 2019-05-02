@@ -197,7 +197,7 @@
                                             </p>
                                         </div>
                                         <div class="caption-button" data-animation="animated fadeInUp">
-                                            <a href="#" class="button">Lihat Profile</a>
+                                            <a href="pengurus2017" class="button">Lihat Profile</a>
                                         </div>
                                     </div>
                                     <div class="col-xs-6 col-md-3">

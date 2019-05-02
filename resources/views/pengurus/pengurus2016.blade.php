@@ -1,6 +1,6 @@
 @extends('layout.menu')
 
-@section('title','Badan Pengurus 2916')
+@section('title','Badan Pengurus 2016')
 @section('content')
     
     <!--Feature-area-->
