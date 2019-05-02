@@ -160,26 +160,26 @@
                                 <div class="v-center">
                                     <div class="col-xs-12 col-md-6">
                                         <div class="caption-title" data-animation="animated fadeInUp">
-                                            <h2>Ketua Asrama Kalbar - Bandung</h2>
+                                            <h2>Ketua Asrama Kalbar 2016-2017 Bandung</h2>
                                         </div>
                                         <div class="caption-desc" data-animation="animated fadeInUp">
                                             <p>Description :
-                                               Status : Ketua Asrama, berasal dari Kota Pontianak, dilantik pada musta ke - XXXX
-                                               berkuliah di Universitas Pendidikan Indonesia, Jurusan Pendidikan Olahraga S1.
+                                               Anda dapat melihat porfile kepengurusan di tahun 2016-2017, serta dapat melihat
+                                               data diri mereka disini.
                                             </p>
                                         </div>
                                         <div class="caption-button" data-animation="animated fadeInUp">
-                                            <a href="#" class="button">Lihat Profile</a>
+                                            <a href="pengurus2016" class="button">Lihat Profile</a>
                                         </div>
                                     </div>
                                     <div class="col-xs-6 col-md-3">
                                         <div class="caption-photo one" data-animation="animated fadeInRight">
-                                            <img src="images/Bpa/Ferdy.jpg" alt="">
+                                            <img src="images/Kepengurusan/2016-2017/Aris.jpg" alt="">
                                         </div>
                                     </div>
                                     <div class="col-xs-6 col-md-3">
                                         <div class="caption-photo two" data-animation="animated fadeInRight">
-                                            <img src="images/Bpa/Hendrikus.jpg" alt="">
+                                            <img src="images/Kepengurusan/2016-2017/Dani.jpg" alt="">
                                         </div>
                                     </div>
                                 </div>
@@ -188,12 +188,12 @@
                                 <div class="v-center">
                                     <div class="col-xs-12 col-md-6">
                                         <div class="caption-title" data-animation="animated fadeInUp">
-                                            <h2>Waklil Ketua</h2>
+                                            <h2>Ketua Asrama Kalbar 2017-2018 Bandung</h2>
                                         </div>
                                         <div class="caption-desc" data-animation="animated fadeInUp">
                                             <p>Description :
-                                               Status : Waklil Ketua Asrama, berasal dari Kota Ngabang, dilantik pada musta ke - XXXX
-                                               berkuliah di Universitas Jendral Ahmach Yani, Jurusan Teknik Sipil S1.
+                                               Anda dapat melihat porfile kepengurusan di tahun 2016-2017, serta dapat melihat
+                                               data diri mereka disini.
                                             </p>
                                         </div>
                                         <div class="caption-button" data-animation="animated fadeInUp">
@@ -202,12 +202,12 @@
                                     </div>
                                     <div class="col-xs-6 col-md-3">
                                         <div class="caption-photo one" data-animation="animated fadeInRight">
-                                            <img src="images/Bpa/Heron.jpg" alt="">
+                                            <img src="images/Kepengurusan/2017-2018/Ferdy.jpg" alt="">
                                         </div>
                                     </div>
                                     <div class="col-xs-6 col-md-3">
                                         <div class="caption-photo two" data-animation="animated fadeInRight">
-                                            <img src="images/Bpa/Juna.jpg" alt="">
+                                            <img src="images/Kepengurusan/2017-2018/Heron.jpg" alt="">
                                         </div>
                                     </div>
                                 </div>
@@ -216,12 +216,12 @@
                                 <div class="v-center">
                                     <div class="col-xs-12 col-md-6">
                                         <div class="caption-title" data-animation="animated fadeInUp">
-                                            <h2>Seketaris ASRO</h2>
+                                            <h2>Ketua Asrama Kalbar 2018-2019 Bandung</h2>
                                         </div>
                                         <div class="caption-desc" data-animation="animated fadeInUp">
                                             <p>Description :
-                                               Status : Seketaris Asrama, berasal dari Kota Karangan, dilantik pada musta ke - XXXX
-                                               berkuliah di Sekolah Tinggi Boromeus, Jurusan Keperawatan D3.
+                                               Anda dapat melihat porfile kepengurusan di tahun 2016-2017, serta dapat melihat
+                                               data diri mereka disini
                                             </p>
                                         </div>
                                         <div class="caption-button" data-animation="animated fadeInUp">
@@ -230,12 +230,12 @@
                                     </div>
                                     <div class="col-xs-6 col-md-3">
                                         <div class="caption-photo one" data-animation="animated fadeInRight">
-                                            <img src="images/Takong.jpg" alt="">
+                                            <img src="images/Kepengurusan/2018-2019/Alif.jpg" alt="">
                                         </div>
                                     </div>
                                     <div class="col-xs-6 col-md-3">
                                         <div class="caption-photo two" data-animation="animated fadeInRight">
-                                            <img src="images/Yogi.jpg" alt="">
+                                            <img src="images/Kepengurusan/2018-2019/Hendrikus.jpg" alt="">
                                         </div>
                                     </div>
                                 </div>
@@ -244,12 +244,12 @@
                                 <div class="v-center">
                                     <div class="col-xs-12 col-md-6">
                                         <div class="caption-title" data-animation="animated fadeInUp">
-                                            <h2>Kominfo</h2>
+                                            <h2>Ketua Asrama Kalbar 2019-2020 Bandung</h2>
                                         </div>
                                         <div class="caption-desc" data-animation="animated fadeInUp">
                                             <p>Description :
-                                               Status : Kominfo asrama, berasal dari Kota Ngabang, dilantik pada musta ke - XXXX
-                                               berkuliah di Politeknik Piksi Ganesha Bandung, Jurusan Manajemen Informatika D4.
+                                               Anda dapat melihat porfile kepengurusan di tahun 2016-2017, serta dapat melihat
+                                               data diri mereka disini
                                             </p>
                                         </div>
                                         <div class="caption-button" data-animation="animated fadeInUp">
@@ -258,12 +258,12 @@
                                     </div>
                                     <div class="col-xs-6 col-md-3">
                                         <div class="caption-photo one" data-animation="animated fadeInRight">
-                                            <img src="images/asro2.jpg" alt="">
+                                            <img src="images/Kepengurusan/2019-2020/Okang.jpg" alt="">
                                         </div>
                                     </div>
                                     <div class="col-xs-6 col-md-3">
                                         <div class="caption-photo two" data-animation="animated fadeInRight">
-                                            <img src="images/asro2.jpg" alt="">
+                                            <img src="images/Kepengurusan/2019-2020/Heron.jpg" alt="">
                                         </div>
                                     </div>
                                 </div>
@@ -272,16 +272,16 @@
                         <!-- Indicators -->
                         <ol class="carousel-indicators caption-indector">
                             <li data-target="#caption_slide" data-slide-to="0" class="active">
-                                <strong>Leadership Training </strong>Center of Excellence
+                                <strong>Badan Pengurus Asrama</strong>Asrama Kalbar 2016-2017
                             </li>
                             <li data-target="#caption_slide" data-slide-to="1">
-                                <strong>Digital Learning </strong>Center of Excellence
+                                <strong>Badan Pengurus Asrama </strong>Asrama Kalbar 2017-2018
                             </li>
                             <li data-target="#caption_slide" data-slide-to="2">
-                                <strong>Business Recommendation </strong>Center of Excellence
+                                <strong>Badan Pengurus Asrama</strong>Asrama Kalbar 2018-2019
                             </li>
                             <li data-target="#caption_slide" data-slide-to="3">
-                                <strong>Achievements </strong>Center of Excellence
+                                <strong>Badan Pengurus Asrama</strong>Asrama Kalbar 2029-2020
                             </li>
                         </ol>
                     </div>
