@@ -61,3 +61,11 @@ Route::get('/galery', function()
 {
     return view('user/galery');
 });
+
+
+// BPA kepengurusan
+
+Route::get('/pengurus2016', function()
+{
+    return view('pengurus/pengurus2016');
+});
