@@ -135,8 +135,9 @@
                 <div class="row">
                     <div class="col-xs-12 col-sm-6 col-sm-offset-3 text-center">
                         <div class="page-title">
-                            <h2>Contact with us</h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit voluptates, temporibus at, facere harum fugiat!</p>
+                            <h2>Hubungi Kami Melalui</h2>
+                            <p>Akses informasi yang semakin luas membawa kami hingga tahap ini, Asrama Putra Kalimantan Barat di Bandung membuka akses untuk kalian 
+                              yang mencari informasi lebih lengkap, Kami juga membagi informasi melalui media sosial lainya, Ikuti juga akun media sosial kami, </p>
                         </div>
                     </div>
                 </div>
@@ -190,10 +191,10 @@
                     <div class="col-xs-12 col-sm-6 pull-right">
                         <ul class="social-menu text-right x-left">
                         <li ><a href=""> <img src="images/Ikon/telepon.png"></a></li>
-                            <li ><a href=""> <img src="images/Ikon/email.png"></a></li>
+                            <li ><a href="https://mail.google.com/mail/u/1/#inbox"> <img src="images/Ikon/email.png"></a></li>
                             <li ><a href=""> <img src="images/Ikon/fb.png"></a></li>
-                            <li ><a href=""> <img src="images/Ikon/linkedin.png"></a></li>
-                            <li ><a href=""> <img src="images/Ikon/instagram.png"></a></li>
+                            <li ><a href="https://www.linkedin.com/in/heron-selianus-69650b180/"> <img src="images/Ikon/linkedin.png"></a></li>
+                            <li ><a href="https://www.instagram.com/asro_kalbar_bandung/"> <img src="images/Ikon/instagram.png"></a></li>
                         </ul>
                     </div>
                     <div class="col-xs-12 col-sm-6">
