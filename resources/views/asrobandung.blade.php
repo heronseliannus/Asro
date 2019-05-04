@@ -99,7 +99,7 @@
                             <img src="images/asro1.jpg" alt="">
                         </div>
                         <div class="item">
-                            <img src="images/konten1.png" alt="">
+                            <img src="images/Ikmas.jpg" alt="">
                         </div>
                         <div class="item">
                             <img src="images/Tari.jpg" alt="">
@@ -606,56 +606,40 @@
                 <div class="col-xs-12 col-sm-3">
                     <div class="single-blog">
                         <div class="blog-photo">
-                            <img src="images/Tari.jpg" alt="">
+                            <img src="images/Ikmas.jpg" alt="">
                         </div>
                         <div class="blog-content">
-                            <h3><a href="#">Kegiatan Tari Kegiatan Universitas Unikom</a></h3>
-                            <ul class="blog-meta">
-                                <li><span class="ti-user"></span> <a href="#">Admin</a></li>
-                                <li><span class="ti-calendar"></span> <a href="#">Oktober 10, 2018</a></li>
-                            </ul>
+                            <h3><a href="#">Ikmas Bandung</a></h3>
                         </div>
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-3">
                     <div class="single-blog">
                         <div class="blog-photo">
-                            <img src="images/Tari.jpg" alt="">
+                            <img src="images/Ikmas.jpg" alt="">
                         </div>
                         <div class="blog-content">
-                            <h3><a href="#">Kegiatan Tari Kegiatan Universitas Unikom</a></h3>
-                            <ul class="blog-meta">
-                                <li><span class="ti-user"></span> <a href="#">Admin</a></li>
-                                <li><span class="ti-calendar"></span> <a href="#">Oktober 10, 2018</a></li>
-                            </ul>
+                            <h3><a href="#">Ikmas Bandung</a></h3>
                         </div>
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-3">
                     <div class="single-blog">
                         <div class="blog-photo">
-                            <img src="images/Tari.jpg" alt="">
+                            <img src="images/Ikmas.jpg" alt="">
                         </div>
                         <div class="blog-content">
-                            <h3><a href="#">Kegiatan Tari Kegiatan Universitas Unikom</a></h3>
-                            <ul class="blog-meta">
-                                <li><span class="ti-user"></span> <a href="#">Admin</a></li>
-                                <li><span class="ti-calendar"></span> <a href="#">Oktober 10, 2018</a></li>
-                            </ul>
+                            <h3><a href="#">Ikmas Bandung</a></h3>
                         </div>
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-3">
                     <div class="single-blog">
                         <div class="blog-photo">
-                            <img src="images/Tari.jpg" alt="">
+                            <img src="images/Ikmas.jpg" alt="">
                         </div>
                         <div class="blog-content">
-                            <h3><a href="#">Kegiatan Tari Kegiatan Universitas Unikom</a></h3>
-                            <ul class="blog-meta">
-                                <li><span class="ti-user"></span> <a href="#">Admin</a></li>
-                                <li><span class="ti-calendar"></span> <a href="#">Oktober 10, 2018</a></li>
-                            </ul>
+                            <h3><a href="#">Ikmas Bandung</a></h3>
                         </div>
                     </div>
                 </div>
