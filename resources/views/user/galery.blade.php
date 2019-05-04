@@ -13,8 +13,8 @@
                         <div class="blog-content">
                             <h3><a href="#">Heronselianus</a></h3>
                             <ul class="blog-meta">
-                                <li><span class="ti-user"></span> <a href="#">Angkatan</a></li>
-                                <li><span class="ti-calendar"></span> <a href="#">Oktober 10, 2018</a></li>
+                                <li><span class="ti-user"></span> <a href="http://piksi-ganesha-online.ac.id/v2/">Politeknik Piksi Ganesha</a></li>
+                                <li><span class="ti-calendar"></span> <a href="#">Manajemen Informatika</a></li>
                             </ul>
                         </div>
                     </div>
@@ -27,7 +27,7 @@
                         <div class="blog-content">
                             <h3><a href="#">Riko Afrianto</a></h3>
                             <ul class="blog-meta">
-                                <li><span class="ti-user"></span> <a href="#">Admin</a></li>
+                                <li><span class="ti-user"></span> <a href="#">Universitas Widiatama</a></li>
                                 <li><span class="ti-calendar"></span> <a href="#">Oktober 10, 2018</a></li>
                             </ul>
                         </div>
@@ -41,8 +41,8 @@
                         <div class="blog-content">
                             <h3><a href="#">Luthfi syarif </a></h3>
                             <ul class="blog-meta">
-                                <li><span class="ti-user"></span> <a href="#">Admin</a></li>
-                                <li><span class="ti-calendar"></span> <a href="#">Oktober 10, 2018</a></li>
+                                <li><span class="ti-user"></span> <a href="#">Universitas Pasundan</a></li>
+                                <li><span class="ti-calendar"></span> <a href="#">Teknik Informatika</a></li>
                             </ul>
                         </div>
                     </div>
@@ -55,8 +55,8 @@
                         <div class="blog-content">
                             <h3><a href="#">Syarif Aburahman</a></h3>
                             <ul class="blog-meta">
-                                <li><span class="ti-user"></span> <a href="#">Admin</a></li>
-                                <li><span class="ti-calendar"></span> <a href="#">Oktober 10, 2018</a></li>
+                                <li><span class="ti-user"></span> <a href="#">Uv Pendidikan Indonesia</a></li>
+                                <li><span class="ti-calendar"></span> <a href="#">Olahraga</a></li>
                             </ul>
                         </div>
                     </div>
@@ -69,8 +69,8 @@
                         <div class="blog-content">
                             <h3><a href="#">Adventus Harun</a></h3>
                             <ul class="blog-meta">
-                                <li><span class="ti-user"></span> <a href="#">Angkatan</a></li>
-                                <li><span class="ti-calendar"></span> <a href="#">Oktober 10, 2018</a></li>
+                                <li><span class="ti-user"></span> <a href="#">Univ Jendral Ahmadyani</a></li>
+                                <li><span class="ti-calendar"></span> <a href="#">Hubungan Internasional</a></li>
                             </ul>
                         </div>
                     </div>
@@ -83,8 +83,8 @@
                         <div class="blog-content">
                             <h3><a href="#">M. Ali Maulana</a></h3>
                             <ul class="blog-meta">
-                                <li><span class="ti-user"></span> <a href="#">Admin</a></li>
-                                <li><span class="ti-calendar"></span> <a href="#">Oktober 10, 2018</a></li>
+                                <li><span class="ti-user"></span> <a href="#">Univ Pajajaran</a></li>
+                                <li><span class="ti-calendar"></span> <a href="#">S2 Keperawatan</a></li>
                             </ul>
                         </div>
                     </div>
@@ -97,7 +97,7 @@
                         <div class="blog-content">
                             <h3><a href="#">Fikri Imanudin Badru</a></h3>
                             <ul class="blog-meta">
-                                <li><span class="ti-user"></span> <a href="#">Admin</a></li>
+                                <li><span class="ti-user"></span> <a href="#">Uv Pendidikan Indonesia</a></li>
                                 <li><span class="ti-calendar"></span> <a href="#">Oktober 10, 2018</a></li>
                             </ul>
                         </div>
@@ -111,7 +111,7 @@
                         <div class="blog-content">
                             <h3><a href="#">Junaidi Gugun</a></h3>
                             <ul class="blog-meta">
-                                <li><span class="ti-user"></span> <a href="#">Admin</a></li>
+                                <li><span class="ti-user"></span> <a href="#">Uiv Sangabuana</a></li>
                                 <li><span class="ti-calendar"></span> <a href="#">Oktober 10, 2018</a></li>
                             </ul>
                         </div>
@@ -125,8 +125,8 @@
                         <div class="blog-content">
                             <h3><a href="#">Indra Ferijum</a></h3>
                             <ul class="blog-meta">
-                                <li><span class="ti-user"></span> <a href="#">Admin</a></li>
-                                <li><span class="ti-calendar"></span> <a href="#">Oktober 10, 2018</a></li>
+                                <li><span class="ti-user"></span> <a href="#">Universitas Pasundan</a></li>
+                                <li><span class="ti-calendar"></span> <a href="#">Teknik Mesin</a></li>
                             </ul>
                         </div>
                     </div>
@@ -139,8 +139,8 @@
                         <div class="blog-content">
                             <h3><a href="#">Urai Agus Eko Purnomo</a></h3>
                             <ul class="blog-meta">
-                                <li><span class="ti-user"></span> <a href="#">Admin</a></li>
-                                <li><span class="ti-calendar"></span> <a href="#">Oktober 10, 2018</a></li>
+                                <li><span class="ti-user"></span> <a href="#">Univ Pasundan</a></li>
+                                <li><span class="ti-calendar"></span> <a href="#">Teknik Industri</a></li>
                             </ul>
                         </div>
                     </div>
@@ -153,8 +153,8 @@
                         <div class="blog-content">
                             <h3><a href="#">Irawan</a></h3>
                             <ul class="blog-meta">
-                                <li><span class="ti-user"></span> <a href="#">Admin</a></li>
-                                <li><span class="ti-calendar"></span> <a href="#">Oktober 10, 2018</a></li>
+                                <li><span class="ti-user"></span> <a href="#">Uv Pendidikan Indonesia</a></li>
+                                <li><span class="ti-calendar"></span> <a href="#">S2 Pendidikan Olahraga</a></li>
                             </ul>
                         </div>
                     </div>
@@ -167,8 +167,8 @@
                         <div class="blog-content">
                             <h3><a href="#">Krispinus Irpan Olin</a></h3>
                             <ul class="blog-meta">
-                                <li><span class="ti-user"></span> <a href="#">Admin</a></li>
-                                <li><span class="ti-calendar"></span> <a href="#">Oktober 10, 2018</a></li>
+                                <li><span class="ti-user"></span> <a href="#">St Inten</a></li>
+                                <li><span class="ti-calendar"></span> <a href="#">Teknik Informatika</a></li>
                             </ul>
                         </div>
                     </div>
@@ -181,8 +181,8 @@
                         <div class="blog-content">
                             <h3><a href="#">Januar Inggar Yadi</a></h3>
                             <ul class="blog-meta">
-                                <li><span class="ti-user"></span> <a href="#">Admin</a></li>
-                                <li><span class="ti-calendar"></span> <a href="#">Oktober 10, 2018</a></li>
+                                <li><span class="ti-user"></span> <a href="#">Uv Pendidikan Indonesia</a></li>
+                                <li><span class="ti-calendar"></span> <a href="#">S2 Pendidikan Olahraga</a></li>
                             </ul>
                         </div>
                     </div>
@@ -195,8 +195,8 @@
                         <div class="blog-content">
                             <h3><a href="#">Julianto</a></h3>
                             <ul class="blog-meta">
-                                <li><span class="ti-user"></span> <a href="#">Admin</a></li>
-                                <li><span class="ti-calendar"></span> <a href="#">Oktober 10, 2018</a></li>
+                                <li><span class="ti-user"></span> <a href="#">Stmik Likmi</a></li>
+                                <li><span class="ti-calendar"></span> <a href="#">Ilmu Komunikasi/a></li>
                             </ul>
                         </div>
                     </div>
@@ -209,8 +209,8 @@
                         <div class="blog-content">
                             <h3><a href="#">Marsiaus Jhoni</a></h3>
                             <ul class="blog-meta">
-                                <li><span class="ti-user"></span> <a href="#">Admin</a></li>
-                                <li><span class="ti-calendar"></span> <a href="#">Oktober 10, 2018</a></li>
+                                <li><span class="ti-user"></span> <a href="#">Uv Pendidikan Indoesia</a></li>
+                                <li><span class="ti-calendar"></span> <a href="#">Pendidikan Ekonomi</a></li>
                             </ul>
                         </div>
                     </div>
@@ -223,8 +223,8 @@
                         <div class="blog-content">
                             <h3><a href="#">Stevin Arianto</a></h3>
                             <ul class="blog-meta">
-                                <li><span class="ti-user"></span> <a href="#">Admin</a></li>
-                                <li><span class="ti-calendar"></span> <a href="#">Oktober 10, 2018</a></li>
+                                <li><span class="ti-user"></span> <a href="#">Uiv komputer Indonenedis</a></li>
+                                <li><span class="ti-calendar"></span> <a href="#">Komunikasi</a></li>
                             </ul>
                         </div>
                     </div>
@@ -237,8 +237,8 @@
                         <div class="blog-content">
                             <h3><a href="#">Julius Okang</a></h3>
                             <ul class="blog-meta">
-                                <li><span class="ti-user"></span> <a href="#">Admin</a></li>
-                                <li><span class="ti-calendar"></span> <a href="#">Oktober 10, 2018</a></li>
+                                <li><span class="ti-user"></span> <a href="#">Unibi</a></li>
+                                <li><span class="ti-calendar"></span> <a href="#">Sotfware Enginering</a></li>
                             </ul>
                         </div>
                     </div>
@@ -251,8 +251,8 @@
                         <div class="blog-content">
                             <h3><a href="#">Ramadani</a></h3>
                             <ul class="blog-meta">
-                                <li><span class="ti-user"></span> <a href="#">Admin</a></li>
-                                <li><span class="ti-calendar"></span> <a href="#">Oktober 10, 2018</a></li>
+                                <li><span class="ti-user"></span> <a href="#">Uv Pendidikan Indoensia</a></li>
+                                <li><span class="ti-calendar"></span> <a href="#">s2 Sastra</a></li>
                             </ul>
                         </div>
                     </div>
@@ -265,8 +265,8 @@
                         <div class="blog-content">
                             <h3><a href="#">Maraga Satrio Rama </a></h3>
                             <ul class="blog-meta">
-                                <li><span class="ti-user"></span> <a href="#">Admin</a></li>
-                                <li><span class="ti-calendar"></span> <a href="#">Oktober 10, 2018</a></li>
+                                <li><span class="ti-user"></span> <a href="#">Univ Parahyangan</a></li>
+                                <li><span class="ti-calendar"></span> <a href="#">Teknik Mesin</a></li>
                             </ul>
                         </div>
                     </div>
@@ -279,8 +279,8 @@
                         <div class="blog-content">
                             <h3><a href="#">Said Rio Andika</a></h3>
                             <ul class="blog-meta">
-                                <li><span class="ti-user"></span> <a href="#">Admin</a></li>
-                                <li><span class="ti-calendar"></span> <a href="#">Oktober 10, 2018</a></li>
+                                <li><span class="ti-user"></span> <a href="#">Politeknik Piksi Ganesha</a></li>
+                                <li><span class="ti-calendar"></span> <a href="#">Informatika Rekam Medis</a></li>
                             </ul>
                         </div>
                     </div>
@@ -293,8 +293,8 @@
                         <div class="blog-content">
                             <h3><a href="#">Viktor Yulas</a></h3>
                             <ul class="blog-meta">
-                                <li><span class="ti-user"></span> <a href="#">Admin</a></li>
-                                <li><span class="ti-calendar"></span> <a href="#">Oktober 10, 2018</a></li>
+                                <li><span class="ti-user"></span> <a href="#">Uv Pendidikan Indonesia</a></li>
+                                <li><span class="ti-calendar"></span> <a href="#">Pendidikan Sosiologi</a></li>
                             </ul>
                         </div>
                     </div>
@@ -307,8 +307,8 @@
                         <div class="blog-content">
                             <h3><a href="#">Wewen Darmawan</a></h3>
                             <ul class="blog-meta">
-                                <li><span class="ti-user"></span> <a href="#">Admin</a></li>
-                                <li><span class="ti-calendar"></span> <a href="#">Oktober 10, 2018</a></li>
+                                <li><span class="ti-user"></span> <a href="#">Uv Pendidikan Indonesia/a></li>
+                                <li><span class="ti-calendar"></span> <a href="#">S2 Sosiologi</a></li>
                             </ul>
                         </div>
                     </div>
@@ -321,8 +321,8 @@
                         <div class="blog-content">
                             <h3><a href="#">Hendrikus</a></h3>
                             <ul class="blog-meta">
-                                <li><span class="ti-user"></span> <a href="#">Admin</a></li>
-                                <li><span class="ti-calendar"></span> <a href="#">Oktober 10, 2018</a></li>
+                                <li><span class="ti-user"></span> <a href="#">Uv Jendral Ahmad Yani</a></li>
+                                <li><span class="ti-calendar"></span> <a href="#">Teknik Sipil</a></li>
                             </ul>
                         </div>
                     </div>
@@ -335,8 +335,8 @@
                         <div class="blog-content">
                             <h3><a href="#">Aristyo Hadikusuma</a></h3>
                             <ul class="blog-meta">
-                                <li><span class="ti-user"></span> <a href="#">Admin</a></li>
-                                <li><span class="ti-calendar"></span> <a href="#">Oktober 10, 2018</a></li>
+                                <li><span class="ti-user"></span> <a href="#">Institut Teknologi Bandung</a></li>
+                                <li><span class="ti-calendar"></span> <a href="#">Layanan Tekologi Informasi</a></li>
                             </ul>
                         </div>
                     </div>
@@ -349,8 +349,8 @@
                         <div class="blog-content">
                             <h3><a href="#">Mario</a></h3>
                             <ul class="blog-meta">
-                                <li><span class="ti-user"></span> <a href="#">Admin</a></li>
-                                <li><span class="ti-calendar"></span> <a href="#">Oktober 10, 2018</a></li>
+                                <li><span class="ti-user"></span> <a href="#">Univ Komputer Indonesia</a></li>
+                                <li><span class="ti-calendar"></span> <a href="#">S2 Design</a></li>
                             </ul>
                         </div>
                     </div>
@@ -363,8 +363,8 @@
                         <div class="blog-content">
                             <h3><a href="#">Dani Septiadi</a></h3>
                             <ul class="blog-meta">
-                                <li><span class="ti-user"></span> <a href="#">Admin</a></li>
-                                <li><span class="ti-calendar"></span> <a href="#">Oktober 10, 2018</a></li>
+                                <li><span class="ti-user"></span> <a href="#">Univ Pasundan</a></li>
+                                <li><span class="ti-calendar"></span> <a href="#">Perencenaan Wilayah dan Kota</a></li>
                             </ul>
                         </div>
                     </div>
@@ -377,8 +377,8 @@
                         <div class="blog-content">
                             <h3><a href="#">Rifki Renaldi</a></h3>
                             <ul class="blog-meta">
-                                <li><span class="ti-user"></span> <a href="#">Admin</a></li>
-                                <li><span class="ti-calendar"></span> <a href="#">Oktober 10, 2018</a></li>
+                                <li><span class="ti-user"></span> <a href="#">Univ Pasundan</a></li>
+                                <li><span class="ti-calendar"></span> <a href="#">Teknik Informatika</a></li>
                             </ul>
                         </div>
                     </div>
@@ -391,8 +391,8 @@
                         <div class="blog-content">
                             <h3><a href="#">Yogi Saputra</a></h3>
                             <ul class="blog-meta">
-                                <li><span class="ti-user"></span> <a href="#">Admin</a></li>
-                                <li><span class="ti-calendar"></span> <a href="#">Oktober 10, 2018</a></li>
+                                <li><span class="ti-user"></span> <a href="#">St Darma Husada</a></li>
+                                <li><span class="ti-calendar"></span> <a href="#">Keperawtan</a></li>
                             </ul>
                         </div>
                     </div>
@@ -405,8 +405,8 @@
                         <div class="blog-content">
                             <h3><a href="#">Wilibrodus Igo</a></h3>
                             <ul class="blog-meta">
-                                <li><span class="ti-user"></span> <a href="#">Admin</a></li>
-                                <li><span class="ti-calendar"></span> <a href="#">Oktober 10, 2018</a></li>
+                                <li><span class="ti-user"></span> <a href="#">Stikes Boromeus</a></li>
+                                <li><span class="ti-calendar"></span> <a href="#">Farmasi</a></li>
                             </ul>
                         </div>
                     </div>
@@ -419,8 +419,8 @@
                         <div class="blog-content">
                             <h3><a href="#">Maraga Satrio Arjuna</a></h3>
                             <ul class="blog-meta">
-                                <li><span class="ti-user"></span> <a href="#">Admin</a></li>
-                                <li><span class="ti-calendar"></span> <a href="#">Oktober 10, 2018</a></li>
+                                <li><span class="ti-user"></span> <a href="#">Univ Pasundan</a></li>
+                                <li><span class="ti-calendar"></span> <a href="#">Ekonomi Pembangunan</a></li>
                             </ul>
                         </div>
                     </div>
