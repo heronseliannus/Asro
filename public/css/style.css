@@ -374,7 +374,7 @@ main menu area
 }
 
 .screen-slider .item {
-    background: url('images/angle-bg.png') no-repeat scroll center center / auto 100%;
+    background: url('images/mobile2.png') no-repeat scroll center center / auto 100%;
     padding: 56px 22px;
     display: inline-block;
     margin: auto;
@@ -404,7 +404,7 @@ main menu area
 }
 
 .screen-slider .owl-controls .owl-nav:after {
-    content: "";
+    content: "/";
     position: absolute;
     left: 50%;
     top: 12px;
@@ -439,7 +439,7 @@ main menu area
 }
 
 .caption-slider .carousel-indicators li:before {
-    content: "/";
+    content: "";
     position: absolute;
     left: 0;
     top: -2px;
