@@ -90,22 +90,19 @@
                 <div class="hidden-xs hidden-sm col-md-4 text-right">
                     <div class="screen-box screen-slider">
                         <div class="item">
-                            <img src="images/Banner Asro.png" alt="">
+                            <img src="images/Berita/Konten1.png" alt="">
                         </div>
                         <div class="item">
-                            <img src="images/Tari.jpg" alt="">
+                            <img src="images/Berita/Konten2.png" alt="">
                         </div>
                         <div class="item">
-                            <img src="images/asro1.jpg" alt="">
+                            <img src="images/Berita/Konten3.png" alt="">
                         </div>
                         <div class="item">
-                            <img src="images/Ikmas.jpg" alt="">
+                            <img src="images/Berita/Heron.png" alt="">
                         </div>
                         <div class="item">
-                            <img src="images/Tari.jpg" alt="">
-                        </div>
-                        <div class="item">
-                            <img src="images/konten 2.png" alt="">
+                            <img src="images/Berita/Banner Asro.png" alt="">
                         </div>
                     </div>
                 </div>
