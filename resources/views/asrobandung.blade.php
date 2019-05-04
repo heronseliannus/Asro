@@ -293,7 +293,7 @@
                 <div class="col-xs-12 col-sm-4">
                     <div class="single-blog">
                         <div class="blog-photo">
-                            <img src="images/Bpa/heron.jpg" alt="">
+                            <img src="images/Bpa/Ferdy.jpg" alt="">
                         </div>
                         <div class="blog-content">
                             <h3><a href="#">Wakil Ketua Asrama</a></h3>
@@ -309,7 +309,7 @@
                 <div class="col-xs-12 col-sm-4">
                     <div class="single-blog">
                         <div class="blog-photo">
-                            <img src="images/Bpa/heron.jpg" alt="">
+                            <img src="images/Bpa/Alif.jpg" alt="">
                         </div>
                         <div class="blog-content">
                             <h3><a href="#">Ketua Asrama</a></h3>
@@ -325,7 +325,7 @@
                 <div class="col-xs-12 col-sm-4">
                     <div class="single-blog">
                         <div class="blog-photo">
-                            <img src="images/Bpa/heron.jpg" alt="">
+                            <img src="images/Bpa/Okang.jpg" alt="">
                         </div>
                         <div class="blog-content">
                             <h3><a href="#">Sketaris Asrama</a></h3>

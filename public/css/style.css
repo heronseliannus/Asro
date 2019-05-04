@@ -302,7 +302,6 @@ main menu area
     border-top: 1px solid transparent;
     text-align: center;
 }
-
 .mainmenu-area #primary-menu > ul > li > a:before {
     content: "";
     position: absolute;
@@ -319,11 +318,11 @@ main menu area
     -webkit-transition: 0.3s;
     transition: 0.3s;
 }
-
 .mainmenu-area #primary-menu > ul > li > a:hover:before,
 .mainmenu-area #primary-menu > ul > li.active > a:before {
     opacity: 1;
     top: 0;
+
 }
 
 .mainmenu-area #primary-menu ul li.active a,
@@ -843,7 +842,7 @@ Preloader
     width: 100%;
     height: 100%;
     background: #1a1a1a;
-    background: -webkit-gradient(linear, left top, left bottom, from(#c1cdcd), to(#ffffff));
+    background: webkit-gradient(linear, left top, left bottom, from(#c1cdcd), to(#ffffff));
     background: linear-gradient(to bottom, 	#ffffff 0%, #c1cdcd 100%);
     
 }
