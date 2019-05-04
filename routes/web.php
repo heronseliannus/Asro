@@ -62,6 +62,10 @@ Route::get('/galery', function()
     return view('user/galery');
 });
 
+Route::get('/formdaftar', function()
+{
+    return view('fomulir/formdaftar');
+});
 
 // BPA kepengurusan
 
