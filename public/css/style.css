@@ -404,7 +404,7 @@ main menu area
 }
 
 .screen-slider .owl-controls .owl-nav:after {
-    content: "/";
+    content: "";
     position: absolute;
     left: 50%;
     top: 12px;
