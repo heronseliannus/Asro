@@ -296,7 +296,7 @@
                 <div class="col-xs-12 col-sm-4">
                     <div class="single-blog">
                         <div class="blog-photo">
-                            <img src="images/Bpa/wakil2018.jpg" alt="">
+                            <img src="images/Bpa/heron.jpg" alt="">
                         </div>
                         <div class="blog-content">
                             <h3><a href="#">Wakil Ketua Asrama</a></h3>
@@ -312,7 +312,7 @@
                 <div class="col-xs-12 col-sm-4">
                     <div class="single-blog">
                         <div class="blog-photo">
-                            <img src="images/Bpa/ketua2018.jpg" alt="">
+                            <img src="images/Bpa/heron.jpg" alt="">
                         </div>
                         <div class="blog-content">
                             <h3><a href="#">Ketua Asrama</a></h3>
@@ -328,7 +328,7 @@
                 <div class="col-xs-12 col-sm-4">
                     <div class="single-blog">
                         <div class="blog-photo">
-                            <img src="images/Bpa/sketaris2018.jpg" alt="">
+                            <img src="images/Bpa/heron.jpg" alt="">
                         </div>
                         <div class="blog-content">
                             <h3><a href="#">Sketaris Asrama</a></h3>
@@ -350,8 +350,7 @@
             <div class="row">
                 <div class="col-xs-12 col-sm-6 col-sm-offset-3 text-center">
                     <div class="page-title">
-                        <h2>Client says</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit voluptates, temporibus at, facere harum fugiat!</p>
+                        <h2>Keluarga Besar Asrama Rahadi Oesman Bandung</h2>
                     </div>
                 </div>
             </div>
@@ -360,44 +359,43 @@
                     <div class="testimonials">
                         <div class="testimonial">
                             <div class="testimonial-photo">
-                                <img src="images/Banner Asro.png" alt="">
+                                <img src="images/asro1.jpg" alt="">
                             </div>
-                            <h3>AR Rahman</h3>
+                            <h3>Angkatan 2016</h3>
+                        </div>
+                        <div class="testimonial">
+                            <div class="testimonial-photo">
+                                <img src="images/asro1.jpg" alt="">
+                            </div>
+                            <h3>Angkatan 2017</h3>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel vero dolore officiis, velit id libero illum harum hic magni, quae repellendus adipisci possimus saepe nostrum doloribus repudiandae asperiores commodi voluptate.</p>
                         </div>
                         <div class="testimonial">
                             <div class="testimonial-photo">
                                 <img src="images/asro1.jpg" alt="">
                             </div>
-                            <h3>AR Rahman</h3>
+                            <h3>Angkatan 2018</h3>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel vero dolore officiis, velit id libero illum harum hic magni, quae repellendus adipisci possimus saepe nostrum doloribus repudiandae asperiores commodi voluptate.</p>
                         </div>
                         <div class="testimonial">
                             <div class="testimonial-photo">
-                                <img src="images/konten1.png" alt="">
+                                <img src="images/asro1.jpg" alt="">
                             </div>
-                            <h3>AR Rahman</h3>
+                            <h3>Angkatan 2019</h3>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel vero dolore officiis, velit id libero illum harum hic magni, quae repellendus adipisci possimus saepe nostrum doloribus repudiandae asperiores commodi voluptate.</p>
                         </div>
                         <div class="testimonial">
                             <div class="testimonial-photo">
-                                <img src="images/konten3.png" alt="">
+                                <img src="images/asro1.jpg" alt="">
                             </div>
-                            <h3>AR Rahman</h3>
+                            <h3>Angkatan 2020</h3>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel vero dolore officiis, velit id libero illum harum hic magni, quae repellendus adipisci possimus saepe nostrum doloribus repudiandae asperiores commodi voluptate.</p>
                         </div>
                         <div class="testimonial">
                             <div class="testimonial-photo">
-                                <img src="images/konten2.png" alt="">
+                                <img src="images/asro1.jpg" alt="">
                             </div>
-                            <h3>AR Rahman</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel vero dolore officiis, velit id libero illum harum hic magni, quae repellendus adipisci possimus saepe nostrum doloribus repudiandae asperiores commodi voluptate.</p>
-                        </div>
-                        <div class="testimonial">
-                            <div class="testimonial-photo">
-                                <img src="images/konten1.png" alt="">
-                            </div>
-                            <h3>AR Rahman</h3>
+                            <h3>Angkatan 2021</h3>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel vero dolore officiis, velit id libero illum harum hic magni, quae repellendus adipisci possimus saepe nostrum doloribus repudiandae asperiores commodi voluptate.</p>
                         </div>
                     </div>
