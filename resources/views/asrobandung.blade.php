@@ -411,7 +411,7 @@
                 <div class="col-xs-12 col-sm-3">
                     <div class="single-blog">
                         <div class="blog-photo">
-                            <img src="images/Ikmas.jpg" alt="">
+                            <img src="images/sambas.png" alt="">
                         </div>
                         <div class="blog-content">
                             <h3><a href="#">Ikmas Bandung</a></h3>
@@ -431,7 +431,7 @@
                 <div class="col-xs-12 col-sm-3">
                     <div class="single-blog">
                         <div class="blog-photo">
-                            <img src="images/Ikmas.jpg" alt="">
+                            <img src="images/Kpmkb.png" alt="">
                         </div>
                         <div class="blog-content">
                             <h3><a href="#">Ikmas Bandung</a></h3>
@@ -441,7 +441,7 @@
                 <div class="col-xs-12 col-sm-3">
                     <div class="single-blog">
                         <div class="blog-photo">
-                            <img src="images/Ikmas.jpg" alt="">
+                            <img src="images/Asro.png" alt="">
                         </div>
                         <div class="blog-content">
                             <h3><a href="#">Ikmas Bandung</a></h3>
