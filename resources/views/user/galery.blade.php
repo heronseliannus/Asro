@@ -196,7 +196,7 @@
                             <h3><a href="#">Julianto</a></h3>
                             <ul class="blog-meta">
                                 <li><span class="ti-user"></span> <a href="#">Stmik Likmi</a></li>
-                                <li><span class="ti-calendar"></span> <a href="#">Ilmu Komunikasi/a></li>
+                                <li><span class="ti-calendar"></span> <a href="#">Ilmu Komunikasi</a></li>
                             </ul>
                         </div>
                     </div>
