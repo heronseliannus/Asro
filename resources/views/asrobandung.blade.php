@@ -42,7 +42,7 @@
         </div>
     </div>
     <!--Mainmenu-area-->
-    <div class="mainmenu-area" data-spy="affix" data-offset-top="00">
+    <div class="mainmenu-area" data-spy="affix" data-offset-top="100">
         <div class="container">
             <!--Logo-->
             <div class="navbar-header">
