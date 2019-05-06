@@ -133,7 +133,7 @@
         <div class="footer-top">
             <div class="container">
                 <div class="row">
-                    <div class="col-xs-12 col-sm-6 col-sm-offset-3 text-center">
+                    <div class="col-xs-12 col-sm-8 col-sm-offset-2 text-center">
                         <div class="page-title">
                             <h2>Hubungi Kami Melalui</h2>
                             <p>Akses informasi yang semakin luas membawa kami hingga tahap ini, Asrama Putra Kalimantan Barat di Bandung membuka akses untuk kalian 
@@ -188,7 +188,13 @@
         <div class="footer-middle">
             <div class="container">
                 <div class="row">
-                    <div class="col-xs-12 col-sm-6 pull-right">
+                <div class="col-xs-12 col-sm-9">
+                        <p>untuk info lebih lengkap dan dapat mengikuti beberapa akun media sosial kami
+                           atau dapat juga menghubungi kami sesuai dengan kontak yang tertera.
+                           suport kami membangun webside ini menjadi lebih baik lagi. trimakasih
+                        </p>
+                    </div>
+                    <div class="col-xs-12 col-sm-8 pull-right">
                         <ul class="social-menu text-right x-left">
                         <li ><a href=""> <img src="images/Ikon/telepon.png"></a></li>
                             <li ><a href="https://mail.google.com/mail/u/1/#inbox"> <img src="images/Ikon/email.png"></a></li>
@@ -197,11 +203,7 @@
                             <li ><a href="https://www.instagram.com/asro_kalbar_bandung/"> <img src="images/Ikon/instagram.png"></a></li>
                         </ul>
                     </div>
-                    <div class="col-xs-12 col-sm-6">
-                        <p>untuk info lebih lengkap, dapat menghubungi kami dengan akun media sosial kami.
-                            suport kami membangun webside ini menjadi lebih baik lagi. trimakasih
-                        </p>
-                    </div>
+
                 </div>
             </div>
         </div>
