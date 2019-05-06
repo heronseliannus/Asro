@@ -89,6 +89,9 @@
                 </div>
                 <div class="hidden-xs hidden-sm col-md-4 text-right">
                     <div class="screen-box screen-slider">
+                    <div class="item">
+                            <img src="images/Berita/ramadan.jpg" alt="">
+                        </div>
                         <div class="item">
                             <img src="images/Berita/Konten1.png" alt="">
                         </div>
