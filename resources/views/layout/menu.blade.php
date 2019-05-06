@@ -188,13 +188,13 @@
         <div class="footer-middle">
             <div class="container">
                 <div class="row">
-                <div class="col-xs-12 col-sm-9">
+                <div class="col-xs-12 col-sm-8">
                         <p>untuk info lebih lengkap dan dapat mengikuti beberapa akun media sosial kami
                            atau dapat juga menghubungi kami sesuai dengan kontak yang tertera.
                            suport kami membangun webside ini menjadi lebih baik lagi. trimakasih
                         </p>
                     </div>
-                    <div class="col-xs-12 col-sm-8 pull-right">
+                    <div class="col-xs-12 col-sm-4 pull-right">
                         <ul class="social-menu text-right x-left">
                         <li ><a href=""> <img src="images/Ikon/telepon.png"></a></li>
                             <li ><a href="https://mail.google.com/mail/u/1/#inbox"> <img src="images/Ikon/email.png"></a></li>

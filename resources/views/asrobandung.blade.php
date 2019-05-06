@@ -163,7 +163,7 @@
                                             <h2>Ketua Asrama Kalbar 2016-2017 Bandung</h2>
                                         </div>
                                         <div class="caption-desc" data-animation="animated fadeInUp">
-                                            <p>Description :
+                                            <p>Lihat juga :
                                                Anda dapat melihat porfile kepengurusan di tahun 2016-2017, serta dapat melihat
                                                data diri mereka disini.
                                             </p>
@@ -191,7 +191,7 @@
                                             <h2>Ketua Asrama Kalbar 2017-2018 Bandung</h2>
                                         </div>
                                         <div class="caption-desc" data-animation="animated fadeInUp">
-                                            <p>Description :
+                                            <p>Lihat juga :
                                                Anda dapat melihat porfile kepengurusan di tahun 2016-2017, serta dapat melihat
                                                data diri mereka disini.
                                             </p>
@@ -219,7 +219,7 @@
                                             <h2>Ketua Asrama Kalbar 2018-2019 Bandung</h2>
                                         </div>
                                         <div class="caption-desc" data-animation="animated fadeInUp">
-                                            <p>Description :
+                                            <p>Lihat juga :
                                                Anda dapat melihat porfile kepengurusan di tahun 2016-2017, serta dapat melihat
                                                data diri mereka disini
                                             </p>
@@ -247,7 +247,7 @@
                                             <h2>Ketua Asrama Kalbar 2019-2020 Bandung</h2>
                                         </div>
                                         <div class="caption-desc" data-animation="animated fadeInUp">
-                                            <p>Description :
+                                            <p>Lihat juga :
                                                Anda dapat melihat porfile kepengurusan di tahun 2016-2017, serta dapat melihat
                                                data diri mereka disini
                                             </p>
@@ -298,14 +298,15 @@
                         <div class="blog-photo">
                             <img src="images/Bpa/Ferdy.jpg" alt="">
                         </div>
-                        <div class="blog-content">
-                            <h3><a href="#">Wakil Ketua Asrama</a></h3>
+                        <div class="blog-content text-center">
+                            <h3><a href="#">Ketua Asrama Periode 2017-2018</a></h3>
                             <ul class="blog-meta">
-                                <li><span class="ti-user"></span> <a href="#">Admin</a></li>
+                                <li><span class="ti-user"></span> <a href="#">Sambas </a></li>
                                 <li><span class="ti-calendar"></span> <a href="#">Oktober 10, 2018</a></li>
                             </ul>
-                            <p>Wakil Ketua Asrama Rahadioesman Bandung periode 2018-2019, Berasal dari kabupaten Landak, mengeyam pendidikan s1 di Universitas Jendral Ahmadyani Bandung
-                            Jurusan Teknik Sipil, angkatan tahun masuk 2017 </p>
+                            <p>Ketua Asrama Rahadi Osman Bandung periode 2017-2018, Berasal dari kabupaten Sambas, mengeyam pendidikan s1 di
+                               Dharma Husada Bandung Jurusan Keperawatan.
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -314,14 +315,15 @@
                         <div class="blog-photo">
                             <img src="images/Bpa/Alif.jpg" alt="">
                         </div>
-                        <div class="blog-content">
-                            <h3><a href="#">Ketua Asrama</a></h3>
+                        <div class="blog-content text-center">
+                            <h3><a href="#">Ketua Asrama Periode 2018-2019</a></h3>
                             <ul class="blog-meta">
-                                <li><span class="ti-user"></span> <a href="#">Admin</a></li>
+                                <li><span class="ti-user"></span> <a href="#">Pontianak</a></li>
                                 <li><span class="ti-calendar"></span> <a href="#">Oktober 10, 2018</a></li>
                             </ul>
-                            <p>Wakil Ketua Asrama Rahadioesman Bandung periode 2018-2019, Berasal dari kabupaten Landak, mengeyam pendidikan s1 di Universitas Jendral Ahmadyani Bandung
-                            Jurusan Teknik Sipil, angkatan tahun masuk 2017</p>
+                            <p>Ketua Asrama Rahadi Osman Bandung periode 2018-2019, Berasal dari Pontianak, mengeyam pendidikan s1 di Universitas Pendidikan Indonesia
+                               Jurusan Pendidikan Olahraga.
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -330,14 +332,15 @@
                         <div class="blog-photo">
                             <img src="images/Bpa/Okang.jpg" alt="">
                         </div>
-                        <div class="blog-content">
-                            <h3><a href="#">Sketaris Asrama</a></h3>
+                        <div class="blog-content text-center">
+                            <h3><a href="#">Ketua Asrama Periode 2019-2020</a></h3>
                             <ul class="blog-meta">
-                                <li><span class="ti-user"></span> <a href="#">Admin</a></li>
+                                <li><span class="ti-user"></span> <a href="#">Karangan</a></li>
                                 <li><span class="ti-calendar"></span> <a href="#">Oktober 10, 2018</a></li>
                             </ul>
-                            <p>Sketaris Asrama Rahadioesman Bandung periode 2018-2019, Berasal dari kabupaten Landak, mengeyam pendidikan s1 di Universitas Jendral Ahmadyani Bandung
-                            Jurusan Teknik Sipil, angkatan tahun masuk 201</p>
+                            <p>Sketaris Asrama Rahadi Osman Bandung periode 2019-2020, Berasal dari kabupaten Landak, mengeyam pendidikan s1 di Unibi Bandung
+                               Jurusan Teknik Sipil.
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -350,7 +353,7 @@
             <div class="row">
                 <div class="col-xs-12 col-sm-6 col-sm-offset-3 text-center">
                     <div class="page-title">
-                        <h2>Keluarga Besar Asrama Rahadi Oesman Bandung</h2>
+                        <h2>Keluarga Besar Asrama Rahadi Osman Bandung</h2>
                     </div>
                 </div>
             </div>
@@ -413,7 +416,7 @@
                         <div class="blog-photo">
                             <img src="images/sambas.png" alt="">
                         </div>
-                        <div class="blog-content">
+                        <div class="blog-content text-center">
                             <h3><a href="#">Ikmas Bandung</a></h3>
                         </div>
                     </div>
@@ -423,8 +426,8 @@
                         <div class="blog-photo">
                             <img src="images/Pemprov.png" alt="">
                         </div>
-                        <div class="blog-content">
-                            <h3><a href="#">Ikmas Bandung</a></h3>
+                        <div class="blog-content text-center">
+                            <h3><a href="#">Pemprov Kalbar</a></h3>
                         </div>
                     </div>
                 </div>
@@ -433,8 +436,8 @@
                         <div class="blog-photo">
                             <img src="images/Kpmkb.png" alt="">
                         </div>
-                        <div class="blog-content">
-                            <h3><a href="#">Ikmas Bandung</a></h3>
+                        <div class="blog-content text-center">
+                            <h3><a href="#">KPMKB - Bandung</a></h3>
                         </div>
                     </div>
                 </div>
@@ -443,8 +446,8 @@
                         <div class="blog-photo">
                             <img src="images/Asro.png" alt="">
                         </div>
-                        <div class="blog-content">
-                            <h3><a href="#">Ikmas Bandung</a></h3>
+                        <div class="blog-content text-center">
+                            <h3><a href="#">ASRO Bandung</a></h3>
                         </div>
                     </div>
                 </div>
@@ -459,10 +462,11 @@
         <div class="footer-top">
             <div class="container">
                 <div class="row">
-                    <div class="col-xs-12 col-sm-6 col-sm-offset-3 text-center">
+                    <div class="col-xs-12 col-sm-8 col-sm-offset-2 text-center">
                         <div class="page-title">
-                            <h2>Contact with us</h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit voluptates, temporibus at, facere harum fugiat!</p>
+                            <h2>Hubungi Kami Melalui</h2>
+                            <p>Akses informasi yang semakin luas membawa kami hingga tahap ini, Asrama Putra Kalimantan Barat di Bandung membuka akses untuk kalian 
+                              yang mencari informasi lebih lengkap, Kami juga membagi informasi melalui media sosial lainya, Ikuti juga akun media sosial kami, </p>
                         </div>
                     </div>
                 </div>
@@ -513,7 +517,13 @@
         <div class="footer-middle">
             <div class="container">
                 <div class="row">
-                    <div class="col-xs-12 col-sm-6 pull-right">
+                    <div class="col-xs-12 col-sm-8">
+                        <p>untuk info lebih lengkap dan dapat mengikuti beberapa akun media sosial kami
+                           atau dapat juga menghubungi kami sesuai dengan kontak yang tertera.
+                           suport kami membangun webside ini menjadi lebih baik lagi. trimakasih
+                        </p>
+                    </div>
+                    <div class="col-xs-12 col-sm-4 pull-right">
                         <ul class="social-menu text-right x-left">
                             <li ><a href=""> <img src="images/Ikon/telepon.png"></a></li>
                             <li ><a href=""> <img src="images/Ikon/email.png"></a></li>
@@ -521,11 +531,6 @@
                             <li ><a href=""> <img src="images/Ikon/linkedin.png"></a></li>
                             <li ><a href=""> <img src="images/Ikon/instagram.png"></a></li>
                         </ul>
-                    </div>
-                    <div class="col-xs-12 col-sm-6">
-                        <p>untuk info lebih lengkap, dapat menghubungi kami dengan akun media sosial kami.
-                            suport kami membangun webside ini menjadi lebih baik lagi. trimakasih
-                        </p>
                     </div>
                 </div>
             </div>
