@@ -62,9 +62,9 @@
                     <li><a href="#service-page">Info</a></li>
                     <li><a href="#feature-page">Profil</a></li>
                     <li><a href="#blog-page">Galery</a></li>
-                    <li><a href="formdaftar">Pendaftaran</a></li>
                     <li><a href="#contact-page">Contact</a></li>
                     <li><a href="galery">Daftar Penghuni</a></li>
+                    <li><a href="formdaftar">Pendaftaran</a></li>
                     <li><a href="login">Login</a></li>
                 </ul>
             </nav>
