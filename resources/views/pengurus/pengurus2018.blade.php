@@ -26,14 +26,6 @@
                 <div class="col-xs-12 col-sm-4">
                     <div class="box">
                         <div class="box-icon">
-                            <img src="images/Kepengurusan/2018-2019/Heron.jpg" alt="">
-                        </div>
-                        <a href="#"><h4>Kominfo Asrama Tahun Kepengurusan 2018-2019</h4></a>
-                    </div>
-                </div>
-                <div class="col-xs-12 col-sm-4">
-                    <div class="box">
-                        <div class="box-icon">
                             <img src="images/Kepengurusan/2018-2019/Indra.jpg" alt="">
                         </div>
                         <a href="#"><h4>Bendahara Asrama Tahun Kepengurusan 2016-2017</h4></a>
@@ -45,6 +37,22 @@
                             <img src="images/Kepengurusan/2018-2019/Igo.jpg" alt="">
                         </div>
                         <a href="#"><h4>Seketaris Asrama Tahun Kepengurusan 2016-2017</h4></a>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-4">
+                    <div class="box">
+                        <div class="box-icon">
+                            <img src="images/Kepengurusan/2018-2019/Karlo.jpg" alt="">
+                        </div>
+                        <a href="#"><h4>Kebersihan Asrama Tahun Kepengurusan 2016-2017</h4></a>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-4">
+                    <div class="box">
+                        <div class="box-icon">
+                            <img src="images/Kepengurusan/2018-2019/Heron.jpg" alt="">
+                        </div>
+                        <a href="#"><h4>Kominfo Asrama Tahun Kepengurusan 2018-2019</h4></a>
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-4">
@@ -66,7 +74,7 @@
                 <div class="col-xs-12 col-sm-4">
                     <div class="box">
                         <div class="box-icon">
-                            <img src="images/Kepengurusan/2018-2019/Irvan.png" alt="">
+                            <img src="images/Kepengurusan/2018-2019/Irpan.jpg" alt="">
                         </div>
                         <a href="#"><h4>Minat dan Bakat Asrama Tahun Kepengurusan 2016-2017</h4></a>
                     </div>
