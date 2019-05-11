@@ -18,25 +18,49 @@
                 <div class="col-xs-12 col-sm-4">
                     <div class="box">
                         <div class="box-icon">
-                            <img src="images/Kepengurusan/2019-2020/Heron.jpg" alt="">
+                            <img src="images/Kepengurusan/2019-2020/Yogi.jpg" alt="">
                         </div>
-                        <h4>Seketaris Asrama Tahun Kepengurusan 2019-2020</h4>
+                        <h4>Wakil Asrama Tahun Kepengurusan 2019-2020</h4>
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-4">
                     <div class="box">
                         <div class="box-icon">
-                            <img src="images/Kepengurusan/2019-2020/Okang.jpg" alt="">
+                            <img src="images/Kepengurusan/2019-2020/Indra.jpg" alt="">
                         </div>
-                        <a href="#"><h4>Bendahara Asrama Tahun Kepengurusan 2019-2020</h4></a>
+                        <h4>Bendahara Asrama Tahun Kepengurusan 2019-2020</h4>
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-4">
                     <div class="box">
                         <div class="box-icon">
-                            <img src="images/Kepengurusan/2019-2020/Heron.jpg" alt="">
+                            <img src="images/Kepengurusan/2019-2020/Lohong.jpg" alt="">
+                        </div>
+                        <a href="#"><h4>Sekretaris Asrama Tahun Kepengurusan 2019-2020</h4></a>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-4">
+                    <div class="box">
+                        <div class="box-icon">
+                            <img src="images/Kepengurusan/2019-2020/Gugun.jpg" alt="">
+                        </div>
+                        <a href="#"><h4>Inventaris Ketua Asrama Tahun Kepengurusan 2019-2020</h4></a>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-4">
+                    <div class="box">
+                        <div class="box-icon">
+                            <img src="images/Kepengurusan/2019-2020/Riko.jpg" alt="">
                         </div>
                         <a href="#"><h4>Kebersihan Ketua Asrama Tahun Kepengurusan 2019-2020</h4></a>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-4">
+                    <div class="box">
+                        <div class="box-icon">
+                            <img src="images/Kepengurusan/2019-2020/Upi.jpg" alt="">
+                        </div>
+                        <a href="#"><h4>Kominfo Ketua Asrama Tahun Kepengurusan 2019-2020</h4></a>
                     </div>
                 </div>
             </div>

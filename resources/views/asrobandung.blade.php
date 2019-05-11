@@ -85,7 +85,7 @@
                     dalam bentuk banggunan, yang antaralain adalah bangunan Asrama Putra Kalimantan Barat yang didirikan 
                     pada 5 Mei 2005, yang diharapkan sebagai wadah nantinya menapung para Mahasiswa yang berasal dari darerah
                     Provinsi KALIMANTAN BARAT yang dalam  tahap mengenyam pendidikan dikota-kota besar di seluruh wilayah pulau Jawa.</p>
-                    <a href="sejarah" class="button white">Baca Lebih Lanjud</a>
+                    <a href="sejarah" class="button white">Baca Lebih Lanjut</a>
                 </div>
                 <div class="hidden-xs hidden-sm col-md-4 text-right">
                     <div class="screen-box screen-slider">
@@ -253,7 +253,7 @@
                                             </p>
                                         </div>
                                         <div class="caption-button" data-animation="animated fadeInUp">
-                                            <a href="#" class="button">Lihat Profile</a>
+                                            <a href="pengurus2019" class="button">Lihat Profile</a>
                                         </div>
                                     </div>
                                     <div class="col-xs-6 col-md-3">
@@ -263,7 +263,7 @@
                                     </div>
                                     <div class="col-xs-6 col-md-3">
                                         <div class="caption-photo two" data-animation="animated fadeInRight">
-                                            <img src="images/Kepengurusan/2019-2020/Heron.jpg" alt="">
+                                            <img src="images/Kepengurusan/2019-2020/Yogi.jpg" alt="">
                                         </div>
                                     </div>
                                 </div>
