@@ -1,5 +1,5 @@
 @extends('layout.menu')
-@section('title','galery asro 2017')
+@section('title','Daftar Penghuni Asrama')
 @section('content')
 
 <section class="section-padding gray-bg" id="blog-page">
@@ -407,6 +407,20 @@
                             <ul class="blog-meta">
                                 <li><span class="ti-user"></span> <a href="#">Stikes Boromeus</a></li>
                                 <li><span class="ti-calendar"></span> <a href="#">Farmasi</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-3">
+                    <div class="single-blog">
+                        <div class="blog-photo">
+                            <img src="images/Penghuni/Karlo.jpg" alt="">
+                        </div>
+                        <div class="blog-content">
+                            <h3><a href="#">Juan Carlo Kanaya</a></h3>
+                            <ul class="blog-meta">
+                                <li><span class="ti-user"></span> <a href="#">Unv Jendral Ahmad Yani</a></li>
+                                <li><span class="ti-calendar"></span> <a href="#">Teknik Sipil</a></li>
                             </ul>
                         </div>
                     </div>
