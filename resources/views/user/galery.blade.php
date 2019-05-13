@@ -11,7 +11,7 @@
                             <img src="images/Penghuni/Heron.png" alt="">
                         </div>
                         <div class="blog-content">
-                            <h3><a href="#">Heronselianus</a></h3>
+                            <h3><a href="heronselianus">Heronselianus</a></h3>
                             <ul class="blog-meta">
                                 <li><span class="ti-user"></span> <a href="http://piksi-ganesha-online.ac.id/v2/">Politeknik Piksi Ganesha</a></li>
                                 <li><span class="ti-calendar"></span> <a href="#">Manajemen Informatika</a></li>
