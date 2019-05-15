@@ -87,14 +87,6 @@
                         <a href="#"><h4>Ipentaris Asrama Tahun Kepengurusan 2016-2017</h4></a>
                     </div>
                 </div>
-                <div class="col-xs-12 col-sm-4">
-                    <div class="box">
-                        <div class="box-icon">
-                            <img src="images/Kepengurusan/2018-2019/Modi.jpg" alt="">
-                        </div>
-                        <a href="#"><h4>Kebersihan Asrama Tahun Kepengurusan 2016-2017</h4></a>
-                    </div>
-                </div>
             </div>
         </div>
     </section>
