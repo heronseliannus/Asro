@@ -687,7 +687,7 @@ main menu area
     top: 20px;
     width: 36px;
     height: 36px;
-    background: #ff0000;
+    background: black;
     border-radius: 50%;
     -webkit-transition: 0.3s;
     transition: 0.3s;
@@ -844,7 +844,8 @@ Preloader
     background: #1a1a1a;
     background: webkit-gradient(linear, left top, left bottom, from(#c1cdcd), to(#ffffff));
     background: linear-gradient(to bottom, 	#ffffff 0%, #c1cdcd 100%);
-    
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c1cdcd', endColorstr='#ffffff', GradientType=0);
+    z-index: 99999999999;
 }
 
 .sk-folding-cube {
