@@ -208,7 +208,7 @@
                             <img src="images/Penghuni/Joni.png" alt="">
                         </div>
                         <div class="blog-content">
-                            <h3><a href="#">Marsiaus Jhoni</a></h3>
+                            <h3><a href="#">Marseliyus Jhoni</a></h3>
                             <ul class="blog-meta">
                                 <li><span class="ti-user"></span> <a href="#">Uv Pendidikan Indoesia</a></li>
                                 <li><span class="ti-calendar"></span> <a href="#">Pendidikan Ekonomi</a></li>
