@@ -2,6 +2,7 @@
 @section('title','Daftar Penghuni Asrama')
 @section('content')
 
+
 <section class="section-padding gray-bg" id="blog-page">
     <div class="container">
             <div class="row">

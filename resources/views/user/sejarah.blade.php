@@ -92,7 +92,7 @@
                    Asro Bandung Berdiri dalam Organisasi KPMKB (Keluarga Pelajar Mahasiswa Kalimantan Barat) - Bandung
                    Sebagai gerbang utama dan simbol dari eksistensi Mahasiswa Kalbar di Bandung ditetapkan.
                    Asro Juga ditetapkan sebagai Sekretariat KPMKB, tempat berkumpulnya para mahasiswa kalbar yang ada di Bandung.
-                                
+                </p>            
                     <b>Tujuan KPMKB</b>
                         a. Memperkukuh solidaritas pelajar-pelajar kalbar yang ada di Bandung
                         b. Membantu meringankan biaya pelajar-pelajar yang kurang mampu dengan adannya Asrama
@@ -121,7 +121,7 @@
                       <br>
                       <br>
                         3. Asrama KPMKB Rahadi Oesman Bandung juga menampung Warga Kalimantan Barat yang mengikuti Pelatihan, Training, Bimbingan Belajar, Persiapan Masuk Perguruan Tinggi, Profesi, S2 dan S3.
-                </p>
+                
                     
                     
                 <div><a href="asrobandung" class="button white">Kembali</a></div>
@@ -130,4 +130,19 @@
         </div>
     </div>
 </section>
-    <!--Header-area/-->
+
+    <!--Vendor-JS-->
+    <script src="{{ asset('js/vendor/jquery-1.12.4.min.js')}}"></script>
+    <script src="{{ asset('js/vendor/bootstrap.min.js')}}"></script>
+    <!--Plugin-JS-->
+    <script src="{{ asset('js/owl.carousel.min.js')}}"></script>
+    <script src="{{ asset('js/contact-form.js')}}"></script>
+    <script src="{{ asset('js/jquery.parallax-1.1.3.js')}}"></script>
+    <script src="{{ asset('js/scrollUp.min.js')}}"></script>
+    <script src="{{ asset('js/magnific-popup.min.js')}}"></script>
+    <script src="{{ asset('js/wow.min.js')}}"></script>
+    <!--Main-active-JS-->
+    <script src="{{ asset('js/main.js')}}"></script>
+
+</body>
+</html>
