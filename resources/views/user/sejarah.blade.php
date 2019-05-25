@@ -79,19 +79,11 @@
         <div class="row">
         <div class="col-xs-12 col-md-12 header-text">
             <h2>Asrama Rahadi Osman Bandung</h2>
-                <p>Asrama Rahadi Osman biasa disingkat ASRO merupakan aset pemerintah provinsi Kalimantan Barat
-                   dalam bentuk banggunan, yang antaralain adalah bangunan Asrama Putra Kalimantan Barat yang didirikan 
-                   pada 5 Mei 2005, yang diharapkan sebagai wadah nantinya menapung para Mahasiswa yang berasal dari darerah
-
-                   Asrama Rahadi Oesman Bandung atau yang biasa disingkat  <b>ASRO</b>
-                   dimana dibeberapa tempat dipulau Jawa adalah ASPURA, merupakan Asrama Putra Kalimantan Barat, yang dihuni oleh para Mahasiswa dalam tahap proses Pendidikan
-                   di Kota Bandung, Asrama Rahadi Oesman Bandung yang berlokasi di Gegerkalong Hilir Jl. Picung No. 107 Bandung
-                   Kecamatan Sukasari, Kelurahan Sukasari Bandung Jawa Barat.
-                   Berdiri Pada 5 Mei 2005.
-
-                   Asro Bandung Berdiri dalam Organisasi KPMKB (Keluarga Pelajar Mahasiswa Kalimantan Barat) - Bandung
-                   Sebagai gerbang utama dan simbol dari eksistensi Mahasiswa Kalbar di Bandung ditetapkan.
-                   Asro Juga ditetapkan sebagai Sekretariat KPMKB, tempat berkumpulnya para mahasiswa kalbar yang ada di Bandung.
+                <p>Rahadi Osman merupakan seorang pejuang kemerdekaan dari Kalimantan Barat. Ia lahir pada tanggal 1 Agustus 1925 di Pontianak, Provinsi Kalimantan Barat dari pasangan suami-istri bernama Ismail Osman dan Sutinah Harjo Soegondho. Namanya kini diabadikan di Bandar Udara Rahadi Oesman, Ketapang, Kalimantan Barat.ia aktif sebagai anggota dalam organisasi Kepanduan Bangsa Indonesia (KBI) di Jakarta. Kegiatan organisasi KBI adalah untuk membangkitkan rasa kebangsaan bagi pemuda-pemuda Indonesia. selain di abadikan sebagai nama dari bandara di ketapang, nama beliau juga diabdikan sebagai nama Asrama Pelajar Mahasiswa Kalimantan Barat. 
+                    Asrama Rahadi Osman biasa disingkat ASRO merupakan aset Pemerintah Provinsi Kalimantan Barat dalam bentuk banggunan. Dibeberapa tempat dipulau Jawa adalah Asrama Putra Kalimantan Barat (ASPURA) yang dihuni oleh para Pelajar, Mahasiswa dalam tahap proses Pendidikan di pulau Jawa. berdiri dan dikelola oleh Pemerintah Provinsi Kalimantan Barat antaralain adalah penghubung yang terpusat di Jakarta, Para Penghuni Asrama adalah Mahasiswa dalam tahap proses Pendidikan di pulau Jawa. 
+                    Asrama Rahadi Oesman-Bandung atau yang biasa disingkat ASRO-Bandung. Adalah Asrama Putra Kalimantan Barat di Kota Bandung yang berlokasi:
+                    Alamat : Gegerkalong Hilir Jl. Picung No. 107 Kecamatan Sukasari Kelurahan Sukasari Bandung Jawa Barat. 
+                    Berdiri Pada 5 Mei 2005. Asro Bandung Berdiri dalam Organisasi KPMKB (Keluarga Pelajar Mahasiswa Kalimantan Barat) - Bandung Sebagai gerbang utama dan simbol dari eksistensi Mahasiswa Kalbar di Bandung ditetapkan. Asro Juga ditetapkan sebagai Sekretariat KPMKB, tempat berkumpulnya para mahasiswa kalbar yang ada di Bandung. Tujuan KPMKB a. Memperkukuh solidaritas pelajar-pelajar kalbar yang ada di Bandung b. Membantu meringankan biaya pelajar-pelajar yang kurang mampu dengan adannya Asrama c. Menjadi Pusat Pengenalan dan pertukaran budaya. 
                 </p>            
                     <b>Tujuan KPMKB</b>
                         a. Memperkukuh solidaritas pelajar-pelajar kalbar yang ada di Bandung
