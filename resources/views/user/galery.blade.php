@@ -440,6 +440,34 @@
                         </div>
                     </div>
                 </div>
+                <div class="col-xs-12 col-sm-3">
+                    <div class="single-blog">
+                        <div class="blog-photo">
+                            <img src="images/Penghuni/Juna.jpg" alt="">
+                        </div>
+                        <div class="blog-content">
+                            <h3><a href="#">Nazarius Riwanto</a></h3>
+                            <ul class="blog-meta">
+                                <li><span class="ti-user"></span> <a href="#">Uv Pendidikan Indonesia</a></li>
+                                <li><span class="ti-calendar"></span> <a href="#">Pendidikan Sosial</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-3">
+                    <div class="single-blog">
+                        <div class="blog-photo">
+                            <img src="images/Penghuni/Juna.jpg" alt="">
+                        </div>
+                        <div class="blog-content">
+                            <h3><a href="#">Okta Kamiksius</a></h3>
+                            <ul class="blog-meta">
+                                <li><span class="ti-user"></span> <a href="#">Stimik Likmi</a></li>
+                                <li><span class="ti-calendar"></span> <a href="#"> s2 SI Bisnis</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
             </div>
     </div>
 </section>
