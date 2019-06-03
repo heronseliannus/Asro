@@ -443,7 +443,7 @@
                 <div class="col-xs-12 col-sm-3">
                     <div class="single-blog">
                         <div class="blog-photo">
-                            <img src="images/Penghuni/Juna.jpg" alt="">
+                            <img src="images/Penghuni/.jpg" alt="">
                         </div>
                         <div class="blog-content">
                             <h3><a href="#">Nazarius Riwanto</a></h3>
@@ -457,7 +457,7 @@
                 <div class="col-xs-12 col-sm-3">
                     <div class="single-blog">
                         <div class="blog-photo">
-                            <img src="images/Penghuni/Juna.jpg" alt="">
+                            <img src="images/Penghuni/.jpg" alt="">
                         </div>
                         <div class="blog-content">
                             <h3><a href="#">Okta Kamiksius</a></h3>
