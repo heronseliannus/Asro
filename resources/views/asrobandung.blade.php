@@ -367,42 +367,37 @@
                             <div class="testimonial-photo">
                                 <img src="images/asro1.jpg" alt="">
                             </div>
-                            <h3>Angkatan 2016</h3>
+                            <h3>- Asrama Putra -</h3>
                         </div>
                         <div class="testimonial">
                             <div class="testimonial-photo">
-                                <img src="images/asro1.jpg" alt="">
+                                <img src="images/asputri.jpg" alt="">
                             </div>
-                            <h3>Angkatan 2017</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel vero dolore officiis, velit id libero illum harum hic magni, quae repellendus adipisci possimus saepe nostrum doloribus repudiandae asperiores commodi voluptate.</p>
+                            <h3>- Asrama Putri -</h3>                            
                         </div>
                         <div class="testimonial">
                             <div class="testimonial-photo">
-                                <img src="images/asro1.jpg" alt="">
+                                <img src="images/keluarga1.jpg" alt="">
                             </div>
-                            <h3>Angkatan 2018</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel vero dolore officiis, velit id libero illum harum hic magni, quae repellendus adipisci possimus saepe nostrum doloribus repudiandae asperiores commodi voluptate.</p>
+                            <h3>- Asrama Putra -</h3>                 
                         </div>
                         <div class="testimonial">
                             <div class="testimonial-photo">
-                                <img src="images/asro1.jpg" alt="">
+                                <img src="images/keluarga2.jpg" alt="">
                             </div>
-                            <h3>Angkatan 2019</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel vero dolore officiis, velit id libero illum harum hic magni, quae repellendus adipisci possimus saepe nostrum doloribus repudiandae asperiores commodi voluptate.</p>
+                            <h3>- Asrama Putra - </h3>                        
                         </div>
                         <div class="testimonial">
                             <div class="testimonial-photo">
-                                <img src="images/asro1.jpg" alt="">
+                                <img src="images/keluarga3.jpg" alt="">
                             </div>
-                            <h3>Angkatan 2020</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel vero dolore officiis, velit id libero illum harum hic magni, quae repellendus adipisci possimus saepe nostrum doloribus repudiandae asperiores commodi voluptate.</p>
+                            <h3>- Asrama Putra -</h3>
                         </div>
                         <div class="testimonial">
                             <div class="testimonial-photo">
-                                <img src="images/asro1.jpg" alt="">
+                                <img src="images/keluarga4.jpg" alt="">
                             </div>
-                            <h3>Angkatan 2021</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel vero dolore officiis, velit id libero illum harum hic magni, quae repellendus adipisci possimus saepe nostrum doloribus repudiandae asperiores commodi voluptate.</p>
+                            <h3>- Asrama Putra -</h3>                        
                         </div>
                     </div>
                 </div>
