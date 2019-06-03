@@ -163,7 +163,7 @@ input:-webkit-autofill:focus {
     padding: 8px 30px;
     border-radius: 50px;
     color: #ffffff;
-    background-color: #cc6600;
+    background-color: #0000ff;
     -webkit-transition: 0.3s;
     transition: 0.3s;
     border: none;
