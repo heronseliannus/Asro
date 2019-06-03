@@ -290,6 +290,7 @@
         </div>
     </section>
 
+    <!-- Blog Area -->
     <section class="section-padding gray-bg" id="blog-page">
         <div class="container">
             <div class="row">
@@ -347,7 +348,9 @@
             </div>
         </div>
     </section>
+    <!--Blog Area -->
 
+    <!-- Testimonial  -->
     <section class="testimonial-area section-padding gray-bg overlay" id="feature-page">
         <div class="container">
             <div class="row">
@@ -406,7 +409,7 @@
             </div>
         </div>
     </section>
-
+    <!-- testimonial area -->
 
     <section class="section-padding gray-bg" id="blog-page">
     <div class="container">
@@ -456,7 +459,7 @@
     </section>
     </footer>
 
-
+    <!-- Content Area -->
     <footer class="footer-area relative sky-bg" id="contact-page">
         <div class="absolute footer-bg"></div>
         <div class="footer-top">
@@ -545,7 +548,7 @@
             </div>
         </div>
     </footer>
-
+    <!-- Content Area -->
 
 
 
