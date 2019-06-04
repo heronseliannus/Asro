@@ -6,11 +6,21 @@ use Illuminate\Http\Request;
 
 class usercontroller extends Controller
 {
-    public function indext()
+    public function index()
     {
-        return view ('user.formuser', ['user'=> formuser::all()]);
-        {
-                public function store(Request $_reguest)
+        return view ('user.formuser', ['user' => formuser::all()]);
+    }
+        public function store (Request $reguest)
+            {
+                $namefoto;
+                if ($reguest ['photo'])
+                {
+                    $namefoto => $reguest ['photo'] ->store =('images');
+                }
+                else 
+                {
+                    $namefoto="";
+                }
 
                 $formuser = new user;
 
@@ -18,19 +28,18 @@ class usercontroller extends Controller
                 $user ->Last_name = $request ['form-lastname'];
                 $user ->Password = $request['form-password'];
                 $user ->Nik = $request ['form-nik'];
-                $user ->Email = $request ['form-email'];
+                $user ->Email = $request ['form-user-email'];
                 $user ->Reemail= $request ['form-reeamil'];
                 $user ->Nomor_hp = $request ['form-nomor_hp'];
-                $user ->Alamat = $request ['form-alamat'];
+                $user ->Alamat = $request ['form-address'];
                 $user ->Provinsi = $request ['from-provinsi'];
                 $user ->Kabupaten = $request ['from-kabupaten'];
                 $user ->Kota = $request ['from-kota'];
 
-                $user ->Tanggal = $request ['from-tanggal'];
-                $user ->Bulan = $request ['form-bulan'];
-                $user ->Tahun = $request ['form-tahun'];
+                $user ->Tanggal = carbon::parse($request ['select-date'], '-', $request ['select-moth'], '-',  $request ['from-dete-year']);
 
                 $user -> save();
+
+                return view ('user', compact('$reguest'));
             }
-    }
 }
