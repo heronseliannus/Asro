@@ -377,15 +377,15 @@
                         </div>
                         <div class="testimonial">
                             <div class="testimonial-photo">
-                                <img src="images/keluarga1.jpg" alt="">
+                                <img src="images/keluarga4.jpg" alt="">
                             </div>
                             <h3>- Asrama Putra -</h3>                 
                         </div>
                         <div class="testimonial">
                             <div class="testimonial-photo">
-                                <img src="images/keluarga2.jpg" alt="">
+                                <img src="images/aspuri2.jpg" alt="">
                             </div>
-                            <h3>- Asrama Putra - </h3>                        
+                            <h3>- Asrama Putri - </h3>                        
                         </div>
                         <div class="testimonial">
                             <div class="testimonial-photo">
@@ -395,9 +395,15 @@
                         </div>
                         <div class="testimonial">
                             <div class="testimonial-photo">
-                                <img src="images/keluarga4.jpg" alt="">
+                                <img src="images/aspuri3.jpg" alt="">
                             </div>
-                            <h3>- Asrama Putra -</h3>                        
+                            <h3>- Asrama Putri - </h3>                        
+                        </div>
+                        <div class="testimonial">
+                            <div class="testimonial-photo">
+                                <img src="images/aspuri4.jpg" alt="">
+                            </div>
+                            <h3>- Asrama Putri - </h3>                        
                         </div>
                     </div>
                 </div>
