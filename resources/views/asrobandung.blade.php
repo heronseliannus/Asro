@@ -383,7 +383,7 @@
                         </div>
                         <div class="testimonial">
                             <div class="testimonial-photo">
-                                <img src="images/aspuri2.jpg" alt="">
+                                <img src="images/aspuri2.jpeg" alt="">
                             </div>
                             <h3>- Asrama Putri - </h3>                        
                         </div>
@@ -395,13 +395,13 @@
                         </div>
                         <div class="testimonial">
                             <div class="testimonial-photo">
-                                <img src="images/aspuri3.jpg" alt="">
+                                <img src="images/aspuri3.jpeg" alt="">
                             </div>
                             <h3>- Asrama Putri - </h3>                        
                         </div>
                         <div class="testimonial">
                             <div class="testimonial-photo">
-                                <img src="images/aspuri4.jpg" alt="">
+                                <img src="images/aspuri4.jpeg" alt="">
                             </div>
                             <h3>- Asrama Putri - </h3>                        
                         </div>
