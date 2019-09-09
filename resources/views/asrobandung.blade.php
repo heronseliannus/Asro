@@ -412,20 +412,33 @@
     </section>
     <!-- testimonial area -->
 
-    <section class="section-padding gray-bg" id="blog-page">
-    <div class="container">
-            <div class="row">
-                <div class="col-xs-12 col-sm-3">
-                    <div class="single-blog">
-                        <div class="blog-photo">
-                            <img src="images/sambas.png" alt="">
-                        </div>
-                        <div class="blog-content text-center">
-                            <h3><a href="#">Ikmas Bandung</a></h3>
-                        </div>
-                    </div>
+
+    <!-- testimonial organitation content -->
+    <section class="section-padding gray-bg">
+        <div class="blog-content text-center">
+        <div class="row">
+            <h3> Organisasri Mahasiswa Kalimantan Barat di Bandung</h3>
+            <div class="single-blog">
+            <div class="col-xs-12 col-sm-2">  
+                <img src="images/logo asro.png" alt="">
+            </div>
+            <div class="vol-xs-12 col-sm-2">
+                <img src="images/logo asro.png" alt="">
+            </div>
+            <div class="col-xs-12 col-sm-2">
+                <img src="images/logo asro.png" alt="">
+            </div>
+            <div class="col-xs-12 col-sm-2">
+                <img src="images/logo asro.png" alt="">
+            </div>
+            <div class="col-xs-12 col-sm-2 pull-center" >
+                <div class="blog-photo">
+                    <img src="images/logo asro.png" alt="">
                 </div>
-                <div class="col-xs-12 col-sm-3">
+            </div>
+</div>
+
+                <!-- <div class="col-xs-12 col-sm-3">
                     <div class="single-blog">
                         <div class="blog-photo">
                             <img src="images/Pemprov.png" alt="">
@@ -454,11 +467,11 @@
                             <h3><a href="#">ASRO Bandung</a></h3>
                         </div>
                     </div>
-                </div>
-            </div>
-    </div>
+                </div> -->
+        </div>
+        </div>
     </section>
-    </footer>
+ 
 
     <!-- Content Area -->
     <footer class="footer-area relative sky-bg" id="contact-page">
