@@ -414,61 +414,53 @@
 
 
     <!-- testimonial organitation content -->
-    <section class="section-padding gray-bg">
-        <div class="blog-content text-center">
-        <div class="row">
-            <h3> Organisasri Mahasiswa Kalimantan Barat di Bandung</h3>
-            <div class="single-blog">
-            <div class="col-xs-12 col-sm-2">  
-                <img src="images/logo asro.png" alt="">
+    <section class="gray-bg section-padding">
+        <div class="container">
+            <div class="page-titile text-center">
+                <h2> Organisasi Mahasiswa Kalimantan Barat</h2>
             </div>
-            <div class="vol-xs-12 col-sm-2">
-                <img src="images/logo asro.png" alt="">
-            </div>
-            <div class="col-xs-12 col-sm-2">
-                <img src="images/logo asro.png" alt="">
-            </div>
-            <div class="col-xs-12 col-sm-2">
-                <img src="images/logo asro.png" alt="">
-            </div>
-            <div class="col-xs-12 col-sm-2 pull-center" >
-                <div class="blog-photo">
-                    <img src="images/logo asro.png" alt="">
-                </div>
-            </div>
-</div>
-
-                <!-- <div class="col-xs-12 col-sm-3">
-                    <div class="single-blog">
-                        <div class="blog-photo">
-                            <img src="images/Pemprov.png" alt="">
-                        </div>
-                        <div class="blog-content text-center">
-                            <h3><a href="#">Pemprov Kalbar</a></h3>
-                        </div>
+            <div class="row">
+                <div class="col-xs-12 col-sm-3">
+                    <div class="box">
+                        <img src="images/logo asro.png" alt="">
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-3">
-                    <div class="single-blog">
-                        <div class="blog-photo">
-                            <img src="images/Kpmkb.png" alt="">
-                        </div>
-                        <div class="blog-content text-center">
-                            <h3><a href="#">KPMKB - Bandung</a></h3>
-                        </div>
+                    <div class="box">
+                        <img src="images/logo asro.png">
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-3">
-                    <div class="single-blog">
-                        <div class="blog-photo">
-                            <img src="images/Asro.png" alt="">
-                        </div>
-                        <div class="blog-content text-center">
-                            <h3><a href="#">ASRO Bandung</a></h3>
-                        </div>
+                    <div class="box">
+                        <img src="images/logo asro.png">
                     </div>
-                </div> -->
-        </div>
+                </div>
+                <div class="col-xs-12 col-sm-3">
+                    <div class="box">
+                        <img src="images/logo asro.png">
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-3">
+                    <div class="box">
+                        <img src="#">
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-3">
+                    <div class="box">
+                        <img src="images/logo asro.png">
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-3">
+                    <div class="box">
+                        <img src="images/logo asro.png">
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-3">
+                    <div class="box">
+                        <img src="#">
+                    </div>
+                </div>
+             </div>
         </div>
     </section>
  
