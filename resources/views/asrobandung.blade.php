@@ -416,9 +416,13 @@
     <!-- testimonial organitation content -->
     <section class="gray-bg section-padding">
         <div class="container">
-            <div class="page-titile text-center">
-                <h2> Organisasi Mahasiswa Kalimantan Barat</h2>
+        <div class="row">
+            <div class="col-xs-12 text-center">
+                <div class="page-titile">
+                    <h2> Organisasi Mahasiswa Kalimantan Barat</h2>
+                </div>
             </div>
+        </div>
             <div class="row">
                 <div class="col-xs-12 col-sm-3">
                     <div class="box">
