@@ -174,12 +174,12 @@
                                     </div>
                                     <div class="col-xs-6 col-md-3">
                                         <div class="caption-photo one" data-animation="animated fadeInRight">
-                                            <img src="images/Kepengurusan/2016-2017/Aris.jpg" alt="">
+                                            <img src="images/Bpa/Aris.jpg" alt="">
                                         </div>
                                     </div>
                                     <div class="col-xs-6 col-md-3">
                                         <div class="caption-photo two" data-animation="animated fadeInRight">
-                                            <img src="images/Kepengurusan/2016-2017/Dani.jpg" alt="">
+                                            <img src="images/Bpa/Ipung.jpg" alt="">
                                         </div>
                                     </div>
                                 </div>
