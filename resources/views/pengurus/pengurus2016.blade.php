@@ -8,7 +8,7 @@
             <div class="row">
                 <div class="col-xs-12 col-sm-12">
                     <div class="box">
-                        <img src="images/Kepengurusan/2016-2017/bpa16.jpg" alt="">                     
+                        <img src="images/Kepengurusan/2016-2017/bpa2016.jpg" alt="">                     
                     </div>
                 </div>
             </div>
