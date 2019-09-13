@@ -202,12 +202,12 @@
                                     </div>
                                     <div class="col-xs-6 col-md-3">
                                         <div class="caption-photo one" data-animation="animated fadeInRight">
-                                            <img src="images/Kepengurusan/2017-2018/Ferdy.jpg" alt="">
+                                            <img src="images/Bpa/Ferdy.jpg" alt="">
                                         </div>
                                     </div>
                                     <div class="col-xs-6 col-md-3">
                                         <div class="caption-photo two" data-animation="animated fadeInRight">
-                                            <img src="images/Kepengurusan/2017-2018/Heron.jpg" alt="">
+                                            <img src="images/Bpa/Heron.jpg" alt="">
                                         </div>
                                     </div>
                                 </div>
@@ -230,12 +230,12 @@
                                     </div>
                                     <div class="col-xs-6 col-md-3">
                                         <div class="caption-photo one" data-animation="animated fadeInRight">
-                                            <img src="images/Kepengurusan/2018-2019/Alif.jpg" alt="">
+                                            <img src="images/Bpa/Alif.jpg" alt="">
                                         </div>
                                     </div>
                                     <div class="col-xs-6 col-md-3">
                                         <div class="caption-photo two" data-animation="animated fadeInRight">
-                                            <img src="images/Kepengurusan/2018-2019/Hendrikus.jpg" alt="">
+                                            <img src="images/Bpa/Hendrikus.jpg" alt="">
                                         </div>
                                     </div>
                                 </div>
@@ -258,12 +258,12 @@
                                     </div>
                                     <div class="col-xs-6 col-md-3">
                                         <div class="caption-photo one" data-animation="animated fadeInRight">
-                                            <img src="images/Kepengurusan/2019-2020/Okang.jpg" alt="">
+                                            <img src="images/Bpa/Okang.jpg" alt="">
                                         </div>
                                     </div>
                                     <div class="col-xs-6 col-md-3">
                                         <div class="caption-photo two" data-animation="animated fadeInRight">
-                                            <img src="images/Kepengurusan/2019-2020/Yogi.jpg" alt="">
+                                            <img src="images/Bpa/Yogi.jpg" alt="">
                                         </div>
                                     </div>
                                 </div>
