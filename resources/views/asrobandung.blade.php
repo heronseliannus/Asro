@@ -165,12 +165,12 @@
                                     </div>
                                     <div class="col-xs-6 col-md-3">
                                         <div class="caption-photo one" data-animation="animated fadeInRight">
-                                            <img src="images/Bpa/Aris.jpg" alt="">
+                                            <img src="images/Bpa/aris.png" alt="">
                                         </div>
                                     </div>
                                     <div class="col-xs-6 col-md-3">
                                         <div class="caption-photo two" data-animation="animated fadeInRight">
-                                            <img src="images/Bpa/Ipung.jpg" alt="">
+                                            <img src="images/Bpa/dani.png" alt="">
                                         </div>
                                     </div>
                                 </div>
@@ -193,12 +193,12 @@
                                     </div>
                                     <div class="col-xs-6 col-md-3">
                                         <div class="caption-photo one" data-animation="animated fadeInRight">
-                                            <img src="images/Bpa/Ferdy.jpg" alt="">
+                                            <img src="images/Bpa/mones.png" alt="">
                                         </div>
                                     </div>
                                     <div class="col-xs-6 col-md-3">
                                         <div class="caption-photo two" data-animation="animated fadeInRight">
-                                            <img src="images/Bpa/Heron.jpg" alt="">
+                                            <img src="images/Bpa/rifki.png" alt="">
                                         </div>
                                     </div>
                                 </div>
@@ -221,12 +221,12 @@
                                     </div>
                                     <div class="col-xs-6 col-md-3">
                                         <div class="caption-photo one" data-animation="animated fadeInRight">
-                                            <img src="images/Bpa/Alif.jpg" alt="">
+                                            <img src="images/Bpa/alif.png" alt="">
                                         </div>
                                     </div>
                                     <div class="col-xs-6 col-md-3">
                                         <div class="caption-photo two" data-animation="animated fadeInRight">
-                                            <img src="images/Bpa/Hendrikus.jpg" alt="">
+                                            <img src="images/Bpa/hendrik.png" alt="">
                                         </div>
                                     </div>
                                 </div>
@@ -249,12 +249,12 @@
                                     </div>
                                     <div class="col-xs-6 col-md-3">
                                         <div class="caption-photo one" data-animation="animated fadeInRight">
-                                            <img src="images/Bpa/Okang.jpg" alt="">
+                                            <img src="images/Bpa/okang.png" alt="">
                                         </div>
                                     </div>
                                     <div class="col-xs-6 col-md-3">
                                         <div class="caption-photo two" data-animation="animated fadeInRight">
-                                            <img src="images/Bpa/Yogi.jpg" alt="">
+                                            <img src="images/Bpa/yogi.png" alt="">
                                         </div>
                                     </div>
                                 </div>
