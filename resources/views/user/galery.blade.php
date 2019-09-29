@@ -33,9 +33,7 @@
                         <th scope="col">Bakau, 09-10-1997</th>
                         <th scope="col">Universitas Pasundan</th>
                         <th scope="col">Keperawatan</th>
-
                     </tr>
-                
                     <tr class="bg-primary">
                         <th scope="col"> 03</th>
                         <th scope="col">Luthfi Syarif</th>
@@ -44,7 +42,6 @@
                         <th scope="col">Universitas Pasundan</th>
                         <th scope="col">Teknik informatika</th>                   
                     </tr>
-
                     <tr class="bg-warning">
                         <th scope="col"> 04</th>
                         <th scope="col">Adventus Harun</th>
@@ -53,7 +50,6 @@
                         <th scope="col">Universitas Pasundan</th> 
                         <th scope="col">Teknik informatika</th>                   
                     </tr>
-
                     <tr class="bg-primary">
                         <th scope="col"> 05</th>
                         <th scope="col">Krispinus Irpan Olin</th>
@@ -62,7 +58,6 @@
                         <th scope="col">Universitas Falatehan</th> 
                         <th scope="col">Teknik informatika</th>                   
                     </tr>
-
                     <tr class="bg-warning">
                         <th scope="col"> 06</th>
                         <th scope="col">luthfi syarif</th>
@@ -71,7 +66,6 @@
                         <th scope="col">Universitas Pasundan</th> 
                         <th scope="col">Teknik informatika</th>                   
                     </tr>
-
                     <tr class="bg-primary">
                         <th scope="col"> 07</th>
                         <th scope="col">luthfi syarif</th>
@@ -80,7 +74,6 @@
                         <th scope="col">Universitas Pasundan</th> 
                         <th scope="col">Teknik informatika</th>                   
                     </tr>
-
                     <tr class="bg-warning">
                         <th scope="col"> 08</th>
                         <th scope="col">luthfi syarif</th>
@@ -89,7 +82,6 @@
                         <th scope="col">Universitas Pasundan</th> 
                         <th scope="col">Teknik informatika</th>                   
                     </tr>
-
                     <tr class="bg-primary">
                         <th scope="col"> 09</th>
                         <th scope="col">luthfi syarif</th>
@@ -98,7 +90,6 @@
                         <th scope="col">Universitas Pasundan</th> 
                         <th scope="col">Teknik informatika</th>                   
                     </tr>
-
                     <tr class="bg-warning">
                         <th scope="col"> 10</th>
                         <th scope="col">luthfi syarif</th>
