@@ -170,7 +170,7 @@
                                     </div>
                                     <div class="col-xs-6 col-md-3">
                                         <div class="caption-photo two" data-animation="animated fadeInRight">
-                                            <img src="images/Bpa/dani.pn g" alt="">
+                                            <img src="images/Bpa/dani.png" alt="">
                                         </div>
                                     </div>
                                 </div>
