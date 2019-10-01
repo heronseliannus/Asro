@@ -3,14 +3,14 @@
 @section('content')
 
 <footer class="footer-area relative sky-bg" id="register">
-        <div class="absolute footer-bg"></div>
+    <div class="absolute footer-bg"></div>
         <div class="footer-top">
             <div class="container">
                 <div class="row">
                     <div class="col-xs-12 col-sm-6 col-sm-offset-3 text-center">
                         <div class="page-title">
-                            <h2>Register</h2>
-                            <p>Input Registrasi Peserta Calon Penguni</p>
+                            <h2>Input Data diri Penghuni</h2>
+                            <p>Input Registrasi Penguni</p>
                         </div>
                     </div>
                 </div>
@@ -50,15 +50,15 @@
                                 <input type="text" id="form-firstname" name="form-firstname" placeholder="First name" class="form-control" required="required">
                                 <input type="text" id="form-lastname" name="form-lastname" placeholder="Last name" class="form-control" required="required">
                             </div>
-                            <input type="password" id="form-password" name="form-password" class="form-control" placeholder="Password">
-                            <input type="text" id="form-nik" name="form-nik" class="form-control" placeholder="NIK">
+                                <input type="password" id="form-password" name="form-password" class="form-control" placeholder="Password">
+                                <input type="text" id="form-nik" name="form-nik" class="form-control" placeholder="NIK">
                             <div class="form-double">
                                 <input type="email" id="form-user-email" name="form-user-email" class="form-control" placeholder="email" required="required">
                                 <input type="emailtype" id="form-re-email" name="form-re-email" class="form-control" placeholder="Re-enter email" required="required">                                
                             </div>          
-                            <input type="text" id="form-phone-num" name="form-phone-number" class="form-control" placeholder="Phone Number">
-                            <div class="form-group">
-                            <textarea class="form-control" name="form-address" id="form-address" rows="3"placeholder="Address"></textarea>
+                                <input type="text" id="form-phone-num" name="form-phone-number" class="form-control" placeholder="Phone Number">
+                                <div class="form-group">
+                                <textarea class="form-control" name="form-address" id="form-address" rows="3"placeholder="Address"></textarea>
                             </div>          
                             <div class="form-group">
                                 <select class="form-control" name="select-state" id="select-state">
@@ -173,40 +173,18 @@
                                 <div class="form-group">
                                     <input type="checkbox" aria-label="...">
                                     <label for="">Saya menyetujui Syarat dan Ketentuan</label>
-                                </div>                                   
-                                
-                                <div class="form-group">
-                                    <input type="checkbox" aria-label="...">
-                                    <label for="">Saya memberikan hak atas data diri Anda untuk situs Anda</label>
-                                </div>                                   
-
-                                <div class="form-group">
-                                    <input type="checkbox" aria-label="...">
-                                    <label for="">Semua data yang telah disi sesuai dengan data dan ketentuan yang berlaku</label>
-                                </div>                                    
+                                </div>                               
                                                        
                             <!-- <textarea name="message" id="form-message" name="form-message" rows="5" class="form-control" placeholder="Your message" required="required"></textarea> -->
-                            <button type="submit" class="btn btn-success">Registrasi</button>
+                            <button type="submit" class="btn btn-success">Simpan</button>
+                            <button type="submit" class="btn btn-success">Batal</button>
+                            <button type="submit" class="btn btn-warning">Hapus</button>
                         </form>
                     </div>
                 </div>
             </div>
         </div>
-        <div class="footer-middle">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xs-12 col-sm-6 pull-right">
-                        <ul class="social-menu text-right x-left">
-                            <li><a href="#"><i class="ti-facebook"></i></a></li>
-                            <li><a href="#"><i class="ti-twitter"></i></a></li>
-                            <li><a href="#"><i class="ti-google"></i></a></li>
-                            <li><a href="#"><i class="ti-linkedin"></i></a></li>
-                            <li><a href="#"><i class="ti-github"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </footer>
+    </div>
+<br>
 
 @endsection
