@@ -12,13 +12,8 @@ use Illuminate\Http\Request;
 |
 */
 
-Route::get('/', function () {
-    return view('asrobandung');
-});
 
-Route::get('/asrobandung', function(){
-    return view('asrobandung');
-});
+
 
 Route::get('/menu', function()
 {
@@ -34,21 +29,9 @@ Route::get('/formuser', function()
     return view('user/formuser');
 });
 
-// formulir
+// asro bandung controller
 
-Route::get('/heron', function()
-{
-    return view('fomulir/heron');
-});
-Route::get('/heronselianus', function()
-{
-    return view('fomulir/heronselianus');
-});
-
-Route::get('/lohong', function()
-{
-    return view('fomulir/lohong');
-});
+Route::get('asrobandung','UserController@index');
 
 // login User
 
