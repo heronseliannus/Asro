@@ -29,15 +29,18 @@ Route::get('/formuser', function()
     return view('usermaster/formuser');
 });
 
+
+Route::get('/user', function()
+{
+    return view('usermaster/user');
+});
+
 // asro bandung controller
 
 Route::get('user','UserController@index');
 Route::get('user','UserController@show');
 
-// Route::get('/user', function()
-// {
-//     return view('usermaster/user');
-// });
+
 
 
 
