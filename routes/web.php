@@ -26,13 +26,18 @@ Route::get('/sejarah', function()
 
 Route::get('/formuser', function()
 {
-    return view('user/formuser');
+    return view('usermaster/formuser');
 });
 
 // asro bandung controller
 
 Route::get('user','UserController@index');
 Route::get('user','UserController@show');
+
+// Route::get('/user', function()
+// {
+//     return view('usermaster/user');
+// });
 
 
 

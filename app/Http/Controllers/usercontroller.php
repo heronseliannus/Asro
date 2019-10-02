@@ -8,7 +8,7 @@ class UserController extends Controller
 {
     public function index()
     {
-        return view('user/user');
+        return view('usermaster/user');
     }
 
     public function show()
@@ -16,9 +16,7 @@ class UserController extends Controller
         $users= DB::table('user')->get();
         
         $users = 'anda hanya sampai kesini';
-        
-
-        return view('usermaster/users');
-        dd( $users);
+        dd($users);
+        return view('usermaster/users', ['users'=> $users]);
     }
 }
