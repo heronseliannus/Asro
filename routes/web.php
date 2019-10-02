@@ -13,7 +13,7 @@ use Illuminate\Http\Request;
 */
 
 
-
+Route::get('asrobandung','AsrobandungController@index');
 
 Route::get('/menu', function()
 {
@@ -31,7 +31,12 @@ Route::get('/formuser', function()
 
 // asro bandung controller
 
-Route::get('asrobandung','UserController@index');
+Route::get('user','UserController@index');
+Route::get('user','UserController@show');
+
+
+
+
 
 // login User
 
