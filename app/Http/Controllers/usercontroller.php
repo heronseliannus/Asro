@@ -14,8 +14,11 @@ class UserController extends Controller
     public function show()
     {
         $users= DB::table('user')->get();
-        dd($users);
         
-        return view('user', ['user' => $users]);
+        $users = 'anda hanya sampai kesini';
+        
+
+        return view('usermaster/users');
+        dd( $users);
     }
 }

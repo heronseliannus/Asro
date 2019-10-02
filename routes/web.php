@@ -42,12 +42,12 @@ Route::get('user','UserController@show');
 
 Route::get('/login', function()
 {
-    return view('user/login');
+    return view('usermaster/login');
 });
 
 Route::get('/galery', function()
 {
-    return view('user/galery');
+    return view('usermaster/galery');
 });
 
 Route::get('/formdaftar', function()
