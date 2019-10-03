@@ -105,6 +105,11 @@
                                 <textarea name="text" class="form-control" placeholder="Alamat"></textarea>
                             </div>
                         </div>
+                        <div class="form-group">
+                            <label class="col-sm-2 control-label">Jenis Kelamin <br></label>
+                                <input type="checkbox" class="#" placeholder="Laki-laki">Laki-laki
+                                <input type="checkbox" class="#" placeholder="Perempuan">Perempuan                          
+                        </div>
                         <div class="form-double">
                             <label class="col-sm-2 control-label"> Alamat Email </label>
                             <div class="col-sm-10">
@@ -154,14 +159,21 @@
                                 </select>
                             </div>
                         </div>
-                        <div class="">
-
+                        <div class="form-group">
+                            <label class="col-sm-2 control-label"> Perguruan Tinggi </label>
+                            <div class="col-sm-10">
+                                <input type="text" class="form-control" placeholder="Perguruan Tinggi">
+                            </div>
                         </div>
-                        <div class="">
+                        <div class="form-group">
+                            <label class="col-sm-2 control-label"> Jurusan </label>
+                            <div class="col-sm-10">              
+                                <input type="text" class="form-control" placeholder="Nama Lengkap">
+                            </div>
+                        </div>
                             <button type="submit" class="button">Submit</button>
                             <button type="submit" class="button">Batal</button>
                             <button type="warning" class="button">hapus</button>
-                        </div>
                     </form>
                 </div>
             </div>
