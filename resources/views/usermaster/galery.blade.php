@@ -1,107 +1,54 @@
 @extends('layout.menu')
-@section('title','Daftar Penghuni Asrama')
+@section('title','Daftar Mahasiswa Provinsi Kalimantan Barat')
 @section('content')
 
-
-<section class="section-padding gray-bg" id="blog-page">
-    <div class="container">
+<footer class="footer-area relative sky-bg" id="register">
+    <!-- <div class="absolute footer-bg"> </div> -->
+    <div class="footer-top">
+        <div class="container">
             <div class="row">
-            <table class="table">
-                <thead>
-                    <tr class="bg-warning">
-                        <th scope="col">No</th>
-                        <th scope="col">Nama</th>
-                        <th scope="col">Alamat</th>
-                        <th scope="col">Tempat/Tgl/Lahir</th>
-                        <th scope="col">Perguruan Tinggi
-                        <th scope="col">Jurusan</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr class="bg-primary">
-                        <th scope="col"> 01 </th>
-                        <th scope="col">Heronselianus</th>
-                        <th scope="col">Ngabang, Kalimantan Barat </th>
-                        <th scope="col">Toho Raba, 12-10-1995 </th>
-                        <th scope="col">Piksi Ganesha</th>
-                        <th scope="col">Manajemen Informatika</th>
-                    </tr>
-                    <tr class="bg-warning">
-                        <th scope="col">02</th>
-                        <th scope="col">Yogi Saputra</th>
-                        <th scope="col">Sambas, Kalimantan Barat</th>
-                        <th scope="col">Bakau, 09-10-1997</th>
-                        <th scope="col">Universitas Pasundan</th>
-                        <th scope="col">Keperawatan</th>
-                    </tr>
-                    <tr class="bg-primary">
-                        <th scope="col"> 03</th>
-                        <th scope="col">Luthfi Syarif</th>
-                        <th scope="col">Karangan, kalimantan Barat</th>
-                        <th scope="col">Karangan, 19-07-2000</th>
-                        <th scope="col">Universitas Pasundan</th>
-                        <th scope="col">Teknik informatika</th>                   
-                    </tr>
-                    <tr class="bg-warning">
-                        <th scope="col"> 04</th>
-                        <th scope="col">Adventus Harun</th>
-                        <th scope="col">Karangan, kalimantan Barat</th>
-                        <th scope="col">Karangan, 19-07-2000</th>
-                        <th scope="col">Universitas Pasundan</th> 
-                        <th scope="col">Teknik informatika</th>                   
-                    </tr>
-                    <tr class="bg-primary">
-                        <th scope="col"> 05</th>
-                        <th scope="col">Krispinus Irpan Olin</th>
-                        <th scope="col">Pontianak, Kalimantan Barat</th>
-                        <th scope="col">Pontianak, 25-10-1997</th>
-                        <th scope="col">Universitas Falatehan</th> 
-                        <th scope="col">Teknik informatika</th>                   
-                    </tr>
-                    <tr class="bg-warning">
-                        <th scope="col"> 06</th>
-                        <th scope="col">luthfi syarif</th>
-                        <th scope="col">Karangan, kalimantan Barat</th>
-                        <th scope="col">Karangan, 19-07-2000</th>
-                        <th scope="col">Universitas Pasundan</th> 
-                        <th scope="col">Teknik informatika</th>                   
-                    </tr>
-                    <tr class="bg-primary">
-                        <th scope="col"> 07</th>
-                        <th scope="col">luthfi syarif</th>
-                        <th scope="col">Karangan, kalimantan Barat</th>
-                        <th scope="col">Karangan, 19-07-2000</th>
-                        <th scope="col">Universitas Pasundan</th> 
-                        <th scope="col">Teknik informatika</th>                   
-                    </tr>
-                    <tr class="bg-warning">
-                        <th scope="col"> 08</th>
-                        <th scope="col">luthfi syarif</th>
-                        <th scope="col">Karangan, kalimantan Barat</th>
-                        <th scope="col">Karangan, 19-07-2000</th>
-                        <th scope="col">Universitas Pasundan</th> 
-                        <th scope="col">Teknik informatika</th>                   
-                    </tr>
-                    <tr class="bg-primary">
-                        <th scope="col"> 09</th>
-                        <th scope="col">luthfi syarif</th>
-                        <th scope="col">Karangan, kalimantan Barat</th>
-                        <th scope="col">Karangan, 19-07-2000</th>
-                        <th scope="col">Universitas Pasundan</th> 
-                        <th scope="col">Teknik informatika</th>                   
-                    </tr>
-                    <tr class="bg-warning">
-                        <th scope="col"> 10</th>
-                        <th scope="col">luthfi syarif</th>
-                        <th scope="col">Karangan, kalimantan Barat</th>
-                        <th scope="col">Karangan, 19-07-2000</th>
-                        <th scope="col">Universitas Pasundan</th> 
-                        <th scope="col">Teknik informatika</th>                   
-                    </tr>
-                </tbody>
-            </table>
+                <div class="col-xs-12 col-sm-6 col sm-offset-3 text-center">
+                    <div class="page-title">
+                        <h3> Isi Data Mahasiswa </h3>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-12 col-md-12">
+                        <form action="#" class="form-control" method="#" id="#">
+                            <div class="form-control">
+                                <input type="text" flaceheolder="Nama Lengkap">
+                            </div>
+                            <div class="form-control">
+                                <input type="text" flaceheolder="Alamat Lengkap">
+                            </div>
+                            <div class="form-control" flacheolder="email">
+                                <input type="text" flaceholder="Email">
+                            </div>
+                            <div class="form-control">
+                                <input type="text" flaceholder="Masukan Email Anda">
+                            </div>
+                            <div class="form-group">
+                                <select class="form-control">
+                                    <option value="Kab.Bengkayang">Kab. Bengkayang</option>
+                                    <option value="Kab. Kapuas Hulu">Kab. Kapuas Hulu</option>
+                                    <option value="Kab. Kayong Utara"> Kab. Kkakyong Utara </option>
+                                    <option value="Kab. Ketapang"> Kab. Ketapang </option>
+                                    <option value="Kab. Kubu Raya"> Kab. Kubu Raya </option>
+                                    <option value="Kab. Landak"> Kab. Landak </option>
+                                    <option value="Kab. Melawi"> Kab. Melawi </option>
+                                    <option value="Kab. Mempawah"> Kab. Mempawah</option>
+                                    <option value="Kab. Sambas"> Kab. Sambas</option>
+                                    <option value="Kab. Sanggau"> Kab. Sanggau </option>
+                                    <option value="Kab. Sekadau"> Kab. Sekadau </option>
+                                    <option value="Kab. Sintang"> Kab. Sintang </option>
+                                    <option value="Kota Pontianak"> Kota Pontianak</option>
+                                    <option value="Kota Singkawanng"> Kota Singkawang</option>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
-</section>
-
-
+</footer>
 @endsection
