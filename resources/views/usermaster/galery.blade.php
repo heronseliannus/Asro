@@ -70,36 +70,55 @@
 
 
 
+<!-- 
 
-<footer class="footer-area relative sky-bg" id="register">
-    <div class="footer-top">
-        <div class="container">
-            <div class="row">
-                <div class="col-xs-12 col-sm-6 col-sm-offset-3 text-center">
-                    <div class="page-title">
-                        <h3> Isi Data Mahasiswa </h3>
+                        </form>
                     </div>
                 </div>
+            </div>
+        </div>
+    </div>
+</footer> -->
+
+<footer class="footer-area relative sky-bg" id="contact-page">
+        <div class="absolute footer-bg"></div>
+        <div class="footer-top">
+            <div class="container">
                 <div class="row">
-                    <div class="col-sm-12 col-md-12">
-                        <form action="#" class="form-control" method="#" id="#">
-                            <div class="form-control">
-                                <input type="text" flaceheolder="Nama Lengkap">
-                            <!-- </div> -->
-                            <div class="form-control">
-                                <input type="text" flaceheolder="Alamat Lengkap">
+                    <div class="col-xs-12 col-sm-8 col-sm-offset-2 text-center">
+                        <div class="page-title">
+                            <h2>Form Data Mahasiswa Kaliman Barat</h2>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-md-10 col-sm-offset-1 ">
+                    <form action="#" id="contact-us-form" method="post" class="contact-form">
+                        <div class="form-group">
+                            <label class="col-sm-2 control-label"> Nama Lengkap </label>
+                            <div class="col-sm-10">              
+                                <input type="text" class="form-control" placeholder="Nama Lengkap">
                             </div>
-                            <div class="form-control" flacheolder="email">
-                                <input type="text" flaceholder="Email">
+                        </div>
+                        <div class="form-group">
+                            <label class="col-sm-2 control-label">Alamat </label>
+                            <div class="col-sm-10">
+                                <textarea name="text" class="form-control" placeholder="Alamat"></textarea>
                             </div>
-                            <div class="form-control">
-                                <input type="text" flaceholder="Masukan Email Anda">
+                        </div>
+                        <div class="form-double">
+                            <label class="col-sm-2 control-label"> Alamat Email </label>
+                            <div class="col-sm-10">
+                                <input type="text" id="form-contact-name" name="form-name" placeholder="Your name" class="form-control" required="required">
+                                <input type="email" id="form-email" name="form-email" class="form-control" placeholder="E-mail address" required="required">
                             </div>
-                            <div class="form-group">
+                        </div>
+                        <div class="form-group">
+                            <label class="col-sm-2">Kabupaten</label>
+                            <div class="col-sm-10">
                                 <select class="form-control">
-                                    <option value="Kab.Bengkayang">Kab. Bengkayang</option>
+                                    <option value="Kab. Bengkayang">Kab. Bengkayang</option>
                                     <option value="Kab. Kapuas Hulu">Kab. Kapuas Hulu</option>
-                                    <option value="Kab. Kayong Utara"> Kab. Kkakyong Utara </option>
+                                    <option value="Kab. Kayong Utara"> Kab. Kakyong Utara </option>
                                     <option value="Kab. Ketapang"> Kab. Ketapang </option>
                                     <option value="Kab. Kubu Raya"> Kab. Kubu Raya </option>
                                     <option value="Kab. Landak"> Kab. Landak </option>
@@ -111,15 +130,53 @@
                                     <option value="Kab. Sintang"> Kab. Sintang </option>
                                     <option value="Kota Pontianak"> Kota Pontianak</option>
                                     <option value="Kota Singkawanng"> Kota Singkawang</option>
+                                </select>
                             </div>
-                        </form>
+                        </div>
+                        <div class="form-group">
+                            <label class="col-sm-2">Kota</label>
+                            <div class="col-sm-10">
+                                <select class="form-control">
+                                    <option value="Nagabang"> Ngabang </option>
+                                    <option value="Pontianak"> Pontianak </option>
+                                    <option value="Singkawang"> Singkawang </option>
+                                    <option value="Bengkayang"> Bengkayang </option>
+                                    <option value="Ketapang"> Ketapang </option>
+                                    <option value="Sambas"> Sambas </option>
+                                    <option value="Putusibau"> Putusibau </option>
+                                    <option value="Sanggau"> Sanggau </option>
+                                    <option value="Sintang"> Sintang </option>
+                                    <option value="Kayong"> Kayong </option>
+                                    <option value="Malawi"> Melawi </option>
+                                    <option value="Kubu"> Kubu </option>
+                                    <option value="Sekadau"> Sekadau </option>
+                                    <option value="Mempawah"> Mempawah </option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="">
+
+                        </div>
+                        <div class="">
+                            <button type="submit" class="button">Submit</button>
+                            <button type="submit" class="button">Batal</button>
+                            <button type="warning" class="button">hapus</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+        </div>
+        <div class="footer-bottom">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-12 text-center">
+                        Heronselianus &copy;Copyright 2019 All right resurved.
                     </div>
                 </div>
             </div>
         </div>
-    </div>
-</footer>
-
+    </footer>
 
 
     
