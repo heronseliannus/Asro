@@ -1,5 +1,7 @@
 @extends('layout.menu')
 @section('title','Daftar Mahasiswa Provinsi Kalimantan Barat')
+
+
 @section('content')
 
 <footer class="footer-area relative sky-bg" id="register">
