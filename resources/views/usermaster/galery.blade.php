@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <!doctype html>
 <html lang="{{ app()->getLocale() }}">
 
@@ -71,13 +70,6 @@
 
 
 
-=======
-@extends('layout.menu')
-@section('title','Daftar Mahasiswa Provinsi Kalimantan Barat')
-
-
-@section('content')
->>>>>>> 48cdc7677ff4e516892168c0f9cbde8b13d26da6
 
 <footer class="footer-area relative sky-bg" id="register">
     <div class="footer-top">
