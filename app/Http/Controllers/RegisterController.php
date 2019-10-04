@@ -6,7 +6,7 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use Illuminate\Support\facades\DB;
 
-class Datamhscontroller extends Controller
+class RegisterController extends Controller
 {
     public function index()
     {
@@ -15,8 +15,8 @@ class Datamhscontroller extends Controller
     public function show()
     {
         $registers = DB::table('register')->get();
-        
+        // dd($registers);
 
-        return view('usermaster/datamhs',['datamhs' => $datamhs]);
+        return view('usermaster/datamhs',['registers' => $registers]);
     }
 }

@@ -5,7 +5,6 @@
 @section('content')
 
 
-<p>halaman untuk menampilkan data</p>
 
 <section class="section-padding gray-bg">
 <div class="container">
@@ -14,23 +13,31 @@
     <thead>
         <tr class="bg-warning">
             <th scope="col-sm-12">Id</th>
-            <th scope="col-sm-12">Username</th>
-            <th scope="col-sm-12">Password</th>
+            <th scope="col-sm-12">Nama Lengkap</th>
+            <th scope="col-sm-12">Alamat</th>
+            <th scope="col-sm-12">Jenis Kelamin</th>
+            <th scope="col-sm-12">Eamil</th>
+            <th scope="col-sm-12">Re Email</th>
+            <th scope="col-sm-12">Kabupaten</th>
+            <th scope="col-sm-12">Kota</th>
+            <th scope="col-sm-12">Perguruan Tinggi</th>
+            <th scope="col-sm-12">Jurusan</th>
+            
         </tr>
     </thead>
     <tbody>
-    @foreach($datamhss as $datamhs)
+    @foreach($registers as $register)
         <tr class="bg-success">
-            <td> {{$datamhs->id}} </td>
-            <td> {{$datamhs->namalengkap}} </td>
-            <td> {{$datamhs->alamat}} </td>
-            <td> {{$datamhs->jenis_kelamin}} </td>
-            <td> {{$datamhs->email}} </td>
-            <td> {{$datamhs->re_email}} </td>
-            <td> {{$datamhs->kabupaten}} </td>
-            <td> {{$datamhs->kota}} </td>
-            <td> {{$datamhs->perguruan_tinggi}} </td>
-            <td> {{$datamhs->jurusan}} </td>
+            <td> {{$register->id}} </td>
+            <td> {{$register->namalengkap}} </td>
+            <td> {{$register->alamat}} </td>
+            <td> {{$register->jenis_kelamin}} </td>
+            <td> {{$register->email}} </td>
+            <td> {{$register->re_email}} </td>
+            <td> {{$register->kabupaten}} </td>
+            <td> {{$register->kota}} </td>
+            <td> {{$register->perguruan_tinggi}} </td>
+            <td> {{$register->jurusan}} </td>
     @endforeach
         </tr>
     </tbody>
