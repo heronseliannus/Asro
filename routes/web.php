@@ -40,10 +40,8 @@ Route::get('/user', function()
 Route::get('user','UserController@index');
 Route::get('user','UserController@show');
 
-Route::get('/datamhs', function()
-{
-    return view ('usermaster/datamhs');
-});
+Route::get('datamhs','Datamhscontroller@index');
+Route::get('datamhs','Datamhscontroller@show');
 
 
 
