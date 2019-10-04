@@ -35,11 +35,15 @@ Route::get('/user', function()
     return view('usermaster/user');
 });
 
-// asro bandung controller
+// asro bandung controller & master data
 
 Route::get('user','UserController@index');
 Route::get('user','UserController@show');
 
+Route::get('/datamhs', function()
+{
+    return view ('usermaster/datamhs');
+});
 
 
 
