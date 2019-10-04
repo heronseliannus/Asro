@@ -19,4 +19,11 @@ class RegisterController extends Controller
 
         return view('usermaster/datamhs',['registers' => $registers]);
     }
+
+    public function edit($id)
+    {
+        $registers = DB::table('register')->get($id);
+
+        return view('usermaster/galery',['registers'=>$registers]);
+    }
 }

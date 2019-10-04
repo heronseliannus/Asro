@@ -43,6 +43,9 @@ Route::get('user','UserController@show');
 Route::get('datamhs','RegisterController@index');
 Route::get('datamhs','RegisterController@show');
 
+//coba halaman edit data
+Route::get('datamhs/{$id}/galery','RegisterController@edit');
+
 
 
 
