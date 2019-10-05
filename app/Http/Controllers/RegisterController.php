@@ -15,7 +15,6 @@ class RegisterController extends Controller
     public function show()
     {
         $registers = DB::table('register')->get();
-        // dd($registers);
 
         return view('usermaster/datamhs',['registers' => $registers]);
     }
