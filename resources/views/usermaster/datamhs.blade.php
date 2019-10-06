@@ -23,7 +23,7 @@
             <th scope="col-sm-12">Kota</th>
             <th scope="col-sm-12">Perguruan Tinggi</th>
             <th scope="col-sm-12">Jurusan</th>
-            
+            <th scope="col-sm-12">Kelola Data</th>            
         </tr>
     </thead>
     <tbody>
