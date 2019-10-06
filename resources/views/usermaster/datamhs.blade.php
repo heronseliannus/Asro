@@ -10,6 +10,7 @@
 <div class="container">
 <div class="row">
     <table class="table">
+    
     <thead>
         <tr class="bg-warning">
             <th scope="col-sm-12">Id</th>
@@ -37,9 +38,19 @@
             <td> {{$register->kabupaten}} </td>
             <td> {{$register->kota}} </td>
             <td> {{$register->perguruan_tinggi}} </td>
-            <td> {{$register->jurusan}} </td>
-    @endforeach
+            <td> {{$register->jurusan}} </td>    
+            <td>
+                <form action ="#" metohod="#">
+                <input type="hidden" name="_method" value="Post">
+                <button type="submit" class="btn btn-success">Ubah</button>
+                </form>
+                <form action="#" method="#">
+                <input type="hidden" class="_method" value="PUT">
+                <button type="submit" class="btn btn-warning">Hapus</button>
+                </form>
+            </td>
         </tr>
+    @endforeach
     </tbody>
     </table>
 </div>
