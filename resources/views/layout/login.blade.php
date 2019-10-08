@@ -121,7 +121,7 @@
                 <div class="col-xs-12 col-sm-4">
                     <div class="single-blog">
                         <div class="blog-photo">
-                            <img src="#" alt="">
+                            <img src="images/kotak.png" alt="">
                         </div>
                         <div class="blog-content text-center">
                             <h3><a href="#">Grafik Indeks 2018-2019</a></h3>
@@ -138,7 +138,7 @@
                 <div class="col-xs-12 col-sm-4">
                     <div class="single-blog">
                         <div class="blog-photo">
-                            <img src="#" alt="">
+                            <img src="images/grafik1.png" alt="">
                         </div>
                         <div class="blog-content text-center">
                             <h3><a href="#">Index Grafik 2018-2019</a></h3>
@@ -155,7 +155,7 @@
                 <div class="col-xs-12 col-sm-4">
                     <div class="single-blog">
                         <div class="blog-photo">
-                            <img src="#" alt="">
+                            <img src="images/bulat4.png" alt="">
                         </div>
                         <div class="blog-content text-center">
                             <h3><a href="#">Indek Grafik 2018-2019</a></h3>
