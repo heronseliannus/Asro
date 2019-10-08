@@ -10,7 +10,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="csrf-token" content="{{ csrf_token() }}">
     <!-- Title -->
-    <title>Menu Utama @yield('title')</title>
+    <title>Menu Utama Login @yield('title')</title>
     <!-- Place favicon.ico in the root directory -->
     <link rel="logo-asro.jpg" href="images/logo-asro.jpg">
     <link rel="shortcut icon" type="image/logo.jpg" href="images/logo-asro.jpg" />

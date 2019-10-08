@@ -243,7 +243,7 @@
                                                data diri mereka disini
                                             </p>
                                         </div>
-                                        <div class="caption-button" data-animation="animated fadeInUp">
+                                        <di-v class="caption-button" data-animation="animated fadeInUp">
                                             <a href="pengurus2019" class="button">Lihat Profile</a>
                                         </div>
                                     </div>

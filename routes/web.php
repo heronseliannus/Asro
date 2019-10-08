@@ -46,9 +46,9 @@ Route::get('datamhs','RegisterController@show');
 //coba halaman edit data
 Route::get('datamhs/{$id}/galery','RegisterController@edit');
 
-Route::get('dasboard', function()
+Route::get('login', function()
 {
-    return view('layout/dasboard');
+    return view('layout/login');
 });
 
 
@@ -57,11 +57,6 @@ Route::get('dasboard', function()
 
 
 // login User
-
-Route::get('/login', function()
-{
-    return view('usermaster/login');
-});
 
 Route::get('/galery', function()
 {
