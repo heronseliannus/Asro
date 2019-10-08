@@ -115,6 +115,63 @@
         </div>
     </header>
 <!-- header area -->
+<section class="section-padding gray-bg" id="">
+    <div class="container">
+        <div class="row">
+                <div class="col-xs-12 col-sm-4">
+                    <div class="single-blog">
+                        <div class="blog-photo">
+                            <img src="#" alt="">
+                        </div>
+                        <div class="blog-content text-center">
+                            <h3><a href="#">Grafik Indeks 2018-2019</a></h3>
+                            <ul class="blog-meta">
+                                <li><span class="ti-user"></span> <a href="#">Pontianak</a></li>
+                                <li><span class="ti-calendar"></span> <a href="#">Oktober 10, 2018</a></li>
+                            </ul>
+                            <p>Ketua Asrama Rahadi Osman Bandung periode 2018-2019, Berasal dari Pontianak, mengeyam pendidikan s1 di Universitas Pendidikan Indonesia
+                               Jurusan Pendidikan Olahraga.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-4">
+                    <div class="single-blog">
+                        <div class="blog-photo">
+                            <img src="#" alt="">
+                        </div>
+                        <div class="blog-content text-center">
+                            <h3><a href="#">Index Grafik 2018-2019</a></h3>
+                            <ul class="blog-meta">
+                                <li><span class="ti-user"></span> <a href="#">Pontianak</a></li>
+                                <li><span class="ti-calendar"></span> <a href="#">Oktober 10, 2018</a></li>
+                            </ul>
+                            <p>Ketua Asrama Rahadi Osman Bandung periode 2018-2019, Berasal dari Pontianak, mengeyam pendidikan s1 di Universitas Pendidikan Indonesia
+                               Jurusan Pendidikan Olahraga.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-4">
+                    <div class="single-blog">
+                        <div class="blog-photo">
+                            <img src="#" alt="">
+                        </div>
+                        <div class="blog-content text-center">
+                            <h3><a href="#">Indek Grafik 2018-2019</a></h3>
+                            <ul class="blog-meta">
+                                <li><span class="ti-user"></span> <a href="#">Pontianak</a></li>
+                                <li><span class="ti-calendar"></span> <a href="#">Oktober 10, 2018</a></li>
+                            </ul>
+                            <p>Ketua Asrama Rahadi Osman Bandung periode 2018-2019, Berasal dari Pontianak, mengeyam pendidikan s1 di Universitas Pendidikan Indonesia
+                               Jurusan Pendidikan Olahraga.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+        </div>
+    </div>
+</section>
 
     <footer class="footer-area relative sky-bg" id="contact-page">
         <div class="footer-bottom">
