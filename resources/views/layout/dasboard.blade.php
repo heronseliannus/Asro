@@ -71,8 +71,52 @@
         </div>
     </div>
     <!--Mainmenu-area/-->
+
+<!-- header area -->
+    <header class="header-area overlay full-height relative v-center" id="home-page">
+        <div class="absolute anlge-bg"></div>
+        <div class="container">
+            <div class="row v-center">
+                <div class="col-xs-12 col-md-7 header-text">
+                    <h2>Login Pengembang</h2>
+                    <p>Kembangkan kembali sistem yang kopetible dalam media teknologi yang modern</p>
+                    <a href="sejarah" class="button white">Logi</a>
+                </div>
+                <div class="hidden-xs hidden-sm col-md-4 text-right">
+                    <div class="screen-box screen-slider">
+                        <div class="item">
+                            <img src="images/Berita/Konten1.png" alt="">
+                        </div>
+                        <div class="item">
+                            <img src="images/Berita/Konten2.png" alt="">
+                        </div>
+                        <div class="item">
+                            <img src="images/Berita/Heron.png" alt="">
+                        </div>
+                    </div>
+                </div>
+                <div calass="row">
+                    <div class="container">
+                        <div calass="col-xs-12 col-sm-12">
+                            <div class="box">
+                                <form action="#" class="#" name="" id="">
+                                    <input type="text" id="form-username" class="form-control" placeholder="input User Name">
+                                    <input type="password" id="form-password" class="form-control" placeholder="Password">
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+<!-- header area -->
+
+
+<!-- content are -->
+
 @yield('content')
-     <!-- <section class="section-padding gray-bg" id="blog-page">
+     <section class="section-padding gray-bg" id="blog-page">
         <div class="container">
             <div class="row">
                 <div class="col-xs-12 col-sm-4">
@@ -122,7 +166,7 @@
                 </div>
             </div>
         </div>
-    </section> -->
+    </section>
 
 
 
@@ -130,61 +174,6 @@
 
     <footer class="footer-area relative sky-bg" id="contact-page">
         <div class="absolute footer-bg"></div>
-        <div class="footer-top">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xs-12 col-sm-8 col-sm-offset-2 text-center">
-                        <div class="page-title">
-                            <h2>Hubungi Kami Melalui</h2>
-                            <p>Akses informasi yang semakin luas membawa kami hingga tahap ini, Asrama Putra Kalimantan Barat di Bandung membuka akses untuk kalian 
-                              yang mencari informasi lebih lengkap, Kami juga membagi informasi melalui media sosial lainya, Ikuti juga akun media sosial kami, </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-xs-12 col-md-4">
-                        <address class="side-icon-boxes">
-                            <div class="side-icon-box">
-                                <div class="side-icon">
-                                    <img src="images/Ikon/location-arrow.png" alt="">
-                                </div>
-                                <p><strong>Alamat: </strong>Jl. Gegerkalong Hilir Jl. Picung No. 107 Kota Bandung, Jawa Barat<br />Indonesia</p>
-                            </div>
-                            <div class="side-icon-box">
-                                <div class="side-icon">
-                                    <img src="images/Ikon/phone-arrow.png" alt="">
-                                </div>
-                                <p><strong>Telephone: </strong>
-                                    <a href="callto:8801812726495">082-214-667-037</a> <br />
-                                    <a href="callto:8801687420471">(022) 2017204</a>
-                                </p>
-                            </div>
-                            <div class="side-icon-box">
-                                <div class="side-icon">
-                                    <img src="images/Ikon/mail-arrow.png" alt="">
-                                </div>
-                                <p><strong>E-mail: </strong>
-                                    <a href="mailto:youremail@example.com">asro.kalbar.bandung@gmail.com</a> <br />
-                                    <a href="mailto:youremail@example.com">heronselianus1795@gmail.com</a>
-                                </p>
-                            </div>
-                        </address>
-                    </div>
-                    <div class="col-xs-12 col-md-8">
-                        <form action="/testing" id="contact-us-form" method="post" class="contact-form">
-                            @csrf
-                            <div class="form-double">
-                                <input type="text" id="form-contact-name" name="form-name" placeholder="Your name" class="form-control" required="required">
-                                <input type="email" id="form-email" name="form-email" class="form-control" placeholder="E-mail address" required="required">
-                            </div>
-                            <input type="text" id="form-subject" name="form-subject" class="form-control" placeholder="Message topic">
-                            <textarea name="message" id="form-message" name="form-message" rows="5" class="form-control" placeholder="Your message" required="required"></textarea>
-                            <button type="submit" class="button">Submit</button>
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </div>
         <div class="footer-middle">
             <div class="container">
                 <div class="row">

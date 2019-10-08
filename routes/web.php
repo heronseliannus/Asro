@@ -46,6 +46,11 @@ Route::get('datamhs','RegisterController@show');
 //coba halaman edit data
 Route::get('datamhs/{$id}/galery','RegisterController@edit');
 
+Route::get('dasboard', function()
+{
+    return view('layout/dasboard');
+});
+
 
 
 
