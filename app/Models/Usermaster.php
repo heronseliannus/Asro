@@ -4,7 +4,7 @@ namespace App;
 
 use Illuminate\Database\Eloquent\Model;
 
-class Admin extends Model
+class Usermaster extends Model
 {
-    protected $asrobdg = 'admin';
+    protected $asrobdg='user';
 }

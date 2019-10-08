@@ -16,7 +16,7 @@ class UserController extends Controller
     public function show()
     {
         $users = DB::table('user')->get();
-        dd($admins);
+        
         return view('usermaster/user', ['users' => $users]);  
     }
 }
