@@ -74,13 +74,29 @@
 
 <!-- header area -->
     <header class="header-area overlay full-height relative v-center" id="home-page">
-        <div class="absolute anlge-bg"></div>
         <div class="container">
             <div class="row v-center">
                 <div class="col-xs-12 col-md-7 header-text">
-                    <h2>Login Pengembang</h2>
-                    <p>Kembangkan kembali sistem yang kopetible dalam media teknologi yang modern</p>
-                    <a href="sejarah" class="button white">Logi</a>
+                <div class="box">
+                    <h2>Login</h2>
+                    <div calass="col-xs-12 col-sm-2">
+                        <form action="#" class="#" name="" id="">
+                            <div class="form-group">
+                                <label class="col-sm-2 control-label"> Username </label>
+                                <div class="col-sm-10">
+                                    <input type="text" class="form-control" placeholder="input User Name">
+                                </div>
+                                <label class="col-sm-2"> Password </label>
+                                <div class="col-sm-10">
+                                    <input type="password" class="form-control" placeholder="Password">
+                                </div>
+                            </div>
+                        </form>
+                        <a href="#" class="button red">Login</a>
+                        <a href="#" class="button white">Kembali</a>
+                        <a href="#" class="button white">Hapus</a>
+                    </div>
+                </div>
                 </div>
                 <div class="hidden-xs hidden-sm col-md-4 text-right">
                     <div class="screen-box screen-slider">
@@ -95,107 +111,12 @@
                         </div>
                     </div>
                 </div>
-                <div calass="row">
-                    <div class="container">
-                        <div calass="col-xs-12 col-sm-12">
-                            <div class="box">
-                                <form action="#" class="#" name="" id="">
-                                    <input type="text" id="form-username" class="form-control" placeholder="input User Name">
-                                    <input type="password" id="form-password" class="form-control" placeholder="Password">
-                                </form>
-                            </div>
-                        </div>
-                    </div>
-                </div>
             </div>
         </div>
     </header>
 <!-- header area -->
 
-
-<!-- content are -->
-
-@yield('content')
-     <section class="section-padding gray-bg" id="blog-page">
-        <div class="container">
-            <div class="row">
-                <div class="col-xs-12 col-sm-4">
-                    <div class="single-blog">
-                        <div class="blog-photo">
-                            <img src="images/Bpa/wakil2018.jpg" alt="">
-                        </div>
-                        <div class="blog-content">
-                            <h3><a href="#">Kegiatan Tahunan Asro bandung 2016</a></h3>
-                            <ul class="blog-meta">
-                                <li><span class="ti-user"></span> <a href="#">Admin</a></li>
-                                <li><span class="ti-calendar"></span> <a href="#">Oktober 10, 2018</a></li>
-                            </ul>
-                            <p>anda dapat melihat berbagai kegiatan asro 2018 disini</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xs-12 col-sm-4">
-                    <div class="single-blog">
-                        <div class="blog-photo">
-                            <img src="images/Bpa/ketua2018.jpg" alt="">
-                        </div>
-                        <div class="blog-content">
-                            <h3><a href="#">Kegiatan Tahunan Asro bandung 2017</a></h3>
-                            <ul class="blog-meta">
-                                <li><span class="ti-user"></span> <a href="#">Admin</a></li>
-                                <li><span class="ti-calendar"></span> <a href="#">Oktober 10, 2018</a></li>
-                            </ul>
-                            <p>anda dapat melihat berbagai kegiatan asro 2018 disini</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xs-12 col-sm-4">
-                    <div class="single-blog">
-                        <div class="blog-photo">
-                            <img src="images/Bpa/sketaris2018.jpg" alt="">
-                        </div>
-                        <div class="blog-content">
-                            <h3><a href="#">Kegiatan Tahunan TAsro 2018</a></h3>
-                            <ul class="blog-meta">
-                                <li><span class="ti-user"></span> <a href="#">Admin</a></li>
-                                <li><span class="ti-calendar"></span> <a href="#">Oktober 10, 2018</a></li>
-                            </ul>
-                            <p>anda dapat melihat berbagai kegiatan asro 2018 disini</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-
-
-
-
     <footer class="footer-area relative sky-bg" id="contact-page">
-        <div class="absolute footer-bg"></div>
-        <div class="footer-middle">
-            <div class="container">
-                <div class="row">
-                <div class="col-xs-12 col-sm-8">
-                        <p>untuk info lebih lengkap dan dapat mengikuti beberapa akun media sosial kami
-                           atau dapat juga menghubungi kami sesuai dengan kontak yang tertera.
-                           suport kami membangun webside ini menjadi lebih baik lagi. trimakasih
-                        </p>
-                    </div>
-                    <div class="col-xs-12 col-sm-4 pull-right">
-                        <ul class="social-menu text-right x-left">
-                        <li ><a href=""> <img src="images/Ikon/telepon.png"></a></li>
-                            <li ><a href="https://mail.google.com/mail/u/1/#inbox"> <img src="images/Ikon/email.png"></a></li>
-                            <li ><a href=""> <img src="images/Ikon/fb.png"></a></li>
-                            <li ><a href="https://www.linkedin.com/in/heron-selianus-69650b180/"> <img src="images/Ikon/linkedin.png"></a></li>
-                            <li ><a href="https://www.instagram.com/asro_kalbar_bandung/"> <img src="images/Ikon/instagram.png"></a></li>
-                        </ul>
-                    </div>
-
-                </div>
-            </div>
-        </div>
         <div class="footer-bottom">
             <div class="container">
                 <div class="row">
