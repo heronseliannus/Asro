@@ -55,6 +55,11 @@ Route::get('login', function()
     return view('layout/login');
 });
 
+Route::get('dasboard', function()
+{
+    return view ('layout/dasboard');
+});
+
 
 
 
