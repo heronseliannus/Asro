@@ -11,7 +11,7 @@
                         <div class="box-icon">
                             <img src="images/Makrab/Makrab 1.jpg" alt="">
                         </div>
-                        <h4>Kelola data Mahasiswa</h4>
+                        <a href="#"><h4>Kelola data Mahasiswa</h4></a>
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-4">
@@ -19,7 +19,7 @@
                         <div class="box-icon">
                             <img src="images/Tari.jpg" alt="">
                         </div>
-                        <h4>Kelola data Users</h4>
+                        <a href="#"><h4>Kelola data Users</h4></a>
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-4">
