@@ -41,6 +41,7 @@ Route::get('user','UserController@index');
 Route::get('user','UserController@show');
 
 Route::get('datamhs','RegisterController@index');
+Route::get('datamhs','RegisterController@insert');
 Route::get('datamhs','RegisterController@show');
 
 Route::get('admin', 'AdminController@index');
