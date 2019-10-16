@@ -12,7 +12,6 @@ class UserController extends Controller
     {
         return view('usermaster/user');
     }
-
     public function show()
     {
         $users = DB::table('user')->get();
