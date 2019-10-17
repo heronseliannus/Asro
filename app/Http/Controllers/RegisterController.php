@@ -33,12 +33,19 @@ class RegisterController extends Controller
         // DB::table('register')->where('namalengkap', 'insert10','13' )
         //                      ->update(['namalengkap'=>'insert15']);
 
+        // $registers = DB::table('register')
+        //                 ->select([
+        //                             ['id'=>''],
+        //                             ['namalengkap'=>'siapa saja'],
+        //                 ]);
+                       
         //delete
         // DB::table('register')->where('namalengkap', 'delete2')->delete();
         
         $registers = DB::table('register')->get();
      
         return view('usermaster/datamhs',['registers' => $registers]);
+        
         //insert data manually
         //update data manually where namalengkap
         //delete data where usernamen/namalengkap
