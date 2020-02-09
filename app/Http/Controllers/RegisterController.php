@@ -15,32 +15,32 @@ class RegisterController extends Controller
     }
     public function show()
     {
-        //insert
-        // DB::table('register')->insert([
-        //     ['namalengkap'=>'insert',
-        //     'alamat'  =>'Bandung, Indonesia',
-        //     'jenis_kelamin' => 'Perempuan',
-        //     'email'  => 'isnert1@gmail.com',
-        //     're_email' => 'isert1@gamil.com',
-        //     'kabupaten' => 'Kab. Bandung',
-        //     'kota' =>'Bandung',
-        //     'perguruan_tinggi' =>'PPG Bandung',
-        //     'jurusan'=>'Teknik Elektro'
-        //     ]
-        // ]);
+        insert
+        DB::table('register')->insert([
+            ['namalengkap'=>'insert',
+            'alamat'  =>'Bandung, Indonesia',
+            'jenis_kelamin' => 'Perempuan',
+            'email'  => 'isnert1@gmail.com',
+            're_email' => 'isert1@gamil.com',
+            'kabupaten' => 'Kab. Bandung',
+            'kota' =>'Bandung',
+            'perguruan_tinggi' =>'PPG Bandung',
+            'jurusan'=>'Teknik Elektro'
+            ]
+        ]);
 
-        //update
-        // DB::table('register')->where('namalengkap', 'insert10','13' )
-        //                      ->update(['namalengkap'=>'insert15']);
+        update
+        DB::table('register')->where('namalengkap', 'insert10','13' )
+                             ->update(['namalengkap'=>'insert15']);
 
-        // $registers = DB::table('register')
-        //                 ->select([
-        //                             ['id'=>''],
-        //                             ['namalengkap'=>'siapa saja'],
-        //                 ]);
+        $registers = DB::table('register')
+                        ->select([
+                                    ['id'=>''],
+                                    ['namalengkap'=>'siapa saja'],
+                        ]);
                        
-        //delete
-        // DB::table('register')->where('namalengkap', 'delete2')->delete();
+        delete
+        DB::table('register')->where('namalengkap', 'delete2')->delete();
         
         $registers = DB::table('register')->get();
      
